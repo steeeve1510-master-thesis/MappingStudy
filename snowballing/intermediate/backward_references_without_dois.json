@@ -1,0 +1,2446 @@
+[
+    {
+        "key": "e_1_3_2_1_3_1",
+        "volume-title": "Proceedings of the 46th ACM Technical Symposium on Computer Science Education (SIGCSE '15)",
+        "author": "Buffardi Kevin"
+    },
+    {
+        "key": "e_1_3_2_1_5_1",
+        "volume-title": "2014 IEEE Frontiers in Education Conference (FIE) Proceedings. 1--8.",
+        "author": "de Souza D. M."
+    },
+    {
+        "key": "e_1_3_2_1_7_1",
+        "volume-title": "Companion of the 18th Annual ACM SIGPLAN Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA '03)",
+        "author": "Edwards Stephen H."
+    },
+    {
+        "key": "e_1_3_2_1_12_1",
+        "volume-title": "A grammar for inquiry: linking goals and methods in a collaboratively taught social sciences inquiry course. Alan Blizzard Award",
+        "author": "Justice Christopher",
+        "year": "2002"
+    },
+    {
+        "key": "e_1_3_2_1_22_1",
+        "volume-title": "A Meta-Analysis of Student Outcomes Attributable to the Teaching of Science as Inquiry as Compared to Traditional Methodology",
+        "author": "Smith Deborah A."
+    },
+    {
+        "key": "e_1_3_2_1_24_1",
+        "first-page": "1",
+        "article-title": "How Effective is Inquiry-Based Learning in Linking Teaching and Research",
+        "volume": "7",
+        "author": "Spronken-Smith Rachel",
+        "year": "2007",
+        "journal-title": "An International Colloquium on International Policies and Practices for Academic Enquiry"
+    },
+    {
+        "key": "e_1_3_2_1_25_1",
+        "volume-title": "Vygotskij and Michael Cole",
+        "author": "Lev",
+        "year": "1981"
+    },
+    {
+        "key": "e_1_3_2_1_26_1",
+        "first-page": "6",
+        "article-title": "Assessing Student Learning in Software Engineering",
+        "volume": "23",
+        "author": "Wang Taehyung",
+        "year": "2008",
+        "journal-title": "J. Comput. Sci. Coll."
+    },
+    {
+        "key": "e_1_3_2_1_28_1",
+        "first-page": "320",
+        "article-title": "Preparing Resource and Environmental Managers with International Understanding and Merits (PREMIUM): Introducing a research experience for undergraduates program",
+        "volume": "104",
+        "author": "Yin R.",
+        "year": "2006",
+        "journal-title": "Journal of Forestry"
+    },
+    {
+        "key": "e_1_3_2_1_2_1",
+        "first-page": "1",
+        "article-title": "Novice Java Programming Mistakes: Large-Scale Data vs",
+        "volume": "17",
+        "author": "Brown N. C. C.",
+        "journal-title": "Educator Beliefs. ACM Transactions on Computing Education"
+    },
+    {
+        "key": "e_1_3_2_1_4_1",
+        "volume-title": "PIT Mutation Testing. [Online",
+        "author": "Coles H.",
+        "year": "2020"
+    },
+    {
+        "key": "e_1_3_2_1_8_1",
+        "volume-title": "JaCoCo Java Code Coverage Library. [Online",
+        "author": "Hoffmann M. R.",
+        "year": "2020"
+    },
+    {
+        "key": "e_1_3_2_1_11_1",
+        "volume-title": "The Major Mutation Framework. [Online",
+        "author": "Just R.",
+        "year": "2020"
+    },
+    {
+        "key": "e_1_3_2_1_14_1",
+        "first-page": "284",
+        "volume-title": "Proceedings of the 49th ACM Technical Symposium on Computer Science Education - SIGCSE '18",
+        "author": "Krusche S.",
+        "year": "2018"
+    },
+    {
+        "key": "e_1_3_2_1_22_1",
+        "first-page": "23",
+        "volume-title": "Proceedings of 2015 IEEE International Conference on Teaching, Assessment and Learning for Engineering, TALE 2015 (jan",
+        "author": "Staubitz T.",
+        "year": "2016"
+    },
+    {
+        "key": "10.1016/j.jss.2019.110430_bib0002",
+        "series-title": "The 28th International Conference on Software Engineering and Knowledge Engineering, SEKE 2016, Redwood City, San Francisco Bay, USA, July 1\u20133, 2016.",
+        "first-page": "420",
+        "article-title": "Capture & replay with text-based reuse and framework agnosticism",
+        "author": "Arruda",
+        "year": "2016"
+    },
+    {
+        "key": "10.1016/j.jss.2019.110430_bib0003",
+        "series-title": "Modern Information Retrieval",
+        "author": "Baeza-Yates",
+        "year": "1999"
+    },
+    {
+        "key": "10.1016/j.jss.2019.110430_bib0004",
+        "series-title": "From a Timebox Tangle to a More Flexible Flow",
+        "first-page": "325",
+        "author": "Birkeland",
+        "year": "2010"
+    },
+    {
+        "key": "10.1016/j.jss.2019.110430_bib0005",
+        "unstructured": "Bugzilla. http://www.bugzilla.org/. (accessed Dec 01,2016)."
+    },
+    {
+        "key": "10.1016/j.jss.2019.110430_bib0007",
+        "series-title": "Proceedings of the 2015 International Symposium on Software Testing and Analysis",
+        "first-page": "211",
+        "article-title": "Practical regression test selection with dynamic file dependencies",
+        "author": "Gligoric",
+        "year": "2015"
+    },
+    {
+        "key": "10.1016/j.jss.2019.110430_bib0009",
+        "series-title": "14th Symposium on Programming Languages and Software Tools, SPLST 2015",
+        "article-title": "Test suite evaluation using code coverage based metrics",
+        "author": "Horv\u00e1th",
+        "year": "2015"
+    },
+    {
+        "key": "10.1016/j.jss.2019.110430_bib0010",
+        "series-title": "Proceedings of the Sixth ACM Workshop on Virtual Machines and Intermediate Languages",
+        "first-page": "33",
+        "article-title": "The JVM is not observable enough (and what to do about it)",
+        "author": "Kell",
+        "year": "2012"
+    },
+    {
+        "key": "10.1016/j.jss.2019.110430_bib0011",
+        "series-title": "Proceedings of the Sixth ACM Workshop on Virtual Machines and Intermediate Languages",
+        "first-page": "33",
+        "article-title": "The JVM is not observable enough (and what to do about it)",
+        "author": "Kell",
+        "year": "2012"
+    },
+    {
+        "key": "10.1016/j.jss.2019.110430_bib0012",
+        "series-title": "2014 21st Asia-Pacific Software Engineering Conference",
+        "first-page": "19",
+        "article-title": "Test case prioritization based on information retrieval concepts",
+        "volume": "Vol. 1",
+        "author": "Kwon",
+        "year": "2014"
+    },
+    {
+        "key": "10.1016/j.jss.2019.110430_bib0014",
+        "series-title": "Proceedings of the 1st Brazilian Symposium on Systematic and Automated Software Testing (SAST), Maring\u00e1, Brasil",
+        "first-page": "1",
+        "article-title": "Automatic selection of test cases for regression testing",
+        "author": "Magalh\u00e3es",
+        "year": "2016"
+    },
+    {
+        "key": "10.1016/j.jss.2019.110430_bib0016",
+        "series-title": "Introduction to Information Retrieval",
+        "author": "Manning",
+        "year": "2008"
+    },
+    {
+        "key": "10.1016/j.jss.2019.110430_bib0017",
+        "unstructured": "Mantis. Mantis bug tracker. http://www.mantisbt.org/. (accessed Dec 01, 2016)."
+    },
+    {
+        "key": "10.1016/j.jss.2019.110430_bib0019",
+        "series-title": "Proceedings of the 22Nd ACM SIGSOFT International Symposium on Foundations of Software Engineering",
+        "first-page": "484",
+        "article-title": "Automatic generation of release notes",
+        "author": "Moreno",
+        "year": "2014"
+    },
+    {
+        "key": "10.1016/j.jss.2019.110430_bib0021",
+        "series-title": "2011 IEEE International Conference on Web Services",
+        "first-page": "636",
+        "article-title": "Test case prioritization for audit testing of evolving web services using information retrieval techniques",
+        "author": "Nguyen",
+        "year": "2011"
+    },
+    {
+        "key": "10.1016/j.jss.2019.110430_bib0022",
+        "series-title": "Proceedings of the 13th International Conference on Principles and Practices of Programming on the Java Platform: Virtual Machines, Languages, and Tools",
+        "first-page": "5:1",
+        "article-title": "Extraction-based regression test selection",
+        "author": "\u00d6qvist",
+        "year": "2016"
+    },
+    {
+        "key": "10.1016/j.jss.2019.110430_bib0023",
+        "unstructured": "Redmine. Flexible project management web application. http://www.redmine.org/. (accessed Dec 01, 2016)."
+    },
+    {
+        "key": "10.1016/j.jss.2019.110430_bib0025",
+        "series-title": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+        "first-page": "268",
+        "article-title": "An information retrieval approach for regression test prioritization based on program changes",
+        "volume": "Vol. 1",
+        "author": "Saha",
+        "year": "2015"
+    },
+    {
+        "key": "10.1016/j.jss.2019.110430_bib0026",
+        "series-title": "Proceedings of the 11th International Workshop on Automation of Software Test",
+        "first-page": "29",
+        "article-title": "The impact of fault type on the relationship between code coverage and fault detection",
+        "author": "Schwartz",
+        "year": "2016"
+    },
+    {
+        "key": "10.1016/j.jss.2019.110430_bib0027",
+        "series-title": "Software Testing Foundations: A Study Guide for the Certified Tester Exam",
+        "author": "Spillner",
+        "year": "2014"
+    },
+    {
+        "key": "e_1_2_10_3_1",
+        "volume-title": "Software Engineering: A Practitioner's Approach",
+        "author": "Pressman R",
+        "year": "2010"
+    },
+    {
+        "issue": "99",
+        "key": "e_1_2_10_10_1",
+        "first-page": "1",
+        "article-title": "Code coverage and postrelease defects: a large\u2010scale study on open source projects",
+        "author": "Kochhar PS",
+        "year": "2017",
+        "journal-title": "IEEE Transactions on Reliability"
+    },
+    {
+        "key": "e_1_2_10_17_1",
+        "unstructured": "JustR JalaliD InozemtsevaL ErnstMD HolmesR FraserG.Are mutants a valid substitute for real faults in software testing?InProceedings of the 22nd ACM Sigsoft International Symposium on Foundations of Software Engineering FSE 2014 ACM:New York NY USA 2014;654\u2013665.http://doi.acm.org/10.1145/2635868.2635929"
+    },
+    {
+        "key": "e_1_2_10_20_1",
+        "volume-title": "Continuous delivery: reliable software releases through build, test, and deployment automation",
+        "author": "Humble J",
+        "year": "2010"
+    },
+    {
+        "key": "e_1_2_10_26_1",
+        "unstructured": "Preston\u2010WernerT.Semantic versioning 2.0.0."
+    },
+    {
+        "key": "e_1_2_10_27_1",
+        "volume-title": "Architectural styles and the design of network\u2010based software architectures",
+        "author": "Fielding RT",
+        "year": "2000"
+    },
+    {
+        "key": "e_1_2_10_29_1",
+        "volume-title": "Software engineering",
+        "author": "Sommerville I",
+        "year": "2010"
+    },
+    {
+        "key": "e_1_2_10_32_1",
+        "volume-title": "Gitlab quick start guide",
+        "author": "O'Grady A",
+        "year": "2018"
+    },
+    {
+        "key": "e_1_2_10_33_1",
+        "unstructured": "AndradeLR.Roc\u2010project\u2010analyser.https://github.com/Lurian/ROC-Project-Analyzer accessed 28\u2010March\u20102019."
+    },
+    {
+        "key": "e_1_2_10_35_1",
+        "unstructured": "TeamTB.Bugzilla homepage.https://www.bugzilla.org/ accessed 28\u2010March\u20102019."
+    },
+    {
+        "key": "e_1_2_10_36_1",
+        "unstructured": "MarquesA.python\u2010bugzilla\u2010report\u2010api.https://github.com/marquesarthur/python-bugzilla-report-api accessed 28\u2010March\u20102019."
+    },
+    {
+        "key": "e_1_2_10_37_1",
+        "unstructured": "BienA.Java EE 7 and JAX\u2010RS 2.0 2013.http://www.oracle.com/technetwork/articles/java/jaxrs20-1929352.ht%ml"
+    },
+    {
+        "key": "e_1_2_10_38_1",
+        "unstructured": "SmithN vanBruggenD TomassettiF.JavaParser: visited.https://javaparser.org/ accessed 28\u2010March\u20102019."
+    },
+    {
+        "key": "e_1_2_10_39_1",
+        "unstructured": "B.V.E.What is the ELK stack?https://www.elastic.co/elk-stack accessed 28\u2010March\u20102019."
+    },
+    {
+        "key": "e_1_2_10_40_1",
+        "volume-title": "Learning ELK Stack",
+        "author": "Chhajed S",
+        "year": "2015"
+    },
+    {
+        "key": "e_1_2_10_41_1",
+        "unstructured": "GousiosG.java\u2010callgraph.https://github.com/gousiosg/java-callgraph accessed 28\u2010March\u20102019."
+    },
+    {
+        "key": "e_1_2_10_42_1",
+        "volume-title": "Apache Maven Cookbook",
+        "author": "Bharathan R",
+        "year": "2015"
+    },
+    {
+        "key": "e_1_2_10_43_1",
+        "unstructured": "KGMountainmindsGmbH&Co Contributors.JaCoCo Java code coverage library.http://eclemma.org/jacoco/ accessed 28\u2010March\u20102019."
+    },
+    {
+        "key": "e_1_2_10_44_1",
+        "unstructured": "HopkinsWG.A new view of statistics.http://sportsci.org/resource/stats/"
+    },
+    {
+        "key": "e_1_3_2_2_1_1",
+        "unstructured": "2016. Using Deep Learning to Predict Steering Angles. https://github.com/udacity/ self-driving-car  2016. Using Deep Learning to Predict Steering Angles. https://github.com/udacity/ self-driving-car"
+    },
+    {
+        "key": "e_1_3_2_2_3_1",
+        "volume-title": "3rd International Conference on Learning Representations, ICLR",
+        "author": "Bahdanau Dzmitry",
+        "year": "2015"
+    },
+    {
+        "key": "e_1_3_2_2_4_1",
+        "unstructured": "Shane Barratt. 2018 (accessed August 8 2019 ). Inception Score for GANs in Pytorch. https://github.com/sbarratt/inception-score-pytorch  Shane Barratt. 2018 (accessed August 8 2019 ). Inception Score for GANs in Pytorch. https://github.com/sbarratt/inception-score-pytorch"
+    },
+    {
+        "key": "e_1_3_2_2_5_1",
+        "unstructured": "Mariusz Bojarski Davide Del Testa Daniel Dworakowski Bernhard Firner Beat Flepp Prasoon Goyal Lawrence D. Jackel Mathew Monfort Urs Muller Jiakai Zhang Xin Zhang Jake Zhao and Karol Zieba. 2016. End to End Learning for Self-Driving Cars. CoRR abs/1604.07316 ( 2016 ). arXiv: 1604.07316 http://arxiv.org/abs/1604.07316  Mariusz Bojarski Davide Del Testa Daniel Dworakowski Bernhard Firner Beat Flepp Prasoon Goyal Lawrence D. Jackel Mathew Monfort Urs Muller Jiakai Zhang Xin Zhang Jake Zhao and Karol Zieba. 2016. End to End Learning for Self-Driving Cars. CoRR abs/1604.07316 ( 2016 ). arXiv: 1604.07316 http://arxiv.org/abs/1604.07316"
+    },
+    {
+        "key": "e_1_3_2_2_7_1",
+        "unstructured": "T. Brown B. Mann Nick Ryder Melanie Subbiah J. Kaplan P. Dhariwal Arvind Neelakantan Pranav Shyam Girish Sastry Amanda Askell Sandhini Agarwal Ariel Herbert-Voss G. Kr\u00fcger Tom Henighan R. Child Aditya Ramesh D. Ziegler Jefrey Wu Clemens Winter Christopher Hesse Mark Chen E. Sigler Mateusz Litwin Scott Gray Benjamin Chess J. Clark Christopher Berner Sam McCandlish A. Radford Ilya Sutskever and Dario Amodei. 2020. Language Models are Few-Shot Learners. ArXiv abs/ 2005.14165 ( 2020 ).  T. Brown B. Mann Nick Ryder Melanie Subbiah J. Kaplan P. Dhariwal Arvind Neelakantan Pranav Shyam Girish Sastry Amanda Askell Sandhini Agarwal Ariel Herbert-Voss G. Kr\u00fcger Tom Henighan R. Child Aditya Ramesh D. Ziegler Jefrey Wu Clemens Winter Christopher Hesse Mark Chen E. Sigler Mateusz Litwin Scott Gray Benjamin Chess J. Clark Christopher Berner Sam McCandlish A. Radford Ilya Sutskever and Dario Amodei. 2020. Language Models are Few-Shot Learners. ArXiv abs/ 2005.14165 ( 2020 )."
+    },
+    {
+        "key": "e_1_3_2_2_8_1",
+        "volume-title": "Towards Evaluating the Robustness of Neural Networks. 2017 IEEE Symposium on Security and Privacy (SP) ( 2016 ), 39-57",
+        "author": "Carlini Nicholas"
+    },
+    {
+        "key": "e_1_3_2_2_9_1",
+        "unstructured": "Alexandra Chouldechova and Aaron Roth. 2018. The frontiers of fairness in machine learning. arXiv preprint arXiv:1810. 08810 ( 2018 ).  Alexandra Chouldechova and Aaron Roth. 2018. The frontiers of fairness in machine learning. arXiv preprint arXiv:1810. 08810 ( 2018 )."
+    },
+    {
+        "key": "e_1_3_2_2_11_1",
+        "unstructured": "Yizhen Dong Peixin Zhang Jingyi Wang Shuang Liu Jun Sun Jianye Hao Xinyu Wang Li Wang Jin Song Dong and Dai Ting. 2019. There is Limited Correlation between Coverage and Robustness for Deep Neural Networks. arXiv preprint arXiv: 1911. 05904 ( 2019 ).  Yizhen Dong Peixin Zhang Jingyi Wang Shuang Liu Jun Sun Jianye Hao Xinyu Wang Li Wang Jin Song Dong and Dai Ting. 2019. There is Limited Correlation between Coverage and Robustness for Deep Neural Networks. arXiv preprint arXiv: 1911. 05904 ( 2019 )."
+    },
+    {
+        "key": "e_1_3_2_2_14_1",
+        "unstructured": "Ian J Goodfellow Jonathon Shlens and Christian Szegedy. 2014. Explaining and harnessing adversarial examples. In ICLR.  Ian J Goodfellow Jonathon Shlens and Christian Szegedy. 2014. Explaining and harnessing adversarial examples. In ICLR."
+    },
+    {
+        "key": "e_1_3_2_2_15_1",
+        "unstructured": "Kelly J Hayhurst. 2001. A practical tutorial on modified condition/decision coverage. DIANE Publishing.  Kelly J Hayhurst. 2001. A practical tutorial on modified condition/decision coverage. DIANE Publishing."
+    },
+    {
+        "key": "e_1_3_2_2_16_1",
+        "volume-title": "Deep Residual Learning for Image Recognition. 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR) ( 2015 ), 770-778",
+        "author": "He Kaiming",
+        "year": "2015"
+    },
+    {
+        "key": "e_1_3_2_2_17_1",
+        "unstructured": "Martin Heusel Hubert Ramsauer Thomas Unterthiner Bernhard Nessler and Sepp Hochreiter. 2017. GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium. In NIPS.  Martin Heusel Hubert Ramsauer Thomas Unterthiner Bernhard Nessler and Sepp Hochreiter. 2017. GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium. In NIPS."
+    },
+    {
+        "key": "e_1_3_2_2_19_1",
+        "volume-title": "Densely Connected Convolutional Networks. 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR) ( 2016 ), 2261-2269",
+        "author": "Huang Gao"
+    },
+    {
+        "key": "e_1_3_2_2_20_1",
+        "unstructured": "Yerlan Idelbayev. 2018 (accessed August 8 2019 ). Proper ResNet Implementation for CIFAR10/CIFAR100 in pytorch. https://github.com/akamaster/pytorch_resnet_cifar10  Yerlan Idelbayev. 2018 (accessed August 8 2019 ). Proper ResNet Implementation for CIFAR10/CIFAR100 in pytorch. https://github.com/akamaster/pytorch_resnet_cifar10"
+    },
+    {
+        "key": "e_1_3_2_2_21_1",
+        "unstructured": "Andrew Ilyas Shibani Santurkar Dimitris Tsipras Logan Engstrom Brandon Tran and Aleksander Madry. 2019. Adversarial Examples Are Not Bugs They Are Features. ArXiv abs/ 1905.02175 ( 2019 ).  Andrew Ilyas Shibani Santurkar Dimitris Tsipras Logan Engstrom Brandon Tran and Aleksander Madry. 2019. Adversarial Examples Are Not Bugs They Are Features. ArXiv abs/ 1905.02175 ( 2019 )."
+    },
+    {
+        "key": "e_1_3_2_2_23_1",
+        "unstructured": "ISO 26262-6:2011(en) 2011. Road vehicles-Functional safety-Part 6: Product development at the software level. Standard. International Organization for Standardization Geneva CH.  ISO 26262-6:2011(en) 2011. Road vehicles-Functional safety-Part 6: Product development at the software level. Standard. International Organization for Standardization Geneva CH."
+    },
+    {
+        "key": "e_1_3_2_2_25_1",
+        "volume-title": "Guiding Deep Learning System Testing Using Surprise Adequacy. 2019 IEEE/ACM 41st International Conference on Software Engineering (ICSE) ( 2019 ), 1039-1049",
+        "author": "Kim Jinhan",
+        "year": "2019"
+    },
+    {
+        "key": "e_1_3_2_2_26_1",
+        "unstructured": "Diederik P. Kingma and Jimmy Ba. 2014. Adam: A Method for Stochastic Optimization. CoRR abs/1412.6980 ( 2014 ).  Diederik P. Kingma and Jimmy Ba. 2014. Adam: A Method for Stochastic Optimization. CoRR abs/1412.6980 ( 2014 )."
+    },
+    {
+        "key": "e_1_3_2_2_27_1",
+        "unstructured": "Alex Krizhevsky Vinod Nair and Geofrey Hinton. [n.d.]. CIFAR-10 (Canadian Institute for Advanced Research). ([n. d.]). http://www.cs.toronto.edu/~kriz/cifar. html  Alex Krizhevsky Vinod Nair and Geofrey Hinton. [n.d.]. CIFAR-10 (Canadian Institute for Advanced Research). ([n. d.]). http://www.cs.toronto.edu/~kriz/cifar. html"
+    },
+    {
+        "key": "e_1_3_2_2_28_1",
+        "unstructured": "Alex Krizhevsky Ilya Sutskever and Geofrey E Hinton. 2012. Imagenet classification with deep convolutional neural networks. In Advances in neural information processing systems. 1097-1105.  Alex Krizhevsky Ilya Sutskever and Geofrey E Hinton. 2012. Imagenet classification with deep convolutional neural networks. In Advances in neural information processing systems. 1097-1105."
+    },
+    {
+        "key": "e_1_3_2_2_30_1",
+        "volume-title": "Artificial Intelligence Safety and Security",
+        "author": "Kurakin Alexey"
+    },
+    {
+        "key": "e_1_3_2_2_32_1",
+        "unstructured": "Yann LeCun and Corinna Cortes. 2010. MNIST handwritten digit database. http://yann.lecun.com/exdb/mnist/. ( 2010 ). http://yann.lecun.com/exdb/mnist/  Yann LeCun and Corinna Cortes. 2010. MNIST handwritten digit database. http://yann.lecun.com/exdb/mnist/. ( 2010 ). http://yann.lecun.com/exdb/mnist/"
+    },
+    {
+        "key": "e_1_3_2_2_38_1",
+        "unstructured": "Wei Ma Mike Papadakis Anestis Tsakmalis Maxime Cordy and Yves Le Traon. 2019. Test Selection for Deep Learning Systems. ArXiv abs/ 1904.13195 ( 2019 ).  Wei Ma Mike Papadakis Anestis Tsakmalis Maxime Cordy and Yves Le Traon. 2019. Test Selection for Deep Learning Systems. ArXiv abs/ 1904.13195 ( 2019 )."
+    },
+    {
+        "key": "e_1_3_2_2_39_1",
+        "volume-title": "International Conference on Learning Representations. https: //openreview.net/forum?id=rJzIBfZAb",
+        "author": "Madry Aleksander",
+        "year": "2018"
+    },
+    {
+        "key": "e_1_3_2_2_40_1",
+        "article-title": "Diferential testing for software",
+        "volume": "10",
+        "author": "McKeeman William M",
+        "year": "1998",
+        "journal-title": "Digital Technical Journal"
+    },
+    {
+        "key": "e_1_3_2_2_41_1",
+        "volume-title": "WhiteBox Target Attack for EEG-Based BCI Regression Problems. In International Conference on Neural Information Processing. Springer, 476-488",
+        "author": "Meng Lubin",
+        "year": "2019"
+    },
+    {
+        "key": "e_1_3_2_2_42_1",
+        "unstructured": "mseitzer. 2018 (accessed August 9 2019 ). Fr\u00e8chet Inception Distance (FID score) in PyTorch. https://github.com/mseitzer/pytorch-fid  mseitzer. 2018 (accessed August 9 2019 ). Fr\u00e8chet Inception Distance (FID score) in PyTorch. https://github.com/mseitzer/pytorch-fid"
+    },
+    {
+        "key": "e_1_3_2_2_43_1",
+        "unstructured": "Yuval Netzer T. Wang A. Coates Alessandro Bissacco B. Wu and A. Ng. 2011. Reading Digits in Natural Images with Unsupervised Feature Learning.  Yuval Netzer T. Wang A. Coates Alessandro Bissacco B. Wu and A. Ng. 2011. Reading Digits in Natural Images with Unsupervised Feature Learning."
+    },
+    {
+        "key": "e_1_3_2_2_44_1",
+        "unstructured": "Anh Mai Nguyen Jason Yosinski and Jef Clune. 2016. Multifaceted Feature Visualization: Uncovering the Diferent Types of Features Learned By Each Neuron in Deep Neural Networks. ArXiv abs/1602.03616 ( 2016 ).  Anh Mai Nguyen Jason Yosinski and Jef Clune. 2016. Multifaceted Feature Visualization: Uncovering the Diferent Types of Features Learned By Each Neuron in Deep Neural Networks. ArXiv abs/1602.03616 ( 2016 )."
+    },
+    {
+        "key": "e_1_3_2_2_45_1",
+        "unstructured": "Chris Olah Alexander Mordvintsev and Ludwig Schubert. 2017. Feature Visualization. Distill ( 2017 ). https://doi.org/10.23915/distill.00007 https://distill.pub/2017/feature-visualization. 10.23915/distill.00007  Chris Olah Alexander Mordvintsev and Ludwig Schubert. 2017. Feature Visualization. Distill ( 2017 ). https://doi.org/10.23915/distill.00007 https://distill.pub/2017/feature-visualization. 10.23915/distill.00007"
+    },
+    {
+        "key": "e_1_3_2_2_48_1",
+        "unstructured": "Huy Phan. 2019 (accessed October 4 2019 ). PyTorch models trained on CIFAR-10 dataset. https://github.com/huyvnphan/PyTorch-CIFAR10  Huy Phan. 2019 (accessed October 4 2019 ). PyTorch models trained on CIFAR-10 dataset. https://github.com/huyvnphan/PyTorch-CIFAR10"
+    },
+    {
+        "key": "e_1_3_2_2_51_1",
+        "unstructured": "Tim Salimans Ian J. Goodfellow Wojciech Zaremba Vicki Cheung Alec Radford and Xi Chen. 2016. Improved Techniques for Training GANs. ArXiv abs/1606.03498 ( 2016 ).  Tim Salimans Ian J. Goodfellow Wojciech Zaremba Vicki Cheung Alec Radford and Xi Chen. 2016. Improved Techniques for Training GANs. ArXiv abs/1606.03498 ( 2016 )."
+    },
+    {
+        "key": "e_1_3_2_2_52_1",
+        "unstructured": "Sergio Segura Gordon Fraser Ana B. S\u00e1nchez and Antonio Ruiz-Cort\u00e9s. 2016. A Survey on Metamorphic Testing. IEEE Transactions on Software Engineering 42 (09 2016 ) 1-1. https://doi.org/10.1109/TSE. 2016.2532875 10.1109/TSE.2016.2532875  Sergio Segura Gordon Fraser Ana B. S\u00e1nchez and Antonio Ruiz-Cort\u00e9s. 2016. A Survey on Metamorphic Testing. IEEE Transactions on Software Engineering 42 (09 2016 ) 1-1. https://doi.org/10.1109/TSE. 2016.2532875 10.1109/TSE.2016.2532875"
+    },
+    {
+        "key": "e_1_3_2_2_53_1",
+        "volume-title": "Towards Improved Testing For Deep Learning. 2019 IEEE/ACM 41st International Conference on Software Engineering: New Ideas and Emerging Results (ICSE-NIER) ( 2019 ), 85-88",
+        "author": "Sekhon Jasmine",
+        "year": "2019"
+    },
+    {
+        "key": "e_1_3_2_2_56_1",
+        "volume-title": "Rethinking the Inception Architecture for Computer Vision. 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR) ( 2015 ), 2818-2826",
+        "author": "Szegedy Christian",
+        "year": "2015"
+    },
+    {
+        "key": "e_1_3_2_2_57_1",
+        "unstructured": "Christian Szegedy Wojciech Zaremba Ilya Sutskever Joan Bruna Dumitru Erhan Ian Goodfellow and Rob Fergus. 2014. Intriguing properties of neural networks. In ICLR.  Christian Szegedy Wojciech Zaremba Ilya Sutskever Joan Bruna Dumitru Erhan Ian Goodfellow and Rob Fergus. 2014. Intriguing properties of neural networks. In ICLR."
+    },
+    {
+        "key": "e_1_3_2_2_59_1",
+        "unstructured": "Lu\u00eds Torgo and Joo Gama. 1999. Regression by Classification. (07 1999 ).  Lu\u00eds Torgo and Joo Gama. 1999. Regression by Classification. (07 1999 )."
+    },
+    {
+        "key": "e_1_3_2_2_60_1",
+        "volume-title": "2010 IEEE Computer Society Conference on Computer Vision and Pattern Recognition ( 2010 ), 3485-3492",
+        "author": "Xiao Jian"
+    },
+    {
+        "key": "e_1_3_2_2_61_1",
+        "unstructured": "Jason Yosinski Jef Clune Anh Mai Nguyen Thomas J. Fuchs and Hod Lipson. 2015. Understanding Neural Networks Through Deep Visualization. ArXiv abs/1506.06579 ( 2015 ).  Jason Yosinski Jef Clune Anh Mai Nguyen Thomas J. Fuchs and Hod Lipson. 2015. Understanding Neural Networks Through Deep Visualization. ArXiv abs/1506.06579 ( 2015 )."
+    },
+    {
+        "key": "e_1_3_2_2_62_1",
+        "unstructured": "Jie M. Zhang Mark Harman Lei Ma and Yang Liu. 2019. Machine Learning Testing: Survey Landscapes and Horizons. CoRR abs/ 1906.10742 ( 2019 ). arXiv: 1906.10742 http://arxiv.org/abs/ 1906.10742  Jie M. Zhang Mark Harman Lei Ma and Yang Liu. 2019. Machine Learning Testing: Survey Landscapes and Horizons. CoRR abs/ 1906.10742 ( 2019 ). arXiv: 1906.10742 http://arxiv.org/abs/ 1906.10742"
+    },
+    {
+        "key": "e_1_3_2_1_1_1",
+        "unstructured": "2014. CoView. http://www.codign.com Accessed: 2014-06-01.  2014. CoView. http://www.codign.com Accessed: 2014-06-01."
+    },
+    {
+        "key": "e_1_3_2_1_2_1",
+        "unstructured": "2019. EvoSuite: Automatic Test Suite Generation for Java (2019). http://www.evosuite.org/evosuite/ Accessed: 2019-09-04.  2019. EvoSuite: Automatic Test Suite Generation for Java (2019). http://www.evosuite.org/evosuite/ Accessed: 2019-09-04."
+    },
+    {
+        "key": "e_1_3_2_1_3_1",
+        "unstructured": "2019. PITest Mutation Testing Tool for Java (2019). http://pitest.org/ Accessed: 2019-09-04.  2019. PITest Mutation Testing Tool for Java (2019). http://pitest.org/ Accessed: 2019-09-04."
+    },
+    {
+        "key": "e_1_3_2_1_4_1",
+        "unstructured": "2019. Randoop: Automatic unit test generation for Java (2019). https://randoop.github.io/randoop/ Accessed: 2019-09-04.  2019. Randoop: Automatic unit test generation for Java (2019). https://randoop.github.io/randoop/ Accessed: 2019-09-04."
+    },
+    {
+        "key": "e_1_3_2_1_5_1",
+        "unstructured": "2020. Apache Commons. https://commons.apache.org/ Accessed: 2020-04-28.  2020. Apache Commons. https://commons.apache.org/ Accessed: 2020-04-28."
+    },
+    {
+        "key": "e_1_3_2_1_6_1",
+        "unstructured": "2020. CodePro Tutorial. https://self-learning-java-tutorial.blogspot.com/2015/06/codepro-tutorial.html Accessed: 2020-05-02.  2020. CodePro Tutorial. https://self-learning-java-tutorial.blogspot.com/2015/06/codepro-tutorial.html Accessed: 2020-05-02."
+    },
+    {
+        "key": "e_1_3_2_1_7_1",
+        "unstructured": "2020. The Freenet Project: a peer-to-peer software platform for censorshipresitant communication. https://freenetproject.org/ Accessed: 2020-04-25.  2020. The Freenet Project: a peer-to-peer software platform for censorshipresitant communication. https://freenetproject.org/ Accessed: 2020-04-25."
+    },
+    {
+        "key": "e_1_3_2_1_8_1",
+        "unstructured": "2020. IntelliJ. https://www.jetbrains.com/idea/ Accessed: 2020-04-29.  2020. IntelliJ. https://www.jetbrains.com/idea/ Accessed: 2020-04-29."
+    },
+    {
+        "key": "e_1_3_2_1_10_1",
+        "unstructured": "2020. JUnitDoclet. http://www.junitdoclet.org/ Accessed: 2020-05-02.  2020. JUnitDoclet. http://www.junitdoclet.org/ Accessed: 2020-05-02."
+    },
+    {
+        "key": "e_1_3_2_1_11_1",
+        "unstructured": "2020. JUnitFactory. http://www.junitfactory.com/ Accessed: 2020-04-25.  2020. JUnitFactory. http://www.junitfactory.com/ Accessed: 2020-04-25."
+    },
+    {
+        "key": "e_1_3_2_1_12_1",
+        "unstructured": "2020. Maven. https://maven.apache.org/ Accessed: 2020-04-28.  2020. Maven. https://maven.apache.org/ Accessed: 2020-04-28."
+    },
+    {
+        "key": "e_1_3_2_1_13_1",
+        "volume-title": "2017 IEEE/ACM 39th International Conference on Software Engineering: Software Engineering in Practice Track (ICSE-SEIP). 263--272",
+        "author": "Almasi M. M."
+    },
+    {
+        "key": "e_1_3_2_1_16_1",
+        "unstructured": "Michael Andersson. 2017. An Experimental Evaluation of PIT's Mutation Operators. Bachelor thesis. Ume\u00e5 University.  Michael Andersson. 2017. An Experimental Evaluation of PIT's Mutation Operators. Bachelor thesis. Ume\u00e5 University."
+    },
+    {
+        "key": "e_1_3_2_1_17_1",
+        "volume-title": "IntelliJ and Jenkins. In 2016 IEEE International Conference on Software Testing, Verification and Validation (ICST). IEEE",
+        "author": "Arcuri Andrea",
+        "year": "2016"
+    },
+    {
+        "key": "e_1_3_2_1_19_1",
+        "volume-title": "On the Effectiveness of Manual and Automatic Unit Test Generation. In 2008 The Third International Conference on Software Engineering Advances. IEEE, Sliema, Malta, 252--257",
+        "author": "Bacchelli Alberto",
+        "year": "2008"
+    },
+    {
+        "key": "e_1_3_2_1_21_1",
+        "volume-title": "Statement and Branch Coverage Fault Revelation That Avoids the Unreliable Clean Program Assumption. In 2017 IEEE/ACM 39th International Conference on Software Engineering (ICSE). 597--608",
+        "author": "Chekam T. T."
+    },
+    {
+        "key": "e_1_3_2_1_23_1",
+        "first-page": "11",
+        "article-title": "JCrasher: An Automatic Robustness Tester for Java",
+        "volume": "34",
+        "author": "Csallner Christoph",
+        "year": "2004",
+        "journal-title": "Softw. Pract. Exper."
+    },
+    {
+        "key": "e_1_3_2_1_24_1",
+        "first-page": "34",
+        "article-title": "Hints on Test Data Selection",
+        "volume": "11",
+        "author": "DeMillo R. A.",
+        "year": "1978",
+        "journal-title": "Help for the Practicing Programmer. Computer"
+    },
+    {
+        "key": "e_1_3_2_1_27_1",
+        "volume-title": "2017 IEEE/ACM 10th International Workshop on Search-Based Software Testing (SBST). IEEE",
+        "author": "Fraser Gordon",
+        "year": "2017"
+    },
+    {
+        "key": "e_1_3_2_1_28_1",
+        "article-title": "Does Automated Unit Test Generation Really Help Software Testers? A Controlled Empirical Study",
+        "volume": "24",
+        "author": "Fraser Gordon",
+        "year": "2015",
+        "journal-title": "ACM Trans. Softw. Eng. Methodol."
+    },
+    {
+        "key": "e_1_3_2_1_34_1",
+        "volume-title": "Proceedings of the 2014 International Symposium on Software Testing and Analysis",
+        "author": "Just Ren\u00e9",
+        "year": "2014"
+    },
+    {
+        "key": "e_1_3_2_1_36_1",
+        "volume-title": "Java Unit Testing Tool Competition -Seventh Round. In 2019 IEEE/ACM 12th International Workshop on Search-Based Software Testing (SBST). 15--20",
+        "author": "Kifetew F."
+    },
+    {
+        "key": "e_1_3_2_1_37_1",
+        "volume-title": "Proceedings of the 41st International Conference on Software Engineering: Software Engineering in Practice, ICSE (SEIP) 2019",
+        "author": "Kochhar Pavneet Singh",
+        "year": "2019"
+    },
+    {
+        "key": "e_1_3_2_1_38_1",
+        "volume-title": "Empirically Evaluating the Quality of Automatically Generated and Manually Written Test Suites. In 2014 14th Int. Conf. on Quality Software. IEEE",
+        "author": "Kracht Jeshua S."
+    },
+    {
+        "key": "e_1_3_2_1_40_1",
+        "unstructured": "Yu-Seung Ma Jeff Offutt and Yong Kwon. 2006. MuJava: a mutation system for java. 827--830. https://doi.org/10.1145/1134425  Yu-Seung Ma Jeff Offutt and Yong Kwon. 2006. MuJava: a mutation system for java. 827--830. https://doi.org/10.1145/1134425"
+    },
+    {
+        "key": "e_1_3_2_1_42_1",
+        "volume-title": "2012 38th Euromicro Conference on Software Engineering and Advanced Applications. IEEE",
+        "author": "Ramler Rudolf",
+        "year": "2012"
+    },
+    {
+        "key": "e_1_3_2_1_43_1",
+        "volume-title": "2013 IEEE 37th Annual Computer Software and Applications Conference. 484--491",
+        "author": "Ramler R."
+    },
+    {
+        "key": "e_1_3_2_1_44_1",
+        "volume-title": "On the Effectiveness of Manual and Automatic Unit Test Generation: Ten Years Later. In 2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR). IEEE, Montreal, QC",
+        "author": "Serra D."
+    },
+    {
+        "key": "e_1_3_2_1_45_1",
+        "volume-title": "2015 30th IEEE/ACM Int. Conf. on Automated Software Engineering(ASE). IEEE",
+        "author": "Shamshiri Sina",
+        "year": "2015"
+    },
+    {
+        "key": "e_1_3_2_1_46_1",
+        "unstructured": "Beatriz Souza and Patr\u00edcia Machado. 2020. A Large Scale Study On the Effectiveness of Manual and Automatic Unit Test Generation (Artifact). https://colab.research.google.com/drive/1cjDv62j1aDAYvbeT0NbWSO1s_qlfLhub?usp=sharing Accessed: 2020-05-02.  Beatriz Souza and Patr\u00edcia Machado. 2020. A Large Scale Study On the Effectiveness of Manual and Automatic Unit Test Generation (Artifact). https://colab.research.google.com/drive/1cjDv62j1aDAYvbeT0NbWSO1s_qlfLhub?usp=sharing Accessed: 2020-05-02."
+    },
+    {
+        "key": "e_1_3_2_1_48_1",
+        "volume-title": "Proc. of the 7th Int. Workshop on Automating Test Case Design, Selection, and Evaluation, A-TEST@SIGSOFT FSE 2016",
+        "author": "Vincenzi Auri M. R.",
+        "year": "2016"
+    },
+    {
+        "key": "e_1_3_2_1_2_1",
+        "volume-title": "Refactoring Test Code",
+        "author": "Deursen Arie"
+    },
+    {
+        "key": "e_1_3_2_1_5_1",
+        "volume-title": "Exposing Test Analysis Results with DrTests. In International Workshop on Smalltalk Technologies. HAL",
+        "author": "Calle Dayne Guerra",
+        "year": "2019"
+    },
+    {
+        "key": "e_1_3_2_1_6_1",
+        "volume-title": "Testing - Practice and Research Techniques",
+        "author": "Koochakzadeh Negar"
+    },
+    {
+        "key": "e_1_3_2_1_8_1",
+        "volume-title": "Automatic Test Smell Detection Using Information Retrieval Techniques. In IEEE International Conference on Software Maintenance and Evolution (ICSME). IEEE",
+        "author": "Palomba Fabio",
+        "year": "2018"
+    },
+    {
+        "key": "e_1_3_2_1_11_1",
+        "unstructured": "Tricentis. 2018. Software Fail Watch: 5th Edition. https://www.tricentis.com/resources/software-fail-watch-5th-edition/ Last access: June 2020.  Tricentis. 2018. Software Fail Watch: 5th Edition. https://www.tricentis.com/resources/software-fail-watch-5th-edition/ Last access: June 2020."
+    },
+    {
+        "key": "e_1_3_2_1_13_1",
+        "volume-title": "Proceedings of the XXXIV Brazilian Symposium on Software Engineering (SBES",
+        "author": "Virg\u00ednio T\u00e1ssio",
+        "year": "2020"
+    },
+    {
+        "key": "e_1_3_2_2_10_1",
+        "unstructured": "Jackson Antonio do Prado Lima and Silvia Regina Vergilio. 2019. A Systematic Mapping Study on Higher Order Mutation Testing. Journal of Systems and Software (JSS) 154 ( 2019 ) 92-109. https://doi.org/10.1016/j.jss. 2019. 04.031 10.1016/j.jss.2019.04.031  Jackson Antonio do Prado Lima and Silvia Regina Vergilio. 2019. A Systematic Mapping Study on Higher Order Mutation Testing. Journal of Systems and Software (JSS) 154 ( 2019 ) 92-109. https://doi.org/10.1016/j.jss. 2019. 04.031 10.1016/j.jss.2019.04.031"
+    },
+    {
+        "key": "e_1_3_2_2_12_1",
+        "unstructured": "Ahmed S. Ghiduk. 2016. Reducing the Number of Higher-Order Mutants with the Aid of Data Flow. e-Informatica Vol. X ( 2016 ) 2016 ; ISSN 18977979. https: //doi.org/10.5277/E-INF160102 10.5277/E-INF160102  Ahmed S. Ghiduk. 2016. Reducing the Number of Higher-Order Mutants with the Aid of Data Flow. e-Informatica Vol. X ( 2016 ) 2016 ; ISSN 18977979. https: //doi.org/10.5277/E-INF160102 10.5277/E-INF160102"
+    },
+    {
+        "key": "e_1_3_2_2_13_1",
+        "unstructured": "Ahmed S. Ghiduk Moheb R. Girgis and Marwa H. Shehata. 2017. Higher Order Mutation Testing: A Systematic Literature Review. Computer Science Review 25 ( Aug. 2017 ) 29-48. https://doi.org/10.1016/j.cosrev. 2017. 06.001 10.1016/j.cosrev.2017.06.001  Ahmed S. Ghiduk Moheb R. Girgis and Marwa H. Shehata. 2017. Higher Order Mutation Testing: A Systematic Literature Review. Computer Science Review 25 ( Aug. 2017 ) 29-48. https://doi.org/10.1016/j.cosrev. 2017. 06.001 10.1016/j.cosrev.2017.06.001"
+    },
+    {
+        "key": "e_1_3_2_2_20_1",
+        "unstructured": "Yue Jia. [n.d.]. Higher Order Mutation Testing. Ph.D. Dissertation.  Yue Jia. [n.d.]. Higher Order Mutation Testing. Ph.D. Dissertation."
+    },
+    {
+        "key": "e_1_3_2_2_50_1",
+        "unstructured": "Lech Madeyski and Norbert Radyk. 2010. Judy-a Mutation Testing Tool for Java. IET Software 4 1 ( 2010 ) 32. https://doi.org/10.1049/iet-sen. 2008.0038 10.1049/iet-sen.2008.0038  Lech Madeyski and Norbert Radyk. 2010. Judy-a Mutation Testing Tool for Java. IET Software 4 1 ( 2010 ) 32. https://doi.org/10.1049/iet-sen. 2008.0038 10.1049/iet-sen.2008.0038"
+    },
+    {
+        "key": "e_1_3_2_2_59_1",
+        "unstructured": "Elmahdi Omar Sudipto Ghosh and Darrell Whitley. 2017. Subtle Higher Order Mutants. Inf. Softw. Technol. 81 C ( Jan. 2017 ) 3-18. https://doi.org/10.1016/j. infsof. 2016. 01.016 10.1016/j.infsof.2016.01.016  Elmahdi Omar Sudipto Ghosh and Darrell Whitley. 2017. Subtle Higher Order Mutants. Inf. Softw. Technol. 81 C ( Jan. 2017 ) 3-18. https://doi.org/10.1016/j. infsof. 2016. 01.016 10.1016/j.infsof.2016.01.016"
+    },
+    {
+        "key": "e_1_3_2_2_65_1",
+        "unstructured": "Macario Polo Mario Piattini and Ignacio Garc\u00eda-Rodr\u00edguez. 2009. Decreasing the Cost of Mutation Testing with Second-Order Mutants. Softw. Test. Verif. Reliab. 19 2 ( June 2009 ) 111-131. https://doi.org/10.1002/stvr.v19: 2 10.1002/stvr.v19:2  Macario Polo Mario Piattini and Ignacio Garc\u00eda-Rodr\u00edguez. 2009. Decreasing the Cost of Mutation Testing with Second-Order Mutants. Softw. Test. Verif. Reliab. 19 2 ( June 2009 ) 111-131. https://doi.org/10.1002/stvr.v19: 2 10.1002/stvr.v19:2"
+    },
+    {
+        "key": "9430_CR2",
+        "unstructured": "Balogh, G., Gergely, T., Besz\u00e9des, \u00c1., Gyim\u00f3thy, T. (2016). Are my unit tests in the right package? In: Proceedings of 16th IEEE International Working Conference on Source Code Analysis and Manipulation (SCAM\u201916), pp. 137\u2013146."
+    },
+    {
+        "key": "9430_CR3",
+        "volume-title": "Test Driven Development: By Example",
+        "year": "2002",
+        "unstructured": "Beck, K. (Ed.). (2002). Test Driven Development: By Example. Reading: Addison-Wesley Professional."
+    },
+    {
+        "key": "9430_CR5",
+        "volume-title": "Foundations of Software Testing: ISTQB Certification",
+        "author": "R Black",
+        "year": "2012",
+        "unstructured": "Black, R., van Veenendaal, E., Graham, D. (2012). Foundations of Software Testing: ISTQB Certification. Boston: Cengage Learning."
+    },
+    {
+        "key": "9430_CR9",
+        "unstructured": "Breugelmans, M., & Van Rompaey, B. (2008). Testq: exploring structural and maintenance characteristics of unit test suites. In: WASDeTT-1: 1st International Workshop on Advanced Software Development Tools and Techniques."
+    },
+    {
+        "key": "9430_CR12",
+        "volume-title": "Object-oriented reengineering patterns",
+        "author": "S Demeyer",
+        "year": "2002",
+        "unstructured": "Demeyer, S., Ducasse, S., Nierstrasz, O. (2002). Object-oriented reengineering patterns. New York: Elsevier."
+    },
+    {
+        "key": "9430_CR13",
+        "unstructured": "Deursen, Av, Moonen, L., Avd, B., Kok, G. (2002). Refactoring test code. In Succi, G., Marchesi, M., Wells, D., Williams, L. (Eds.) Extreme Programming Perspectives (pp. 141\u2013152): Addison-Wesley."
+    },
+    {
+        "key": "9430_CR16",
+        "unstructured": "Gaelli, M., Lanza, M., Nierstrasz, O. (2005). Towards a taxonomy of SUnit tests. In: Proceedings of 13th International Smalltalk Conference (ISC\u201905)."
+    },
+    {
+        "key": "9430_CR18",
+        "unstructured": "Hamill, P. (2004). Unit test frameworks: tools for high-quality software development. O\u2019Reilly Media, Inc."
+    },
+    {
+        "key": "9430_CR20",
+        "unstructured": "Horv\u00e1th, F., Vancsics, B., Vid\u00e1cs, L., Besz\u00e9des, \u00c1., Tengeri, D., Gergely, T., Gyim\u00f3thy, T. (2015). Test suite evaluation using code coverage based metrics. In: Proceedings of the 14th Symposium on Programming Languages and Software Tools (SPLST\u201915), vol 1525, pp. 46\u201360, also appears in CEUR Workshop Proceedings, urn:nbn:de:0074-1525-1."
+    },
+    {
+        "issue": "1",
+        "key": "9430_CR21",
+        "first-page": "59",
+        "volume": "20",
+        "author": "T Kanstr\u00e9n",
+        "year": "2008",
+        "unstructured": "Kanstr\u00e9n, T. (2008). Towards a deeper understanding of test coverage. Journal of Software: Evolution and Process, 20(1), 59\u201376.",
+        "journal-title": "Journal of Software: Evolution and Process"
+    },
+    {
+        "key": "9430_CR22",
+        "volume-title": "Unit test patterns: Refactoring test code",
+        "author": "G Meszaros",
+        "year": "2007",
+        "unstructured": "Meszaros, G. (2007). Unit test patterns: Refactoring test code. London: Pearson Education."
+    },
+    {
+        "key": "9430_CR25",
+        "volume-title": "The art of software testing",
+        "author": "GJ Myers",
+        "year": "2011",
+        "unstructured": "Myers, G.J., Sandler, C., Badgett, T. (2011). The art of software testing. New York: Wiley."
+    },
+    {
+        "key": "9430_CR39",
+        "unstructured": "Wagner, S., & Wagner, D. (2007). Comparing clusterings: an overview Universit\u00e4t Karlsruhe, Fakult\u00e4t f\u00fcr Informatik Karlsruhe."
+    },
+    {
+        "key": "e_1_3_2_1_1_1",
+        "unstructured": "2011. pyfakefs implements a fake file system that mocks the Python file system modules. https://github.com/jmcgeheeiv/pyfakefs. (June 2011).  2011. pyfakefs implements a fake file system that mocks the Python file system modules. https://github.com/jmcgeheeiv/pyfakefs. (June 2011)."
+    },
+    {
+        "key": "e_1_3_2_1_6_1",
+        "unstructured": "H. Coles. 2010. PIT Mutation Testing. http://pittest.org/. (2010).  H. Coles. 2010. PIT Mutation Testing. http://pittest.org/. (2010)."
+    },
+    {
+        "key": "e_1_3_2_1_7_1",
+        "unstructured": "R. A. DeMillo R. J. Lipton and F. G. Sayward. 1978. Hints on test data selection: Help for the practicing programmer. Computer 4 11 (1978). 10.1109/C-M.1978.218136   R. A. DeMillo R. J. Lipton and F. G. Sayward. 1978. Hints on test data selection: Help for the practicing programmer. Computer 4 11 (1978). 10.1109/C-M.1978.218136"
+    },
+    {
+        "key": "e_1_3_2_1_18_1",
+        "unstructured": "J. Holmes A. Groce J. Pinto P. Mittal P. Azimi K. Kellar and J. O'Brien. 2017. TSTL: the template scripting testing language. STTT 20 1 (2017). 10.1007/s10009-016-0445-y   J. Holmes A. Groce J. Pinto P. Mittal P. Azimi K. Kellar and J. O'Brien. 2017. TSTL: the template scripting testing language. STTT 20 1 (2017). 10.1007/s10009-016-0445-y"
+    },
+    {
+        "key": "e_1_3_2_1_19_1",
+        "unstructured": "G. J. Holzmann. 2003. The SPIN model checker: primer and reference manual. Addison-Wesley Professional.   G. J. Holzmann. 2003. The SPIN model checker: primer and reference manual. Addison-Wesley Professional."
+    },
+    {
+        "key": "e_1_3_2_1_24_1",
+        "unstructured": "X. Liu. 2016. muupi mutation tool. https://github.com/apepkuss/muupi. (September 2016).  X. Liu. 2016. muupi mutation tool. https://github.com/apepkuss/muupi. (September 2016)."
+    },
+    {
+        "key": "e_1_3_2_1_25_1",
+        "unstructured": "J. Offutt and A. Abdurazik. 2000. In Mutation 2000: mutation testing in the twentieth and the twenty first centuries.  J. Offutt and A. Abdurazik. 2000. In Mutation 2000: mutation testing in the twentieth and the twenty first centuries."
+    },
+    {
+        "key": "e_1_3_2_1_1_1",
+        "unstructured": "2018. coverage-diffe. https://docs.codecov.io/v4.3.6/docs/coverage-diff. 2018. diff-cover. https://github.com/Bachmann1234/diff-cover. 2018. diff-coverage. https://github.com/ptone/diff-coverage. 2018. git-coverage. http://stef.thewalter.net/git-coverage-useful-code-coverage. html. 2018. JaCoCo Java Code Coverage Library. http://www.eclemma.org/jacoco/. 2018. jest-diff-coverage. https://github.com/Hylozoic/jest-diff-coverage. 2018. Patch-Status. https://github.com/codecov/support/wiki/Patch-Status. 2018. Undertow.io commit a945c17f58cd809558950d858030379179dfdf82. https://github.com/undertow-io/undertow/commit/ a945c17f58cd809558950d858030379179dfdf82.  2018. coverage-diffe. https://docs.codecov.io/v4.3.6/docs/coverage-diff. 2018. diff-cover. https://github.com/Bachmann1234/diff-cover. 2018. diff-coverage. https://github.com/ptone/diff-coverage. 2018. git-coverage. http://stef.thewalter.net/git-coverage-useful-code-coverage. html. 2018. JaCoCo Java Code Coverage Library. http://www.eclemma.org/jacoco/. 2018. jest-diff-coverage. https://github.com/Hylozoic/jest-diff-coverage. 2018. Patch-Status. https://github.com/codecov/support/wiki/Patch-Status. 2018. Undertow.io commit a945c17f58cd809558950d858030379179dfdf82. https://github.com/undertow-io/undertow/commit/ a945c17f58cd809558950d858030379179dfdf82."
+    },
+    {
+        "key": "e_1_3_2_1_5_1",
+        "unstructured": "Jonathan Bell Owolabi Legunsen Michael Hilton Lamyaa Eloussi Tifany Yung and Darko Marinov. 2018. DeFlaker: Automatically Detecting Flaky Tests. In ICSE. 10.1145/3180155.3180164   Jonathan Bell Owolabi Legunsen Michael Hilton Lamyaa Eloussi Tifany Yung and Darko Marinov. 2018. DeFlaker: Automatically Detecting Flaky Tests. In ICSE. 10.1145/3180155.3180164"
+    },
+    {
+        "key": "e_1_3_2_1_10_1",
+        "unstructured": "clover. {n. d.}. Clover. https://www.atlassian.com/software/clover.  clover. {n. d.}. Clover. https://www.atlassian.com/software/clover."
+    },
+    {
+        "key": "e_1_3_2_1_11_1",
+        "unstructured": "cobertura. {n. d.}. Cobertura. http://cobertura.github.io/cobertura/.  cobertura. {n. d.}. Cobertura. http://cobertura.github.io/cobertura/."
+    },
+    {
+        "key": "e_1_3_2_1_12_1",
+        "unstructured": "Coveralls. {n. d.}. Coveralls.io. https://coveralls.io/.  Coveralls. {n. d.}. Coveralls.io. https://coveralls.io/."
+    },
+    {
+        "key": "e_1_3_2_1_13_1",
+        "unstructured": "coverallsapi. {n. d.}. coveralls API. https://coveralls.zendesk.com/hc/en-us/ articles/201774865-API-Introduction.  coverallsapi. {n. d.}. coveralls API. https://coveralls.zendesk.com/hc/en-us/ articles/201774865-API-Introduction."
+    },
+    {
+        "key": "e_1_3_2_1_14_1",
+        "unstructured": "Sebastian Elbaum David Gable and Gregg Rothermel. 2001. The Impact of Software Evolution on Code Coverage Information. In ICSM. 10.1109/ICSM.2001.972727   Sebastian Elbaum David Gable and Gregg Rothermel. 2001. The Impact of Software Evolution on Code Coverage Information. In ICSM. 10.1109/ICSM.2001.972727"
+    },
+    {
+        "key": "e_1_3_2_1_16_1",
+        "volume-title": "Ekstazi: Lightweight Test Selection. In ICSE-DEMO.",
+        "author": "Gligoric Milos",
+        "year": "2015"
+    },
+    {
+        "key": "e_1_3_2_1_19_1",
+        "unstructured": "P. S. Kochhar D. Lo J. Lawall and N. Nagappan. 2017. Code Coverage and Postrelease Defects: A Large-Scale Study on Open Source Projects. IEEE Transactions on Reliability (2017).  P. S. Kochhar D. Lo J. Lawall and N. Nagappan. 2017. Code Coverage and Postrelease Defects: A Large-Scale Study on Open Source Projects. IEEE Transactions on Reliability (2017)."
+    },
+    {
+        "key": "e_1_3_2_1_21_1",
+        "unstructured": "Qingzhou Luo Farah Hariri Lamyaa Eloussi and Darko Marinov. 2014. An Empirical Analysis of Flaky Tests. In FSE. 10.1145/2635868.2635920   Qingzhou Luo Farah Hariri Lamyaa Eloussi and Darko Marinov. 2014. An Empirical Analysis of Flaky Tests. In FSE. 10.1145/2635868.2635920"
+    },
+    {
+        "key": "e_1_3_2_1_26_1",
+        "unstructured": "Kl\u00e9risson V. R. Paix\u00e3o Cr\u00edcia Z. Fel\u00edcio Fernanda M. Delfim and Marcelo de A. Maia. 2017. On the Interplay Between Non-functional Requirements and Builds on Continuous Integration. In MSR. 10.1109/MSR.2017.33   Kl\u00e9risson V. R. Paix\u00e3o Cr\u00edcia Z. Fel\u00edcio Fernanda M. Delfim and Marcelo de A. Maia. 2017. On the Interplay Between Non-functional Requirements and Builds on Continuous Integration. In MSR. 10.1109/MSR.2017.33"
+    },
+    {
+        "key": "e_1_3_2_1_27_1",
+        "unstructured": "Leandro Sales Pinto Saurabh Sinha and Alessandro Orso. 2012. Understanding Myths and Realities of Test-suite Evolution. In FSE.  Leandro Sales Pinto Saurabh Sinha and Alessandro Orso. 2012. Understanding Myths and Realities of Test-suite Evolution. In FSE."
+    },
+    {
+        "key": "e_1_3_2_1_28_1",
+        "unstructured": "Steven P. Reiss. 2008. Tracking Source Locations. In ICSE. 10.1145/1368088.1368091   Steven P. Reiss. 2008. Tracking Source Locations. In ICSE. 10.1145/1368088.1368091"
+    },
+    {
+        "key": "e_1_3_2_1_29_1",
+        "unstructured": "August Shi Tifany Yung Alex Gyori and Darko Marinov. 2015. Comparing and Combining Test-suite Reduction and Regression Test Selection. In ESEC/FSE. 10.1145/2786805.2786878   August Shi Tifany Yung Alex Gyori and Darko Marinov. 2015. Comparing and Combining Test-suite Reduction and Regression Test Selection. In ESEC/FSE. 10.1145/2786805.2786878"
+    },
+    {
+        "key": "e_1_3_2_1_33_1",
+        "unstructured": "travis. {n. d.}. Travis-ci.com. https://travis-ci.org/.  travis. {n. d.}. Travis-ci.com. https://travis-ci.org/."
+    },
+    {
+        "key": "e_1_3_2_1_36_1",
+        "unstructured": "Andy Zaidman Bart Rompaey Arie Deursen and Serge Demeyer. 2011. Studying the Co-evolution of Production and Test Code in Open Source and Industrial Developer Test Processes Through Repository Mining. Empirical Softw. Eng. (2011). 10.1007/s10664-010-9143-7   Andy Zaidman Bart Rompaey Arie Deursen and Serge Demeyer. 2011. Studying the Co-evolution of Production and Test Code in Open Source and Industrial Developer Test Processes Through Repository Mining. Empirical Softw. Eng. (2011). 10.1007/s10664-010-9143-7"
+    },
+    {
+        "key": "e_1_3_2_1_1_1",
+        "volume-title": "2016 IEEE 23rd International Conference on",
+        "volume": "5",
+        "author": "Adams Bram",
+        "year": "2016"
+    },
+    {
+        "key": "e_1_3_2_1_4_1",
+        "volume-title": "Verification and Validation (ICST), 2015 IEEE 8th International Conference on. IEEE, 1\u201310",
+        "author": "Bardin S\u00e9bastien",
+        "year": "2015"
+    },
+    {
+        "key": "e_1_3_2_1_9_1",
+        "volume-title": "Computer Software and Applications Conference, 1991. COMPSAC\u201991., Proceedings of the Fifteenth Annual International. IEEE Press",
+        "author": "DeMillo Richard A",
+        "year": "1991"
+    },
+    {
+        "key": "e_1_3_2_1_15_1",
+        "volume-title": "Verification and Validation Workshops (ICSTW), 2016 IEEE Ninth International Conference on. IEEE, 152\u2013161",
+        "author": "Holling Dominik",
+        "year": "2016"
+    },
+    {
+        "key": "e_1_3_2_1_17_1",
+        "volume-title": "Proceedings of the International Workshop on Mutation Analysis (Mutation). IEEE Press",
+        "author": "Marko Ivankovi\u0107 Goran Petrovi\u0107",
+        "year": "2018"
+    },
+    {
+        "key": "e_1_3_2_1_18_1",
+        "unstructured": "Jon Jenkins. 2011. Velocity Culture. (2011). Keynote Address at the Velocity 2011 Conference.  Jon Jenkins. 2011. Velocity Culture. (2011). Keynote Address at the Velocity 2011 Conference."
+    },
+    {
+        "key": "e_1_3_2_1_19_1",
+        "unstructured": "Yue Jia and Mark Harman. 2011. An analysis and survey of the development of mutation testing. IEEE transactions on software engineering 37 5 (2011) 649\u2013678. 10.1109/TSE.2010.62   Yue Jia and Mark Harman. 2011. An analysis and survey of the development of mutation testing. IEEE transactions on software engineering 37 5 (2011) 649\u2013678. 10.1109/TSE.2010.62"
+    },
+    {
+        "key": "e_1_3_2_1_22_1",
+        "unstructured": "Rob M. 2014. Everything you need to know about Tesla software updates. (2014). {on line} https://www.teslarati.com/everything-need-to-know-tesla-softwareupdates/ \u2014 last accessed In May 2018.  Rob M. 2014. Everything you need to know about Tesla software updates. (2014). {on line} https://www.teslarati.com/everything-need-to-know-tesla-softwareupdates/ \u2014 last accessed In May 2018."
+    },
+    {
+        "key": "e_1_3_2_1_24_1",
+        "unstructured": "Glenford J Myers. 1979. 77ie Art of Software Testing. (1979).   Glenford J Myers. 1979. 77ie Art of Software Testing. (1979)."
+    },
+    {
+        "key": "e_1_3_2_1_26_1",
+        "volume-title": "Mutation testing for the new century",
+        "author": "Jefferson Offutt A"
+    },
+    {
+        "key": "e_1_3_2_1_27_1",
+        "unstructured": "Mike Papadakis Marinos Kintis Jie Zhang Yue Jia Yves Le Traon and Mark Harman. 2019. Mutation Testing Advances: An Analysis and Survey. Advances in Computers In Press Corrected Proof (Available online 7 May 2018 2019) \u2014.  Mike Papadakis Marinos Kintis Jie Zhang Yue Jia Yves Le Traon and Mark Harman. 2019. Mutation Testing Advances: An Analysis and Survey. Advances in Computers In Press Corrected Proof (Available online 7 May 2018 2019) \u2014."
+    },
+    {
+        "key": "e_1_3_2_1_33_1",
+        "unstructured": "Macario Polo Usaola and Pedro Reales Mateo. 2010. Mutation testing cost reduction techniques: a survey. IEEE software 27 3 (2010). 10.1109/MS.2010.79   Macario Polo Usaola and Pedro Reales Mateo. 2010. Mutation testing cost reduction techniques: a survey. IEEE software 27 3 (2010). 10.1109/MS.2010.79"
+    },
+    {
+        "key": "e_1_3_2_1_34_1",
+        "volume-title": "Proceedings of the 2nd international conference on extreme programming and flexible processes in software engineering (XP2001)",
+        "author": "Deursen Arie Van"
+    },
+    {
+        "key": "e_1_3_2_1_35_1",
+        "unstructured": "Robert K. Yin. 2002. Case Study Research: Design and Methods 3 edition. Sage Publications \u2014.  Robert K. Yin. 2002. Case Study Research: Design and Methods 3 edition. Sage Publications \u2014."
+    },
+    {
+        "key": "e_1_3_2_1_1_1",
+        "unstructured": "2014. EclEmma - Java Code Coverage for Eclipse. http://www.eclemma.org/  2014. EclEmma - Java Code Coverage for Eclipse. http://www.eclemma.org/"
+    },
+    {
+        "key": "e_1_3_2_1_2_1",
+        "unstructured": "2014. JaCoCo - Coverage Counter. http://www.eclemma.org/jacoco/trunk/doc/counters.html  2014. JaCoCo - Coverage Counter. http://www.eclemma.org/jacoco/trunk/doc/counters.html"
+    },
+    {
+        "key": "e_1_3_2_1_3_1",
+        "unstructured": "2015. FindBugs Eclipse Plugin. https://marketplace.eclipse.org/content/findbugs-eclipse-plugin  2015. FindBugs Eclipse Plugin. https://marketplace.eclipse.org/content/findbugs-eclipse-plugin"
+    },
+    {
+        "key": "e_1_3_2_1_7_1",
+        "unstructured": "K. Beck. 2002. Test Driven Development: By Example. Addison Wesley Longman.   K. Beck. 2002. Test Driven Development: By Example. Addison Wesley Longman."
+    },
+    {
+        "key": "e_1_3_2_1_12_1",
+        "volume-title": "16th International Conference on Evaluation & Assessment in Software Engineering (EASE). 223\u00e2\u0102\u015e227",
+        "author": "Causevic A."
+    },
+    {
+        "key": "e_1_3_2_1_15_1",
+        "volume-title": "Refactoring Test Code. In 2nd International Conference on Extreme Programming and Flexible Processes (XP). 92--95",
+        "author": "Deursen A. Van"
+    },
+    {
+        "key": "e_1_3_2_1_18_1",
+        "unstructured": "D. Fucci and B. Turhan. 2013. On the role of tests in test-driven development: a differentiated and partial replication. Empirical Software Engineering 19 2 (2013) 1\u00e2\u0102\u015e26. 10.1007/s10664-013-9259-7   D. Fucci and B. Turhan. 2013. On the role of tests in test-driven development: a differentiated and partial replication. Empirical Software Engineering 19 2 (2013) 1\u00e2\u0102\u015e26. 10.1007/s10664-013-9259-7"
+    },
+    {
+        "key": "e_1_3_2_1_21_1",
+        "unstructured": "L. Huang and M. Holcombe. 2009. Empirical investigation towards the effectiveness of Test First programming. Information and Software Technology 51 1 (2009) 182\u00e2\u0102\u015e194. 10.1016/j.infsof.2008.03.007   L. Huang and M. Holcombe. 2009. Empirical investigation towards the effectiveness of Test First programming. Information and Software Technology 51 1 (2009) 182\u00e2\u0102\u015e194. 10.1016/j.infsof.2008.03.007"
+    },
+    {
+        "key": "e_1_3_2_1_22_1",
+        "unstructured": "A. Hunt and D. Thomas. 2003. Pragmatic Unit Testing in Java with Junit (1st edition ed.). The Pragmatic Programmers.   A. Hunt and D. Thomas. 2003. Pragmatic Unit Testing in Java with Junit (1st edition ed.). The Pragmatic Programmers."
+    },
+    {
+        "key": "e_1_3_2_1_25_1",
+        "unstructured": "T. Kaczanowski. 2012. Practical Unit Testing with TestNG and Mockito (1st edition ed.). Eigenverl. des Verf.   T. Kaczanowski. 2012. Practical Unit Testing with TestNG and Mockito (1st edition ed.). Eigenverl. des Verf."
+    },
+    {
+        "key": "e_1_3_2_1_27_1",
+        "volume-title": "8th International Conference on Evaluation of Novel Approaches to Software Engineering (ENASE). 260--267",
+        "author": "Madeyski L."
+    },
+    {
+        "key": "e_1_3_2_1_33_1",
+        "unstructured": "Mauro Pezz\u00e8 and Michal Young. 2007. Software Testing and Analysis: Process Principles and Techniques. Wiley.  Mauro Pezz\u00e8 and Michal Young. 2007. Software Testing and Analysis: Process Principles and Techniques. Wiley."
+    },
+    {
+        "key": "e_1_3_2_1_36_1",
+        "unstructured": "M. Roper. 1994. Software testing. McGraw-Hill Ryerson Limited. https://books.google.com.tr/books?id=m6xQAAAAMAAJ   M. Roper. 1994. Software testing. McGraw-Hill Ryerson Limited. https://books.google.com.tr/books?id=m6xQAAAAMAAJ"
+    },
+    {
+        "key": "e_1_3_2_1_37_1",
+        "unstructured": "W. R. Shadish T. D. Cook and Donald T. Campbell. 2001. Experimental and Quasi-Experimental Designs for Generalized Causal Inference (2 ed.). Houghton Mifflin.  W. R. Shadish T. D. Cook and Donald T. Campbell. 2001. Experimental and Quasi-Experimental Designs for Generalized Causal Inference (2 ed.). Houghton Mifflin."
+    },
+    {
+        "key": "e_1_3_2_1_38_1",
+        "volume-title": "International Conference on Telecommunication Technology and Applications. International Conference on Telecommunication Technology and Applications.",
+        "author": "Shahid Dr Muhammad",
+        "year": "2011"
+    },
+    {
+        "key": "e_1_3_2_1_39_1",
+        "volume-title": "2016 IEEE Ninth International Conference on Software Testing, Verification and Validation Workshops (ICSTW). 174--179",
+        "author": "Tengeri D."
+    },
+    {
+        "key": "e_1_3_2_1_40_1",
+        "unstructured": "Ayse Tosun Oscar Dieste Davide Fucci Sira Vegas Burak Turhan Hakan Erdogmus Adrian Santos Markku Oivo Kimmo Toro Janne Jarvinen and Natalia Juristo. 2016. An industry experiment on the effects of test-driven development on external quality and productivity. Empirical Software Engineering (2016). published online. 10.1007/s10664-016-9490-0   Ayse Tosun Oscar Dieste Davide Fucci Sira Vegas Burak Turhan Hakan Erdogmus Adrian Santos Markku Oivo Kimmo Toro Janne Jarvinen and Natalia Juristo. 2016. An industry experiment on the effects of test-driven development on external quality and productivity. Empirical Software Engineering (2016). published online. 10.1007/s10664-016-9490-0"
+    },
+    {
+        "key": "e_1_3_2_1_41_1",
+        "unstructured": "Burak Turhan Lucas Layman Madeline Diep Forest Shull and Hakan Erdogmus. 2010. How Effective is Test Driven Development? O\u00c3\u0106\u00e2\u0102&Zacute;Reilly Press Chapter Making Software: What Really Works and Why We Believe It.  Burak Turhan Lucas Layman Madeline Diep Forest Shull and Hakan Erdogmus. 2010. How Effective is Test Driven Development? O\u00c3\u0106\u00e2\u0102&Zacute;Reilly Press Chapter Making Software: What Really Works and Why We Believe It."
+    },
+    {
+        "key": "e_1_3_2_1_42_1",
+        "unstructured": "Claes Wohlin Per Runeson Martin H\u00c3\u010c\u00c2\u0171st Magnus C. Ohlsson and Bj\u00c3\u010c\u00c2\u0171rn Regnell. 2000. Experimentation in Software Engineering. Springer.   Claes Wohlin Per Runeson Martin H\u00c3\u010c\u00c2\u0171st Magnus C. Ohlsson and Bj\u00c3\u010c\u00c2\u0171rn Regnell. 2000. Experimentation in Software Engineering. Springer."
+    },
+    {
+        "key": "9317_CR1",
+        "unstructured": "Acree, Jr. A. T. (1980). On mutation. Ph.D. dissertation, Georgia Institute of Technology, Atlanta, GA, USA."
+    },
+    {
+        "key": "9317_CR2",
+        "unstructured": "Ammann, P. (2015a). Problems with jester. https://sites.google.com/site/mutationworkshop2015/program/MutationKeynote ."
+    },
+    {
+        "key": "9317_CR3",
+        "unstructured": "Ammann, P. (2015b). Transforming mutation testing from the technology of the future into the technology of the present. In International conference on software testing, verification and validation workshops. IEEE."
+    },
+    {
+        "key": "9317_CR5",
+        "unstructured": "Andrews, J. H., Briand, L. C., & Labiche, Y. (2005). Is mutation an appropriate tool for testing experiments? In International conference on software engineering (pp. 402\u2013411). IEEE."
+    },
+    {
+        "key": "9317_CR7",
+        "unstructured": "Apache Software Foundation. (2016). Apache commons. http://commons.apache.org/ ."
+    },
+    {
+        "key": "9317_CR10",
+        "unstructured": "Budd, T. A. (1980). Mutation analysis of program test data. Ph.D. dissertation, Yale University, New Haven, CT, USA."
+    },
+    {
+        "key": "9317_CR16",
+        "unstructured": "Coles, H. (2016). Pit mutation testing. http://pitest.org/ ."
+    },
+    {
+        "key": "9317_CR17",
+        "unstructured": "Coles, H. (2016a). Mutation testing systems for java compared. http://pitest.org/java_mutation_testing_systems/ ."
+    },
+    {
+        "key": "9317_CR18",
+        "unstructured": "Coles, H. (2016b). Pit mutators. http://pitest.org/quickstart/mutators/ ."
+    },
+    {
+        "key": "9317_CR26",
+        "unstructured": "GitHub Inc. (2016). Software repository. http://www.github.com ."
+    },
+    {
+        "key": "9317_CR29",
+        "unstructured": "Gopinath, R. (2015). Replication data for: Does choice of mutation tool matter?. http://eecs.osuosl.org/rahul/sqj2015 ."
+    },
+    {
+        "key": "9317_CR30",
+        "unstructured": "Gopinath, R., Alipour, A., Ahmed, I., Jensen, C., & Groce, A. (2015). Do mutation reduction strategies matter? Oregon State University, tech. rep., August 2015, under review for Software Quality Journal. http://hdl.handle.net/1957/56917 ."
+    },
+    {
+        "key": "9317_CR34",
+        "unstructured": "Gopinath, R., Jensen, C., & Groce, A. (2014). Mutations: How close are they to real faults? In Software reliability engineering (ISSRE), 2014 IEEE 25th international symposium on (pp. 189\u2013200), November 2014."
+    },
+    {
+        "key": "9317_CR36",
+        "unstructured": "Harder, M., Morse, B., & Ernst, M. D. (2001). Specification coverage as a measure of test suite quality. MIT Lab for Computer Science: tech. rep."
+    },
+    {
+        "key": "9317_CR42",
+        "first-page": "654",
+        "volume-title": "ACM SIGSOFT symposium on the foundations of software engineering",
+        "author": "R Just",
+        "year": "2014",
+        "unstructured": "Just, R., Jalali, D., Inozemtseva, L., Ernst, M. D., Holmes, R., & Fraser, G. (2014). Are mutants a valid substitute for real faults in software testing? ACM SIGSOFT symposium on the foundations of software engineering (pp. 654\u2013665). Hong Kong: ACM."
+    },
+    {
+        "key": "9317_CR48",
+        "unstructured": "Lipton, R. J. (1971). Fault diagnosis of computer programs. Carnegie Mellon University, Tech. rep."
+    },
+    {
+        "key": "9317_CR49",
+        "unstructured": "Ma, Y.-S., Kwon, Y.-R., & Offutt, J. (2002). Inter-class mutation operators for java. In International symposium on software reliability engineering (pp. 352\u2013363). IEEE."
+    },
+    {
+        "key": "9317_CR51",
+        "unstructured": "Macedo, M. G. (2016). Mutator. http://ortask.com/mutator/ ."
+    },
+    {
+        "key": "9317_CR56",
+        "unstructured": "Moore, I. (2001). Jester\u2014a junit test tester. In International conference on extreme programming (pp. 84\u201387)."
+    },
+    {
+        "key": "9317_CR58",
+        "unstructured": "Namin, A. S., Andrews, J. H., & Murdoch, D. J. (2008). Sufficient mutation operators for measuring test effectiveness. In International conference on software engineering (pp. 351\u2013360). ACM."
+    },
+    {
+        "key": "9317_CR62",
+        "unstructured": "Offut, J. (2016a). Problems with jester. https://cs.gmu.edu/offutt/documents/personal/jester-anal.html ."
+    },
+    {
+        "key": "9317_CR63",
+        "unstructured": "Offut, J. (2016b). Problems with parasoft insure++. https://cs.gmu.edu/offutt/documents/handouts/parasoft-anal.html ."
+    },
+    {
+        "key": "9317_CR64",
+        "unstructured": "Offutt, J. (2016). Insure++ critique. https://cs.gmu.edu/offutt/documents/handouts/parasoft-anal.html ."
+    },
+    {
+        "key": "9317_CR65",
+        "unstructured": "Offutt, A. J., & Untch, R. H. (2000). Mutation, uniting the orthogonal. In Mutation testing for the new century (pp. 34\u201344). Springer, 2001."
+    },
+    {
+        "key": "9317_CR66",
+        "unstructured": "Offutt, A. J., & Voas, J. M. (1996). \u2018Subsumption of condition coverage techniques by mutation testing. Technical report ISSE-TR-96-01. Information and Software Systems Engineering. Tech. rep.: George Mason University."
+    },
+    {
+        "key": "9317_CR73",
+        "unstructured": "Okun, V. (2004). Specification mutation for test generation and analysis. Ph.D. dissertation, University of Maryland Baltimore County."
+    },
+    {
+        "key": "9317_CR75",
+        "unstructured": "Parasoft. (2014). Insure++. www.parasoft.com/products/insure/papers/tech_mut.htm ."
+    },
+    {
+        "key": "9317_CR76",
+        "unstructured": "Parasoft. (2015). Insure++ mutation analysis. http://www.parasoft.com/jsp/products/article.jsp?articleId=291&product=Insure ."
+    },
+    {
+        "key": "9317_CR85",
+        "unstructured": "Usaola, M. P., & Mateo, P. R. (2012). Bacterio: Java mutation testing tool: A framework to evaluate quality of tests cases. In Proceedings of the 2012 IEEE international conference on software maintenance (ICSM), ser. ICSM\u201912 (pp. 646\u2013649). Washington, DC: IEEE Computer Society."
+    },
+    {
+        "issue": "2",
+        "key": "9317_CR87",
+        "first-page": "119",
+        "volume": "48",
+        "author": "KSHT Wah",
+        "year": "2003",
+        "unstructured": "Wah, K. S. H. T. (2003). An analysis of the coupling effect i: Single test data. Science of Computer Programming, 48(2), 119\u2013161.",
+        "journal-title": "Science of Computer Programming"
+    },
+    {
+        "key": "9317_CR89",
+        "unstructured": "Wong, W. E. (1993). On mutation and data flow. Ph.D. dissertation, Purdue University, West Lafayette, IN, USA, uMI Order No. GAX94-20921."
+    },
+    {
+        "key": "e_1_3_2_1_4_1",
+        "unstructured": "Bugzilla development team. 2016. Home :: Bugzilla :: bugzilla.org. (May 2016). https://www.bugzilla.org/  Bugzilla development team. 2016. Home :: Bugzilla :: bugzilla.org. (May 2016). https://www.bugzilla.org/"
+    },
+    {
+        "key": "e_1_3_2_1_5_1",
+        "unstructured": "Henry Coles. 2017. PIT Mutation Testing. (2017). {Online; accessed Jun. 2017}.  Henry Coles. 2017. PIT Mutation Testing. (2017). {Online; accessed Jun. 2017}."
+    },
+    {
+        "key": "e_1_3_2_1_6_1",
+        "volume-title": "Proceedings of the 25th International Conference on Software Engineering (ICSE \u201903)",
+        "author": "\u010cubrani\u0107 Davor"
+    },
+    {
+        "key": "e_1_3_2_1_10_1",
+        "unstructured": "943568  943568"
+    },
+    {
+        "key": "e_1_3_2_1_17_1",
+        "volume-title": "2016 IEEE 23rd International Conference on",
+        "volume": "1",
+        "author": "Le Xuan-Bach D.",
+        "year": "2016"
+    },
+    {
+        "key": "e_1_3_2_1_19_1",
+        "unstructured": "272995  272995"
+    },
+    {
+        "key": "e_1_3_2_1_20_1",
+        "unstructured": "memcached community. 2017. Memcached. (Jan. 2017). https://github.com/ memcached/memcached  memcached community. 2017. Memcached. (Jan. 2017). https://github.com/ memcached/memcached"
+    },
+    {
+        "key": "e_1_3_2_1_21_1",
+        "article-title": "Docker: Lightweight Linux Containers for Consistent Development and Deployment",
+        "volume": "2014",
+        "author": "Merkel Dirk",
+        "year": "2014",
+        "journal-title": "Linux Journal"
+    },
+    {
+        "key": "e_1_3_2_1_22_1",
+        "volume-title": "Proceedings of the International Conference on Software Maintenance (ICSM\u201900)",
+        "author": "Mockus Audris"
+    },
+    {
+        "key": "e_1_3_2_1_24_1",
+        "volume-title": "Proceedings of the 1996 Annual Conference on Computer Assurance. IEEE Computer Society",
+        "author": "Jefferson Offutt A.",
+        "year": "1996"
+    },
+    {
+        "key": "e_1_3_2_1_27_1",
+        "unstructured": "Salvatore Sanfilippo. 2017. Redis. (Feb. 2017). https://github.com/antirez/redis  Salvatore Sanfilippo. 2017. Redis. (Feb. 2017). https://github.com/antirez/redis"
+    },
+    {
+        "key": "e_1_3_2_1_29_1",
+        "unstructured": "Linus Torvals. 2017. Linux kernel. (Feb. 2017). https://github.com/torvalds/linux  Linus Torvals. 2017. Linux kernel. (Feb. 2017). https://github.com/torvalds/linux"
+    },
+    {
+        "key": "e_1_3_2_1_30_1",
+        "volume-title": "Empirical Evaluation of the Textual Differencing Regression Testing Technique. In 1998 International Conference on Software Maintenance, ICSM 1998",
+        "author": "Filippos",
+        "year": "1998"
+    },
+    {
+        "key": "e_1_3_2_1_31_1",
+        "unstructured": "IEEE Computer Society Washington DC USA 44\u201353. ICSM.1998.738488  IEEE Computer Society Washington DC USA 44\u201353. ICSM.1998.738488"
+    },
+    {
+        "key": "e_1_3_2_1_1_1",
+        "volume-title": "Verification and Validation (ICST), 2015 IEEE 8th International Conference on (ICST). 1--8.",
+        "author": "Aichernig B."
+    },
+    {
+        "key": "e_1_3_2_1_4_1",
+        "unstructured": "Bernhard K. Aichernig Elisabeth J\u00f6bstl and Stefan Tiran. 2014. Model-based mutation testing via symbolic refinement checking. (2014).  Bernhard K. Aichernig Elisabeth J\u00f6bstl and Stefan Tiran. 2014. Model-based mutation testing via symbolic refinement checking. (2014)."
+    },
+    {
+        "key": "e_1_3_2_1_8_1",
+        "volume-title": "Mathematics of Program Construction, MPC'98, Marstrand, Sweden, June 15--17",
+        "author": "Bonsangue Marcello M.",
+        "year": "1998"
+    },
+    {
+        "key": "e_1_3_2_1_20_1",
+        "volume-title": "1st International Summer School on Methods and Tools for the Design of Digital Systems",
+        "author": "Hilken Christoph",
+        "year": "2015"
+    },
+    {
+        "key": "e_1_3_2_1_25_1",
+        "unstructured": "HE Koenig Y Tokad HK Kesavan and others. 1978. Testing Software Design Modeled by Finite-State Machines. IEEE TRANSACTIONS ON SOFTWARE ENGINEERING 4 3 (1978). 10.1109/TSE.1978.231496   HE Koenig Y Tokad HK Kesavan and others. 1978. Testing Software Design Modeled by Finite-State Machines. IEEE TRANSACTIONS ON SOFTWARE ENGINEERING 4 3 (1978). 10.1109/TSE.1978.231496"
+    },
+    {
+        "key": "e_1_3_2_1_27_1",
+        "volume-title": "Proceedings of the 8th International Conference on Formal Methods for Components and Objects (FMCO). Springer-Verlag",
+        "author": "Krenn Willibald",
+        "year": "1939"
+    },
+    {
+        "key": "e_1_3_2_1_29_1",
+        "volume-title": "LLVM: A Compilation Framework for Lifelong Program Analysis & Transformation. In 2nd IEEE / ACM International Symposium on Code Generation and Optimization (CGO 2004",
+        "author": "Lattner Chris",
+        "year": "2004"
+    },
+    {
+        "key": "e_1_3_2_1_30_1",
+        "unstructured": "Steven M LaValle. 1998. Rapidly-exploring random trees: A new tool for path planning. (1998).  Steven M LaValle. 1998. Rapidly-exploring random trees: A new tool for path planning. (1998)."
+    },
+    {
+        "key": "e_1_3_2_1_33_1",
+        "unstructured": "Henry B Mann and Donald R Whitney. 1947. On a test of whether one of two random variables is stochastically larger than the other. The annals of mathematical statistics (1947) 50--60.  Henry B Mann and Donald R Whitney. 1947. On a test of whether one of two random variables is stochastically larger than the other. The annals of mathematical statistics (1947) 50--60."
+    },
+    {
+        "key": "e_1_3_2_1_45_1",
+        "first-page": "1233",
+        "article-title": "Automatic Test Data Generation For Structural Testing Of Embedded Software Systems By Evolutionary Testing",
+        "volume": "2",
+        "author": "Wegener Joachim",
+        "year": "2002",
+        "journal-title": "GECCO (GECCO)"
+    },
+    {
+        "key": "key-10.1145/3128473.3128478-4",
+        "unstructured": "Paolo Tonella Cu D. Nguyen, Alessandro Marchetto. Model based regression test reduction using dependence analysis. In In Proceedings of the International IEEE Conference on Software Maintenance, pages 214--223. IEEE, 2002."
+    },
+    {
+        "key": "key-10.1145/3128473.3128478-5",
+        "unstructured": "Paolo Tonella Cu D. Nguyen, Alessandro Marchetto. Test case prioritization for audit testing of evolving web services using information retrieval techniques. In Web Services (ICWS), 2011 IEEE International Conference on, pages 636--643. IEEE, 2011."
+    },
+    {
+        "key": "key-10.1145/3128473.3128478-8",
+        "unstructured": "Ferenc Horv&#225;th, B&#233;la Vancsics, L&#225;szl&#243; Vid&#225;cs, &#193;rp&#225;d Besz&#233;des, D&#225;vid Tengeri, Tam&#225;s Gergely, and Tibor Gyim&#243;thy. Test suite evaluation using code coverage based metrics. In 14th Symposium on Programming Languages and Software Tools, SPLST 2015. CEUR-WS, 2015."
+    },
+    {
+        "key": "key-10.1145/3128473.3128478-13",
+        "unstructured": "Michael McCandless, Erik Hatcher, and Otis Gospodnetic. Lucene in Action: Covers Apache Lucene 3.0. Manning Publications Co., 2010."
+    },
+    {
+        "issue": "2",
+        "key": "e_1_3_2_1_3_1",
+        "first-page": "113",
+        "article-title": "Toward the determination of su\ufb03cient mutant operators for C",
+        "volume": "11",
+        "author": "Barbosa E. F.",
+        "year": "2001",
+        "journal-title": "STVR"
+    },
+    {
+        "key": "e_1_3_2_1_5_1",
+        "first-page": "236",
+        "volume-title": "Neurocomputing",
+        "author": "Bridle J. S."
+    },
+    {
+        "key": "e_1_3_2_1_10_1",
+        "first-page": "285",
+        "volume-title": "Proc. SBES",
+        "author": "Delamaro M.",
+        "year": "2001"
+    },
+    {
+        "key": "e_1_3_2_1_32_1",
+        "volume-title": "MIT Press",
+        "author": "Joachims T.",
+        "year": "1999"
+    },
+    {
+        "key": "e_1_3_2_1_39_1",
+        "first-page": "970",
+        "article-title": "Comparison of random forest, support vector machine and back propagation neural network for electronic tongue data classification",
+        "volume": "177",
+        "author": "Liu M.",
+        "year": "2013",
+        "journal-title": "SABC"
+    },
+    {
+        "key": "e_1_3_2_1_44_1",
+        "unstructured": "A. McCallum K. Nigam etal A comparison of event models for naive bayes text classification. In AAAI.  A. McCallum K. Nigam et al. A comparison of event models for naive bayes text classification. In AAAI."
+    },
+    {
+        "key": "e_1_3_2_1_45_1",
+        "unstructured": "D. Michie D. J. Spiegelhalter and C. C. Taylor. Machine learning neural and statistical classification. 1994.   D. Michie D. J. Spiegelhalter and C. C. Taylor. Machine learning neural and statistical classification. 1994."
+    },
+    {
+        "key": "e_1_3_2_1_48_1",
+        "volume-title": "AAAI",
+        "author": "Mou L.",
+        "year": "2016"
+    },
+    {
+        "key": "e_1_3_2_1_51_1",
+        "volume-title": "Proc. ICPP",
+        "author": "Offutt A. J.",
+        "year": "1992"
+    },
+    {
+        "issue": "2",
+        "key": "e_1_3_2_1_55_1",
+        "first-page": "256",
+        "article-title": "Performance analysis of naive bayes and J48 classification algorithm for data classification",
+        "volume": "6",
+        "author": "Patil T. R.",
+        "year": "2013",
+        "journal-title": "IJCSA"
+    },
+    {
+        "key": "e_1_3_2_1_56_1",
+        "first-page": "553",
+        "volume-title": "Engineering and Management",
+        "author": "Peng H."
+    },
+    {
+        "key": "e_1_3_2_1_57_1",
+        "unstructured": "PMT homepage. https://github.com/SEITest/PMT.  PMT homepage. https://github.com/SEITest/PMT."
+    },
+    {
+        "key": "e_1_3_2_1_67_1",
+        "first-page": "32",
+        "volume-title": "Proc. AusDM",
+        "author": "Weng C. G.",
+        "year": "2008"
+    },
+    {
+        "key": "e_1_3_2_1_70_1",
+        "first-page": "265",
+        "volume-title": "Practice and Training",
+        "author": "Wong W. E.",
+        "year": "1995"
+    },
+    {
+        "key": "e_1_3_2_1_2_1",
+        "first-page": "3",
+        "volume-title": "Proceedings of the ICSE",
+        "author": "Bottaci L.",
+        "year": "2001"
+    },
+    {
+        "key": "e_1_3_2_1_4_1",
+        "volume-title": "Kluwer Academic Publishers",
+        "author": "Delamaro M. E.",
+        "year": "2001"
+    },
+    {
+        "key": "e_1_3_2_1_17_1",
+        "volume-title": "University of Kent",
+        "author": "May P. S.",
+        "year": "2007"
+    },
+    {
+        "key": "e_1_3_2_1_25_1",
+        "first-page": "1",
+        "volume-title": "Proceedings of the 11th ESELAW",
+        "author": "Souza F. C.",
+        "year": "2014"
+    },
+    {
+        "key": "e_1_3_2_1_1_1",
+        "first-page": "508",
+        "volume-title": "Encyclopedia of Measurement and Statistics",
+        "author": "Abdi H.",
+        "year": "2007"
+    },
+    {
+        "key": "e_1_3_2_1_7_1",
+        "volume-title": "Software Quality Assurance: A Worldwide Perspective.",
+        "author": "Basili V. R.",
+        "year": "1993"
+    },
+    {
+        "key": "e_1_3_2_1_17_1",
+        "volume-title": "University of Washington",
+        "author": "Just R.",
+        "year": "2014"
+    },
+    {
+        "key": "e_1_3_2_1_19_1",
+        "first-page": "604",
+        "volume-title": "Computer Software and Applications Conference, 1991. COMPSAC '91., Proceedings of the Fifteenth Annual International.",
+        "author": "Mathur A.",
+        "year": "1991"
+    },
+    {
+        "key": "e_1_3_2_1_23_1",
+        "volume-title": "University of Antwerp",
+        "author": "Parsai A.",
+        "year": "2015"
+    },
+    {
+        "key": "e_1_3_2_1_25_1",
+        "volume-title": "IFIP Conference On Approving Software Products (ASP-90)",
+        "author": "Sahinoglu M.",
+        "year": "1990"
+    },
+    {
+        "key": "e_1_3_2_1_27_1",
+        "volume-title": "USA: Purdue University",
+        "author": "Wong W. E.",
+        "year": "1993"
+    },
+    {
+        "key": "e_1_3_2_1_30_1",
+        "volume-title": "Applied Social Research Methods. SAGE Publications",
+        "author": "Yin R. K.",
+        "year": "2003"
+    },
+    {
+        "key": "e_1_3_2_1_4_1",
+        "unstructured": "Apache Software Foundation. Apache commons. http://commons.apache.org/.  Apache Software Foundation. Apache commons. http://commons.apache.org/."
+    },
+    {
+        "key": "e_1_3_2_1_5_1",
+        "unstructured": "Apache Software Foundation. Apache maven project. http://maven.apache.org.  Apache Software Foundation. Apache maven project. http://maven.apache.org."
+    },
+    {
+        "key": "e_1_3_2_1_8_1",
+        "volume-title": "Yale University",
+        "author": "Budd T. A.",
+        "year": "1980"
+    },
+    {
+        "key": "e_1_3_2_1_10_1",
+        "unstructured": "H. Coles. Pit mutation testing. http://pitest.org/.  H. Coles. Pit mutation testing. http://pitest.org/."
+    },
+    {
+        "key": "e_1_3_2_1_18_1",
+        "unstructured": "GitHub Inc. Software repository. http://www.github.com.  GitHub Inc. Software repository. http://www.github.com."
+    },
+    {
+        "key": "e_1_3_2_1_24_1",
+        "first-page": "200",
+        "volume-title": "International Conference on Software Engineering",
+        "author": "Hutchins M."
+    },
+    {
+        "key": "e_1_3_2_1_26_1",
+        "volume-title": "University of Waterloo",
+        "author": "Inozemtseva L. M. M.",
+        "year": "2012"
+    },
+    {
+        "key": "e_1_3_2_1_28_1",
+        "volume-title": "Texas Tech University",
+        "author": "Kakarla S.",
+        "year": "2010"
+    },
+    {
+        "key": "e_1_3_2_1_41_1",
+        "unstructured": "SIR\n\n  \n  : Software-artifact Infrastructure Repository. Sir usage information accessed at mar 8 2016. http://sir.unl.edu/portal/usage.php.  SIR: Software-artifact Infrastructure Repository. Sir usage information accessed at mar 8 2016. http://sir.unl.edu/portal/usage.php."
+    },
+    {
+        "key": "e_1_3_2_1_43_1",
+        "first-page": "396",
+        "volume-title": "Software Engineering (ICSE), 2012 34th International Conference on",
+        "author": "Tian Y."
+    },
+    {
+        "key": "e_1_3_2_1_44_1",
+        "volume-title": "Springer-Verlag",
+        "author": "Wei Y.",
+        "year": "2012"
+    },
+    {
+        "key": "key-10.1145/2896921.2896923-1",
+        "unstructured": "J. D. Evans.Straightforward Statistics for the Behavioral Sciences. Brooks/Cole Publishing, Pacific Grove, 1996."
+    },
+    {
+        "key": "key-10.1145/2896921.2896923-10",
+        "unstructured": "T. M. Mitchell.Machine learning, volume 8. McGraw-Hill Boston, MA, 1997."
+    },
+    {
+        "key": "key-10.1145/2896921.2896923-13",
+        "unstructured": "J. R. Quinlan.C4.5: Programs for Machine Learning. Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1993."
+    },
+    {
+        "key": "key-10.1145/2896921.2896923-17",
+        "unstructured": "Software-artifact infrastructure repository. http://sir.unl.edu/portal/bios/tcas.php. Accessed: 2016-01-13."
+    },
+    {
+        "key": "key-10.1145/2896921.2896923-18",
+        "unstructured": "Weka 3: Data mining software in java. http://www.cs.waikato.ac.nz/ml/weka/. Accessed: 2016-01-14."
+    },
+    {
+        "key": "key-10.1145/2896921.2896923-19",
+        "unstructured": "Guava utf8 source code. https://github.com/google/guava/blob/master/guava/src/com/google/common/base/Utf8.java. Accessed: 2016-01-13."
+    },
+    {
+        "key": "9237_CR1",
+        "unstructured": "ABC. (2007). ABC: Berkeley logic synthesis and verification group. a system for sequential synthesis and verification, release 70930. http://www.eecs.berkeley.edu/alanmi/abc/ ."
+    },
+    {
+        "key": "9237_CR4",
+        "unstructured": "Ball, T. (2004). A theory of predicate-complete test coverage and generation. In In FMCO 2004: Symposium on formal methods for components and objects, pp 1\u201322."
+    },
+    {
+        "key": "9237_CR7",
+        "volume-title": "Find the bug: A iook of incorrect programs",
+        "author": "A Barr",
+        "year": "2004",
+        "unstructured": "Barr, A. (2004). Find the bug: A iook of incorrect programs. Reading: Addison-Wesley Professional."
+    },
+    {
+        "key": "9237_CR8",
+        "unstructured": "Baudin, P., Filli\u00e2tre, J.C., Hubert, T., March\u00e9, C., Monate, B., Moy, Y., et al. (2009). ACSL: ANSI C specification language (preliminary design V1.9). http://www.frama-c.cea.fr/acsl.html ."
+    },
+    {
+        "key": "9237_CR12",
+        "volume-title": "Model checking",
+        "author": "E Clarke",
+        "year": "1999",
+        "unstructured": "Clarke, E., Brumberg, J. O., & Peled, D. A. (1999). Model checking. Cambridge: MIT Press."
+    },
+    {
+        "key": "9237_CR15",
+        "volume-title": "Introduction to algorithms",
+        "author": "TH Cormen",
+        "year": "2009",
+        "unstructured": "Cormen, T. H., Stein, C., Rivest, R. L., & Leiserson, C. E. (2009). Introduction to algorithms (3rd ed.). Cambridge: MIT Press.",
+        "edition": "3"
+    },
+    {
+        "key": "9237_CR23",
+        "unstructured": "Gough, B. J., & Stallman, R. M. (2005). An introduction to GCC. Network Theory Ltd"
+    },
+    {
+        "key": "9237_CR25",
+        "unstructured": "Heimdahl, M. P. E., Rayadurgam, S., Visser, W., Devaraj, G., & Gao, J. (2003). Auto-generating test sequences using model checkers: A case study. In Workshop on formal approaches to testing of software, pp 42\u201359."
+    },
+    {
+        "key": "9237_CR30",
+        "volume-title": "An introduction to formal languages and automata",
+        "author": "P Linz",
+        "year": "2012",
+        "unstructured": "Linz, P. (2012). An introduction to formal languages and automata (5th ed.). Burlington: Jones and Bartlett Learning.",
+        "edition": "5"
+    },
+    {
+        "key": "9237_CR31",
+        "unstructured": "Martinian, E. (2010). Red-black tree c code. http://www.mit.edu/emin/source_code/red_black_tree ."
+    },
+    {
+        "key": "9237_CR35",
+        "unstructured": "McMillan, K. L. (1998). The smv language: Cadence berkeley labs. Technical report."
+    },
+    {
+        "key": "9237_CR37",
+        "unstructured": "PBCOV-APPENDICES. (2013). PBCOV-APPENDICES. http://webfea.fea.aub.edu.lb/fadi/dkwk/doku.php?id=pbcov ."
+    },
+    {
+        "key": "9237_CR38",
+        "unstructured": "PBCOV-TOOL. (2013). PBCOV-TOOL. http://webfea.fea.aub.edu.lb/fadi/dkwk/doku.php?id=pbcov ."
+    },
+    {
+        "key": "9237_CR39",
+        "unstructured": "Rapps, S., & Weyuker, E. J. (1982). Data flow analysis techniques for test data selection. In International conference on Software engineering (pp. 272\u2013278). CA, USA: Los Alamitos."
+    },
+    {
+        "key": "e_1_2_1_1_1",
+        "volume-title": "Industrial validation of test coverage quality. Master's thesis",
+        "author": "Adolfsen Martijn"
+    },
+    {
+        "key": "e_1_2_1_2_1",
+        "volume-title": "Introduction to Software Testing",
+        "author": "Ammann Paul"
+    },
+    {
+        "key": "e_1_2_1_8_1",
+        "volume-title": "Proceedings of the International Symposium on Microarchitecture. 46--57",
+        "author": "Ball Thomas"
+    },
+    {
+        "key": "e_1_2_1_9_1",
+        "volume-title": "Proceedings of the Workshop on Model Checking of Software. 103--122",
+        "author": "Ball Thomas"
+    },
+    {
+        "key": "e_1_2_1_15_1",
+        "volume-title": "Ordinal Methods for Behavioral Data Analysis",
+        "author": "Cliff Norman"
+    },
+    {
+        "key": "e_1_2_1_16_1",
+        "unstructured": "Cloc. 2013. Count lines of code. http://cloc.sourceforge.net/.  Cloc. 2013. Count lines of code. http://cloc.sourceforge.net/."
+    },
+    {
+        "key": "e_1_2_1_17_1",
+        "unstructured": "Cobertura. 2013. Cobertura. http://cobertura.sourceforge.net/.  Cobertura. 2013. Cobertura. http://cobertura.sourceforge.net/."
+    },
+    {
+        "key": "e_1_2_1_18_1",
+        "unstructured": "CoCo. 2014. CoCo. http://mir.cs.illinois.edu/coco/.  CoCo. 2014. CoCo. http://mir.cs.illinois.edu/coco/."
+    },
+    {
+        "key": "e_1_2_1_19_1",
+        "unstructured": "T. H. Cormen C. E. Leiserson R. L. Rivest and C. Stein. 2009. Introduction to Algorithms 3rd Ed. The MIT Press.   T. H. Cormen C. E. Leiserson R. L. Rivest and C. Stein. 2009. Introduction to Algorithms 3rd Ed. The MIT Press."
+    },
+    {
+        "key": "e_1_2_1_21_1",
+        "unstructured": "Coverage. 2013. Instrumented container classes - Predicate coverage. http://mir.cs.illinois.edu/coverage/.  Coverage. 2013. Instrumented container classes - Predicate coverage. http://mir.cs.illinois.edu/coverage/."
+    },
+    {
+        "key": "e_1_2_1_24_1",
+        "unstructured": "Eclipse. 2013. Eclipse. http://http://www.eclipse.org/.  Eclipse. 2013. Eclipse. http://http://www.eclipse.org/."
+    },
+    {
+        "key": "e_1_2_1_25_1",
+        "unstructured": "Emma. 2013. EMMA. http://emma.sourceforge.net/.  Emma. 2013. EMMA. http://emma.sourceforge.net/."
+    },
+    {
+        "key": "e_1_2_1_30_1",
+        "unstructured": "gcov. 2013. gcov--a Test Coverage Program. http://gcc.gnu.org/onlinedocs/gcc/Gcov.html.  gcov. 2013. gcov--a Test Coverage Program. http://gcc.gnu.org/onlinedocs/gcc/Gcov.html."
+    },
+    {
+        "key": "e_1_2_1_39_1",
+        "volume-title": "Fundamental Statistics in Psychology and Education",
+        "author": "Guilford Joy Paul"
+    },
+    {
+        "key": "e_1_2_1_42_1",
+        "volume-title": "Proceedings of the International Conference on Software Engineering. 60--71",
+        "author": "Harder Michael"
+    },
+    {
+        "key": "e_1_2_1_43_1",
+        "volume-title": "Proceedings of the International Conference on Software Engineering. 172--181",
+        "author": "Hassan Mohammad Mahdi"
+    },
+    {
+        "key": "e_1_2_1_46_1",
+        "volume-title": "Proceedings of the International Conference on Software Engineering. 191--200",
+        "author": "Hutchins Monica",
+        "year": "1994"
+    },
+    {
+        "key": "e_1_2_1_48_1",
+        "volume-title": "Predicting test suite effectiveness for Java programs. Master's thesis",
+        "author": "McLean Inozemtseva Laura Michelle"
+    },
+    {
+        "key": "e_1_2_1_49_1",
+        "unstructured": "JFreeChart. 2013. JFreeChart. http://www.jfree.org/jfreechart/.  JFreeChart. 2013. JFreeChart. http://www.jfree.org/jfreechart/."
+    },
+    {
+        "key": "e_1_2_1_51_1",
+        "unstructured": "JodaTime. 2013. JodaTime. http://joda-time.sourceforge.net/.  JodaTime. 2013. JodaTime. http://joda-time.sourceforge.net/."
+    },
+    {
+        "key": "e_1_2_1_64_1",
+        "unstructured": "Purify. 2013. IBM Rational purify documentation. ftp://ftp.software.ibm.com/software/rational/docs/documentation/manuals/unixsuites/pdf/purify/purify.pdf.  Purify. 2013. IBM Rational purify documentation. ftp://ftp.software.ibm.com/software/rational/docs/documentation/manuals/unixsuites/pdf/purify/purify.pdf."
+    },
+    {
+        "key": "e_1_2_1_66_1",
+        "volume-title": "Proceedings of the International Conference on Software Maintenance. 82--91",
+        "author": "Rountev Atanas",
+        "year": "2004"
+    },
+    {
+        "key": "e_1_2_1_73_1",
+        "unstructured": "SQLite. 2013. SQLite. http://www.sqlite.org/.  SQLite. 2013. SQLite. http://www.sqlite.org/."
+    },
+    {
+        "key": "e_1_2_1_76_1",
+        "unstructured": "VMSpec. 2013. Java class file format. http://docs.oracle.com/javase/specs/jvms/se5.0/html/ClassFile.doc.html.  VMSpec. 2013. Java class file format. http://docs.oracle.com/javase/specs/jvms/se5.0/html/ClassFile.doc.html."
+    },
+    {
+        "key": "e_1_2_1_77_1",
+        "volume-title": "Proceedings of the International Conference on Software Maintenance. 44--53",
+        "author": "Filipos"
+    },
+    {
+        "key": "e_1_2_1_78_1",
+        "volume-title": "WALA: T. J. Watson Libraries for Analysis",
+        "author": "WALA.",
+        "year": "2013"
+    },
+    {
+        "key": "e_1_2_1_80_1",
+        "volume-title": "Is branch coverage a good measure of testing effectiveness? In Empirical Software Engineering and Verification",
+        "author": "Wei Yi"
+    },
+    {
+        "key": "e_1_2_1_81_1",
+        "volume-title": "Proceedings of the International Symposium on Software Reliability. 230--238",
+        "author": "Wong W. Eric"
+    },
+    {
+        "key": "e_1_2_1_83_1",
+        "volume-title": "YAFFS: A flash file system for embedded use",
+        "year": "2013"
+    },
+    {
+        "key": "e_1_3_2_1_2_1",
+        "volume-title": "Object and Source Coverage for Critical Applications with the COUVERTURE Open Analysis Framework. In ERTS (Embedded Real Time Sofware and Systems Conference)",
+        "author": "Bordin M.",
+        "year": "2010"
+    },
+    {
+        "key": "e_1_3_2_1_3_1",
+        "unstructured": "J. J. Chilenski \"An Investigation of Three Forms of the Modified Condition Decision Coverage (MCDC) Criterion\" U.S. Department of Transportation DOT/FAA/AR-01/18 2001.  J. J. Chilenski \"An Investigation of Three Forms of the Modified Condition Decision Coverage (MCDC) Criterion\" U.S. Department of Transportation DOT/FAA/AR-01/18 2001."
+    },
+    {
+        "key": "e_1_3_2_1_4_1",
+        "volume-title": "Formalization and Comparison of MCDC and Object Branch Coverage Criteria. In ERTS (Embedded Real Time Software and Systems Conference)",
+        "author": "Comar C.",
+        "year": "2012"
+    },
+    {
+        "key": "e_1_3_2_1_5_1",
+        "unstructured": "(9/5/2014). Clover: Java and Groovy Code Coverage. Available: https://www.atlassian.com/software/clover/overview  (9/5/2014). Clover: Java and Groovy Code Coverage. Available: https://www.atlassian.com/software/clover/overview"
+    },
+    {
+        "key": "e_1_3_2_1_8_1",
+        "unstructured": "(9/5/2014). JaCoCo Java Code Coverage Library. Available: http://www.eclemma.org/jacoco/  (9/5/2014). JaCoCo Java Code Coverage Library. Available: http://www.eclemma.org/jacoco/"
+    },
+    {
+        "key": "e_1_3_2_1_9_1",
+        "unstructured": "(9/5/2014). JavaSlicer. Available: http://www.st.cs.uni-saarland.de/javaslicer/  (9/5/2014). JavaSlicer. Available: http://www.st.cs.uni-saarland.de/javaslicer/"
+    },
+    {
+        "key": "e_1_3_2_1_12_1",
+        "unstructured": "M. D. Weiser \"Program slices: formal psychological and practical investigations of an automatic program abstraction method \" University of Michigan 1979.  M. D. Weiser \"Program slices: formal psychological and practical investigations of an automatic program abstraction method \" University of Michigan 1979."
+    },
+    {
+        "key": "e_1_3_2_1_4_1",
+        "unstructured": "Apache POI. http://poi.apache.org.  Apache POI. http://poi.apache.org."
+    },
+    {
+        "key": "e_1_3_2_1_7_1",
+        "unstructured": "Closure Compiler. https://code.google.com/p/closure-compiler/.  Closure Compiler. https://code.google.com/p/closure-compiler/."
+    },
+    {
+        "key": "e_1_3_2_1_8_1",
+        "unstructured": "CodeCover. http://codecover.org/.  CodeCover. http://codecover.org/."
+    },
+    {
+        "key": "e_1_3_2_1_9_1",
+        "unstructured": "Coverlipse. http://coverlipse.sourceforge.net/.  Coverlipse. http://coverlipse.sourceforge.net/."
+    },
+    {
+        "key": "e_1_3_2_1_13_1",
+        "unstructured": "M. Fowler. Test coverage. http: //martinfowler.com/bliki/TestCoverage.html 2012.  M. Fowler. Test coverage. http: //martinfowler.com/bliki/TestCoverage.html 2012."
+    },
+    {
+        "key": "e_1_3_2_1_21_1",
+        "volume-title": "McGraw-Hill",
+        "author": "Guilford J. P.",
+        "year": "1942"
+    },
+    {
+        "key": "e_1_3_2_1_22_1",
+        "volume-title": "NASA Langley Research Center",
+        "author": "Hayhurst K.",
+        "year": "2001"
+    },
+    {
+        "key": "e_1_3_2_1_23_1",
+        "unstructured": "HSQLDB. http://hsqldb.org.  HSQLDB. http://hsqldb.org."
+    },
+    {
+        "key": "e_1_3_2_1_24_1",
+        "volume-title": "Proc. of the Int\u2019l Conf. on Soft. Eng.",
+        "author": "Hutchins M.",
+        "year": "1994"
+    },
+    {
+        "key": "e_1_3_2_1_25_1",
+        "unstructured": "JFreeChart. http://jfree.org/jfreechart.  JFreeChart. http://jfree.org/jfreechart."
+    },
+    {
+        "key": "e_1_3_2_1_26_1",
+        "unstructured": "Joda Time. http://joda-time.sourceforge.net.  Joda Time. http://joda-time.sourceforge.net."
+    },
+    {
+        "key": "e_1_3_2_1_29_1",
+        "volume-title": "ACM Press",
+        "author": "Kit E.",
+        "year": "1995"
+    },
+    {
+        "key": "e_1_3_2_1_30_1",
+        "unstructured": "B. Marick. How to misuse code coverage. http://www. exampler.com/testing-com/writings/coverage.pdf 1997.  B. Marick. How to misuse code coverage. http://www. exampler.com/testing-com/writings/coverage.pdf 1997."
+    },
+    {
+        "key": "e_1_3_2_1_34_1",
+        "volume-title": "Wiley Publishing",
+        "author": "Perry W.",
+        "year": "2006"
+    },
+    {
+        "key": "e_1_3_2_1_35_1",
+        "unstructured": "PIT. http://pitest.org/.  PIT. http://pitest.org/."
+    },
+    {
+        "key": "e_1_3_2_1_36_1",
+        "unstructured": "Randoop. https://code.google.com/p/randoop/.  Randoop. https://code.google.com/p/randoop/."
+    },
+    {
+        "key": "e_1_3_2_1_37_1",
+        "unstructured": "R. Sharma. Guidelines for coverage-based comparisons of non-adequate test suites. Master\u2019s thesis University of Illinois at Urbana-Champaign 2013.  R. Sharma. Guidelines for coverage-based comparisons of non-adequate test suites. Master\u2019s thesis University of Illinois at Urbana-Champaign 2013."
+    },
+    {
+        "key": "e_1_3_2_1_38_1",
+        "unstructured": "SLOCCount. http://dwheeler.com/sloccount.  SLOCCount. http://dwheeler.com/sloccount."
+    },
+    {
+        "key": "e_1_3_2_1_2_1",
+        "first-page": "426",
+        "volume-title": "Proc. Int'l Conf. Education and Info. Sys.: Technologies and Applications, Int'l Inst. of Informatics and Systemics",
+        "author": "Edwards S.H.",
+        "year": "2003"
+    },
+    {
+        "key": "e_1_3_2_1_7_1",
+        "unstructured": "(10/19/2013). JaCoCo Java Code Coverage Library. Available: http://www.eclemma.org/jacoco/  (10/19/2013). JaCoCo Java Code Coverage Library. Available: http://www.eclemma.org/jacoco/"
+    },
+    {
+        "key": "e_1_3_2_1_8_1",
+        "unstructured": "(10/19/2013). Clover: Java and Groovy Code Coverage. Available: https://www.atlassian.com/software/clover/overview  (10/19/2013). Clover: Java and Groovy Code Coverage. Available: https://www.atlassian.com/software/clover/overview"
+    },
+    {
+        "key": "e_1_3_2_1_9_1",
+        "unstructured": "(10/19/2013). EMMA: a free Java code coverage tool. Available: http://emma.sourceforge.net/  (10/19/2013). EMMA: a free Java code coverage tool. Available: http://emma.sourceforge.net/"
+    },
+    {
+        "key": "e_1_3_2_1_17_1",
+        "unstructured": "D. Schuler. (04/15/2013). Javalanche. Available: https://github.com/david-schuler/javalanche/  D. Schuler. (04/15/2013). Javalanche. Available: https://github.com/david-schuler/javalanche/"
+    },
+    {
+        "key": "e_1_3_2_1_4_1",
+        "unstructured": "Apache Software Foundation. Apache maven project. http://maven.apache.org.  Apache Software Foundation. Apache maven project. http://maven.apache.org."
+    },
+    {
+        "key": "e_1_3_2_1_5_1",
+        "unstructured": "T. Ball. A theory of predicate-complete test coverage and generation 2004. Technical report Microsoft Research Technical Report MSR-TR-2004-28.  T. Ball. A theory of predicate-complete test coverage and generation 2004. Technical report Microsoft Research Technical Report MSR-TR-2004-28."
+    },
+    {
+        "key": "e_1_3_2_1_7_1",
+        "volume-title": "Department of Computer Science",
+        "author": "Budd T. A.",
+        "year": "1979"
+    },
+    {
+        "key": "e_1_3_2_1_9_1",
+        "volume-title": "DTIC Document",
+        "author": "Chilenski J. J.",
+        "year": "2001"
+    },
+    {
+        "key": "e_1_3_2_1_10_1",
+        "unstructured": "H. Coles. Pit mutation testing. http://pittest.org/.  H. Coles. Pit mutation testing. http://pittest.org/."
+    },
+    {
+        "key": "e_1_3_2_1_11_1",
+        "unstructured": "M. Doliner and Others. Cobertura - a code coverage utility for java. http://cobertura.github.io/cobertura.  M. Doliner and Others. Cobertura - a code coverage utility for java. http://cobertura.github.io/cobertura."
+    },
+    {
+        "key": "e_1_3_2_1_14_1",
+        "unstructured": "GitHub Inc. Github languages. http://www.github.com/languages.  GitHub Inc. Github languages. http://www.github.com/languages."
+    },
+    {
+        "key": "e_1_3_2_1_15_1",
+        "unstructured": "GitHub Inc. Software repository. http://www.github.com.  GitHub Inc. Software repository. http://www.github.com."
+    },
+    {
+        "key": "e_1_3_2_1_17_1",
+        "unstructured": "R. Gopinath. Replication data for: Code coverage for suite evaluation by developers. In http: // dx. doi. org/ 10. 7910/ DVN/ 24574. Harvard Dataverse Network V1 2014-01. 10.1145/2568225.2568278   R. Gopinath. Replication data for: Code coverage for suite evaluation by developers. In http: // dx. doi. org/ 10. 7910/ DVN/ 24574. Harvard Dataverse Network V1 2014-01. 10.1145/2568225.2568278"
+    },
+    {
+        "key": "e_1_3_2_1_19_1",
+        "first-page": "181",
+        "volume-title": "Proceedings of the 2013 International Conference on Software Engineering",
+        "author": "Hassan M. M."
+    },
+    {
+        "key": "e_1_3_2_1_20_1",
+        "first-page": "200",
+        "volume-title": "Proceedings of the 16th international conference on Software engineering",
+        "author": "Hutchins M."
+    },
+    {
+        "key": "e_1_3_2_1_22_1",
+        "volume-title": "University of Waterloo",
+        "author": "Inozemtseva L. M. M.",
+        "year": "2012"
+    },
+    {
+        "key": "e_1_3_2_1_23_1",
+        "volume-title": "Texas Tech University",
+        "author": "Kakarla S.",
+        "year": "2010"
+    },
+    {
+        "key": "e_1_3_2_1_25_1",
+        "unstructured": "R. Liesenfeld. JMockit - A developer testing toolkit for Java. http://code.google.com/p/jmockit/.  R. Liesenfeld. JMockit - A developer testing toolkit for Java. http://code.google.com/p/jmockit/."
+    },
+    {
+        "key": "e_1_3_2_1_27_1",
+        "unstructured": "G. J. Myers. The art of software testing. A Willy-Interscience Pub 1979.   G. J. Myers. The art of software testing. A Willy-Interscience Pub 1979."
+    },
+    {
+        "key": "e_1_3_2_1_29_1",
+        "unstructured": "A. J. Offutt and J. M. Voas. Subsumption of condition coverage techniques by mutation testing. Technical report 1996.  A. J. Offutt and J. M. Voas. Subsumption of condition coverage techniques by mutation testing. Technical report 1996."
+    },
+    {
+        "key": "e_1_3_2_1_30_1",
+        "unstructured": "C. Pacheco and M. D. Ernst. Randoop random test generation. http://code.google.com/p/randoop.  C. Pacheco and M. D. Ernst. Randoop random test generation. http://code.google.com/p/randoop."
+    },
+    {
+        "key": "e_1_3_2_1_32_1",
+        "unstructured": "V. Roubtsov and Others. Emma - a free java code coverage tool. http://emma.sourceforge.net/.  V. Roubtsov and Others. Emma - a free java code coverage tool. http://emma.sourceforge.net/."
+    },
+    {
+        "key": "e_1_3_2_1_33_1",
+        "unstructured": "R. Schmidberger and Others. Codecover - an open-source glass-box testing tool. http://codecover.org/.  R. Schmidberger and Others. Codecover - an open-source glass-box testing tool. http://codecover.org/."
+    },
+    {
+        "key": "e_1_3_2_1_34_1",
+        "unstructured": "TIOBE. Tiobe index. http://www.tiobe.com/index. php/content/paperinfo/tpci/index.html.  TIOBE. Tiobe index. http://www.tiobe.com/index. php/content/paperinfo/tpci/index.html."
+    },
+    {
+        "key": "e_1_3_2_1_35_1",
+        "first-page": "212",
+        "volume-title": "Empirical Software Engineering and Verification",
+        "author": "Wei Y."
+    },
+    {
+        "key": "e_1_3_2_1_1_1",
+        "unstructured": "CodeCover - an open-source glass-box testing tool. http://codecover.org/.  CodeCover - an open-source glass-box testing tool. http://codecover.org/."
+    },
+    {
+        "key": "e_1_3_2_1_2_1",
+        "unstructured": "Heartbleed bug. http://heartbleed.com.  Heartbleed bug. http://heartbleed.com."
+    },
+    {
+        "key": "e_1_3_2_1_7_1",
+        "volume-title": "International Thomson Computer Press",
+        "author": "Beizer B.",
+        "year": "1990"
+    },
+    {
+        "key": "e_1_3_2_1_10_1",
+        "volume-title": "Department of Computer Science",
+        "author": "Budd T. A.",
+        "year": "1979"
+    },
+    {
+        "key": "e_1_3_2_1_12_1",
+        "first-page": "124",
+        "volume-title": "International Symposium on Software Reliability Engineering",
+        "author": "Frate F. Del",
+        "year": "1995"
+    },
+    {
+        "key": "e_1_3_2_1_18_1",
+        "unstructured": "M. Gligoric A. Groce C. Zhang R. Sharma A. Alipour and D. Marinov. Guidelines for coverage-based comparisons of non-adequate test suites. ACM Transactions on Software Engineering and Methodology. Accepted for publication.  M. Gligoric A. Groce C. Zhang R. Sharma A. Alipour and D. Marinov. Guidelines for coverage-based comparisons of non-adequate test suites. ACM Transactions on Software Engineering and Methodology. Accepted for publication."
+    },
+    {
+        "key": "e_1_3_2_1_23_1",
+        "volume-title": "International Symposium on Software Reliability Engineering",
+        "author": "Gopinath R.",
+        "year": "2014"
+    },
+    {
+        "key": "e_1_3_2_1_24_1",
+        "unstructured": "M. Green. Attack of the week: OpenSSL Heartbleed. http://blog.cryptographyengineering.com/2014/04/attack-of-week-openssl-heartbleed.html.  M. Green. Attack of the week: OpenSSL Heartbleed. http://blog.cryptographyengineering.com/2014/04/attack-of-week-openssl-heartbleed.html."
+    },
+    {
+        "key": "e_1_3_2_1_33_1",
+        "first-page": "970",
+        "volume-title": "Encyclopedia of Software Engineering",
+        "author": "Hamlet R.",
+        "year": "1994"
+    },
+    {
+        "key": "e_1_3_2_1_35_1",
+        "first-page": "60",
+        "volume-title": "International Conference on Software Engineering",
+        "author": "Harder M.",
+        "year": "2003"
+    },
+    {
+        "key": "e_1_3_2_1_37_1",
+        "first-page": "172",
+        "volume-title": "International Conference on Software Engineering",
+        "author": "Hassan M. M.",
+        "year": "2013"
+    },
+    {
+        "key": "e_1_3_2_1_41_1",
+        "volume-title": "Inc.",
+        "author": "Kaner C.",
+        "year": "2001"
+    },
+    {
+        "key": "e_1_3_2_1_42_1",
+        "unstructured": "A. Langley. Apple's SSL/TLS bug. https://www.imperialviolet.org/2014/02/22/applebug.html.  A. Langley. Apple's SSL/TLS bug. https://www.imperialviolet.org/2014/02/22/applebug.html."
+    },
+    {
+        "key": "e_1_3_2_1_43_1",
+        "volume-title": "S. McConnell. Code Complete",
+        "year": "2004"
+    },
+    {
+        "key": "e_1_3_2_1_49_1",
+        "unstructured": "J. Regehr. Guidelines for research on finding bugs. http://blog.regehr.org/archives/1038 2014.  J. Regehr. Guidelines for research on finding bugs. http://blog.regehr.org/archives/1038 2014."
+    },
+    {
+        "key": "e_1_3_2_1_53_1",
+        "unstructured": "J. Ruderman. Introducing jsfunfuzz 2007. http://www.squarefree.com/2007/08/02/introducing-jsfunfuzz/.  J. Ruderman. Introducing jsfunfuzz 2007. http://www.squarefree.com/2007/08/02/introducing-jsfunfuzz/."
+    },
+    {
+        "key": "e_1_3_2_1_1_1",
+        "unstructured": "A. T. Acree. On Mutation. Phd thesis Georgia Institute of Technology Atlanta Georgia 1980.   A. T. Acree. On Mutation. Phd thesis Georgia Institute of Technology Atlanta Georgia 1980."
+    },
+    {
+        "key": "e_1_3_2_1_3_1",
+        "volume-title": "Addison Wesley",
+        "author": "Aho A. V.",
+        "year": "1986"
+    },
+    {
+        "key": "e_1_3_2_1_11_1",
+        "first-page": "148",
+        "volume-title": "Proceedings of the Summer School on Computer Program Testing",
+        "author": "Budd T. A.",
+        "year": "1981"
+    },
+    {
+        "key": "e_1_3_2_1_25_1",
+        "volume-title": "Workshop on Process Modelling and Empirical Studies of Software Evolution",
+        "author": "Harman M.",
+        "year": "1997"
+    },
+    {
+        "key": "e_1_3_2_1_27_1",
+        "first-page": "1990",
+        "article-title": "International standards organisation: Programming languages \u2014 C. International standard",
+        "volume": "9899",
+        "author": "International Standards",
+        "year": "1990",
+        "journal-title": "ISO/IEC"
+    },
+    {
+        "key": "e_1_3_2_1_30_1",
+        "volume-title": "Proceedings of the Dagstuhl Seminar 13021: Symbolic Methods in Testing",
+        "volume": "1303",
+        "author": "Just R.",
+        "year": "2013"
+    },
+    {
+        "key": "e_1_3_2_1_44_1",
+        "first-page": "123",
+        "volume-title": "Proceedings of the 12th International Conference on Testing Computer Software",
+        "author": "Offutt A. J.",
+        "year": "1995"
+    },
+    {
+        "key": "e_1_3_2_1_48_1",
+        "volume-title": "Saarland University",
+        "author": "Schuler D.",
+        "year": "2009"
+    },
+    {
+        "key": "e_1_3_2_1_52_1",
+        "volume-title": "John Wiley & Sons",
+        "author": "Voas J.",
+        "year": "1997"
+    },
+    {
+        "key": "e_1_3_2_1_5_1",
+        "volume-title": "Accessed",
+        "year": "2014"
+    },
+    {
+        "key": "e_1_3_2_1_25_1",
+        "first-page": "12",
+        "volume-title": "Proceedings of the Net. Object Days Conference on Object-Oriented Software Systems",
+        "author": "Kim S.",
+        "year": "2000"
+    },
+    {
+        "key": "e_1_3_2_1_36_1",
+        "volume-title": "Accessed",
+        "author": "SIR",
+        "year": "2014"
+    },
+    {
+        "key": "e_1_3_2_1_1_1",
+        "unstructured": "PIT. http://pitest.org/.  PIT. http://pitest.org/."
+    },
+    {
+        "key": "e_1_3_2_1_2_1",
+        "unstructured": "P. Ammann and J. Offutt. Introduction to Software Testing. Cambridge University Press.   P. Ammann and J. Offutt. Introduction to Software Testing. Cambridge University Press."
+    },
+    {
+        "issue": "2",
+        "key": "e_1_3_2_1_4_1",
+        "first-page": "113",
+        "article-title": "Toward the determination of sufficient mutant operators for C",
+        "volume": "11",
+        "author": "Barbosa E. F.",
+        "year": "2001",
+        "journal-title": "STVR"
+    },
+    {
+        "issue": "5",
+        "key": "e_1_3_2_1_6_1",
+        "first-page": "347",
+        "article-title": "A new heuristic for test suite reduction",
+        "volume": "40",
+        "author": "Chen T.",
+        "year": "1998",
+        "journal-title": "IST"
+    },
+    {
+        "key": "e_1_3_2_1_22_1",
+        "first-page": "605",
+        "volume-title": "Proc. COMPSAC",
+        "author": "Mathur A. P.",
+        "year": "1991"
+    },
+    {
+        "key": "e_1_3_2_1_23_1",
+        "volume-title": "Purdue University",
+        "author": "Mathur A. P.",
+        "year": "1988"
+    },
+    {
+        "key": "e_1_3_2_1_33_1",
+        "volume-title": "Encyclopedia of Research Design",
+        "author": "Williams L. J.",
+        "year": "2010"
+    },
+    {
+        "key": "e_1_3_2_1_1_1",
+        "volume-title": "University of Twente",
+        "author": "Adolfsen M.",
+        "year": "2011"
+    },
+    {
+        "key": "e_1_3_2_1_14_1",
+        "volume-title": "Pyschology Press",
+        "author": "Cliff N.",
+        "year": "1996"
+    },
+    {
+        "key": "e_1_3_2_1_15_1",
+        "unstructured": "Count lines of code. http://cloc.sourceforge.net/.  Count lines of code. http://cloc.sourceforge.net/."
+    },
+    {
+        "key": "e_1_3_2_1_16_1",
+        "volume-title": "Third Edition. The MIT Press",
+        "author": "Cormen T. H.",
+        "year": "2009"
+    },
+    {
+        "key": "e_1_3_2_1_17_1",
+        "first-page": "3",
+        "article-title": "Criteria for measures of association",
+        "author": "Costner H. L.",
+        "year": "1965",
+        "journal-title": "American Sociological Review"
+    },
+    {
+        "key": "e_1_3_2_1_18_1",
+        "unstructured": "Instrumented container classes - predicate coverage. http://mir.cs.illinois.edu/coverage/.  Instrumented container classes - predicate coverage. http://mir.cs.illinois.edu/coverage/."
+    },
+    {
+        "key": "e_1_3_2_1_30_1",
+        "volume-title": "McGraw-Hill",
+        "author": "Guilford J. P.",
+        "year": "1956"
+    },
+    {
+        "key": "e_1_3_2_1_33_1",
+        "first-page": "71",
+        "volume-title": "International Conference on Software Engineering",
+        "author": "Harder M.",
+        "year": "2003"
+    },
+    {
+        "key": "e_1_3_2_1_34_1",
+        "first-page": "181",
+        "volume-title": "International Conference on Software Engineering",
+        "author": "Hassan M. M.",
+        "year": "2013"
+    },
+    {
+        "key": "e_1_3_2_1_36_1",
+        "first-page": "200",
+        "volume-title": "International Conference on Software Engineering",
+        "author": "Hutchins M.",
+        "year": "1994"
+    },
+    {
+        "key": "e_1_3_2_1_37_1",
+        "unstructured": "JFreeChart Home Page. http://www.jfree.org/ jfreechart/.  JFreeChart Home Page. http://www.jfree.org/ jfreechart/."
+    },
+    {
+        "key": "e_1_3_2_1_39_1",
+        "unstructured": "JodaTime Home Page. http://joda-time. sourceforge.net/.  JodaTime Home Page. http://joda-time. sourceforge.net/."
+    },
+    {
+        "key": "e_1_3_2_1_43_1",
+        "first-page": "107",
+        "volume-title": "International Conference on Software Engineering",
+        "author": "Offutt A. J.",
+        "year": "1993"
+    },
+    {
+        "key": "e_1_3_2_1_50_1",
+        "unstructured": "SQLite Home Page. http://www.sqlite.org/.  SQLite Home Page. http://www.sqlite.org/."
+    },
+    {
+        "key": "e_1_3_2_1_57_1",
+        "unstructured": "YAFFS\n\n  \n  : A flash file system for embedded use. http:// www.yaffs.net.  YAFFS: A flash file system for embedded use. http:// www.yaffs.net."
+    },
+    {
+        "key": "10.1002/stvr.1497-BIB0002|stvr1497-cit-0002",
+        "unstructured": "Weiser M Program slices: Formal, psychological, and practical investigations of an automatic program abstraction method Ph.D. Thesis 1979"
+    },
+    {
+        "key": "10.1002/stvr.1497-BIB0006|stvr1497-cit-0006",
+        "unstructured": "Hammacher C Design and implementation of an efficient dynamic slicer for Java Bachelor's Thesis 2008"
+    },
+    {
+        "key": "10.1002/stvr.1497-BIB0007|stvr1497-cit-0007",
+        "unstructured": "Nevill-Manning CG Witten IH Maulsby D Compression by induction of hierarchical grammars DCC '94: Proceedings of the 4th Data Compression Conference 1994 244 253"
+    },
+    {
+        "key": "10.1002/stvr.1497-BIB0008|stvr1497-cit-0008",
+        "unstructured": "Nevill-Manning CG Witten IH Linear-time, incremental hierarchy inference for compression DCC \u201997: Proceedings of the 7th Data Compression Conference 1997 3 11"
+    },
+    {
+        "key": "10.1002/stvr.1497-BIB0023|stvr1497-cit-0023",
+        "unstructured": "Rapps S Weyuker EJ Data flow analysis techniques for test data selection ICSE \u201982: Proceedings of the 6th International Conference on Software Engineering 1982 272 278"
+    },
+    {
+        "issue": "3",
+        "key": "10.1002/stvr.1497-BIB0028|stvr1497-cit-0028",
+        "first-page": "121",
+        "article-title": "A survey of program slicing techniques",
+        "volume": "3",
+        "author": "Tip",
+        "year": "1995",
+        "journal-title": "Journal of Programming Language"
+    },
+    {
+        "key": "10.1016/j.infsof.2010.03.001_bib1",
+        "unstructured": "J. Dean, S. Ghemawat, MapReduce: Simplified Data Processing on Large Clusters. <http://labs.google.com/papers/mapreduce-osdi04.pdf> (accessed 29.06.09)."
+    },
+    {
+        "key": "10.1016/j.infsof.2010.03.001_bib2",
+        "series-title": "Programming Erlang: Software for a Concurrent World",
+        "author": "Armstrong",
+        "year": "2007"
+    },
+    {
+        "key": "10.1016/j.infsof.2010.03.001_bib5",
+        "series-title": "Cleanroom Software Engineering: Technology and Process",
+        "author": "Prowell",
+        "year": "1999"
+    },
+    {
+        "key": "10.1016/j.infsof.2010.03.001_bib6",
+        "unstructured": "MIL-HDBK-338B, Electronic reliability design handbook, 1998."
+    },
+    {
+        "key": "10.1016/j.infsof.2010.03.001_bib8",
+        "unstructured": "J.D. Musa, Sensitivity of field failure intensity to operational profile errors, in: Proc. 5th International Symposium on Software Reliability Engineering, 1994, pp. 334\u2013337."
+    },
+    {
+        "key": "10.1016/j.infsof.2010.03.001_bib10",
+        "unstructured": "D.M. Woit, Estimating Software Reliability with Hypothesis Testing. Technical Report CRL-263, McMaster University, 1993."
+    },
+    {
+        "key": "10.1016/j.infsof.2010.03.001_bib11",
+        "unstructured": "D.M. Woit, Operational Profile Specification, Test Case Generation, and Reliability Estimation for Modules, Ph.D. Thesis, Queen\u2019s University Kingstone, Ontario, Canada,1994."
+    },
+    {
+        "key": "10.1016/j.infsof.2010.03.001_bib12",
+        "unstructured": "D.M. Woit, A framework for reliability estimation, in: Proc. 5th IEEE International Symposium on Software Reliability Engineering, 1994, pp. 18\u201324."
+    },
+    {
+        "key": "10.1016/j.infsof.2010.03.001_bib13",
+        "series-title": "Software Reliability Testing",
+        "author": "Pham",
+        "year": "1995"
+    },
+    {
+        "key": "10.1016/j.infsof.2010.03.001_bib14",
+        "series-title": "Testing Embedded Software",
+        "author": "Broakman",
+        "year": "2002"
+    },
+    {
+        "key": "10.1016/j.infsof.2010.03.001_bib15",
+        "unstructured": "M. Hubner, I. Philippow, M. Riebisch. Statistical usage testing based on UML, in: Proc. 7th World Multiconferences on Systemics, Cybernetics and Informatics, 2003, pp. 290\u2013295."
+    },
+    {
+        "key": "10.1016/j.infsof.2010.03.001_bib17",
+        "unstructured": "M. Popovic, I. Velikic, A generic model-based test case generator, in: Proc. 12th IEEE International Conference and Workshops on the Engineering of Computer-Based Systems, 2005, pp. 221\u2013228."
+    },
+    {
+        "key": "10.1016/j.infsof.2010.03.001_bib20",
+        "unstructured": "M. Gittens, H. Lutfiyya, M. Bauer, C. Gittens, Extending the traditional operational profile model, in: Fast Abstract 14th IEEE International Symposium on Software Reliability Engineering, 2003."
+    },
+    {
+        "key": "10.1016/j.infsof.2010.03.001_bib21",
+        "unstructured": "S. Kamavaram, K.G. Popstojanova, Entropy as a measure of uncertainty in software reliability, in: Fast Abstract 13th IEEE International Symposium on Software Reliability Engineering, 2002."
+    },
+    {
+        "key": "10.1016/j.infsof.2010.03.001_bib22",
+        "unstructured": "K.G. Popstojanova, S. Kamavaram, Assessing uncertainty in reliability of component\u2013based software systems, in: Proc. 14th IEEE International Symposium on Software Reliability Engineering, 2003, pp. 307\u2013320."
+    },
+    {
+        "key": "10.1016/j.infsof.2010.03.001_bib23",
+        "unstructured": "K.G. Popstojanova, S. Kamavaram, Software reliability estimation under uncertainty: generalization of the method of moments, in: Fast Abstract 15th IEEE International Symposium on High-Assurance Systems Engineering, 2004."
+    },
+    {
+        "key": "10.1016/j.infsof.2010.03.001_bib28",
+        "series-title": "ASIAN 2004, LNCS 3321",
+        "first-page": "320",
+        "article-title": "Adaptive random testing",
+        "author": "Chen",
+        "year": "2004"
+    },
+    {
+        "key": "10.1016/j.infsof.2010.03.001_bib33",
+        "series-title": "Communication Protocol Engineering",
+        "author": "Popovic",
+        "year": "2006"
+    },
+    {
+        "key": "e_1_2_1_1_1",
+        "volume-title": "CodeSurfer/Path Inspector. In Proc. of the IEEE Int. Conf. on Software Maintenance (ICSM04)",
+        "author": "Anderson P.",
+        "year": "2004"
+    },
+    {
+        "key": "e_1_2_1_10_1",
+        "first-page": "191",
+        "volume-title": "Proc. of ICSE'94",
+        "author": "Hutchins M.",
+        "year": "1994"
+    },
+    {
+        "key": "e_1_2_1_12_1",
+        "volume-title": "Proc. of the Work. on the Evaluation of Software Defect Detection Tools",
+        "author": "Lu S.",
+        "year": "2005"
+    },
+    {
+        "issue": "3",
+        "key": "e_1_2_1_16_1",
+        "article-title": "The free lunch is over: A fundamental turn toward concurrency in software",
+        "volume": "30",
+        "author": "Sutter H.",
+        "year": "2005",
+        "journal-title": "Dr. Dobb's Journal"
+    }
+]

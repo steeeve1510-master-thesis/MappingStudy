@@ -1,0 +1,951 @@
+Title,Authors,Published,DOI,Published_In,Referenced_By
+(Quickly) testing the tester via path coverage,Alex,2009,10.1145/2134243.2134249,Proceedings of the Seventh International Workshop on Dynamic Analysis - WODA '09,
+(Un-)Covering Equivalent Mutants,"David, Andreas",2010,10.1109/ICST.2010.30,"2010 Third International Conference on Software Testing, Verification and Validation",
+A Comparison of Mutation Analysis Tools for Java,"Mickael, Lydie",2013-7,10.1109/QSIC.2013.47,2013 13th International Conference on Quality Software,
+A Concept Analysis Inspired Greedy Algorithm for Test Suite Minimization,"Tallam, S. and Gupta, N.",2005,,The 6th ACM SIGPLAN-SIGSOFT workshop on Program analysis for software tools and engineering  - PASTE '05,RealesMateo2013
+A Dissection of the Test-Driven Development Process: Does It Really Matter to Test-First or to Test-Last?,"Davide, Hakan, Burak, Markku, Natalia",2017-7-1,10.1109/TSE.2016.2616877,IEEE Transactions on Software Engineering,
+A Fortran Language System for Mutation Based Software Testing,"King, K.N. and Offutt, A.J.",1991,,Software: Practice and Experience,RealesMateo2013
+A Fortran language system for mutation-based software testing,"King, K.N. and Offutt, A.J.",1991,,Software: Practice and Experience,McMinn2019
+A Hitchhiker's guide to statistical tests for assessing randomized algorithms in software engineering,"Andrea, Lionel",2012-11-6,10.1002/stvr.1486,"Software Testing, Verification and Reliability",
+A Hitchhiker’s guide to statistical tests for assessing randomized algorithms in software engineering,"Arcuri, A. and Briand, L.",2014,,"Software Testing, Verification and Reliability",Gopinath2017a
+A Little Language for Testing,"Alex, Jervis",2015,10.1007/978-3-319-17524-9_15,"Lecture Notes in Computer Science, NASA Formal Methods",
+A Logic Mutation Approach to Selective Mutation for Programs and Queries,"Kaminski, G. and Praphamontripong, U. and Ammann, P. and Offutt, J.",2011,,Information and Software Technology,RealesMateo2013
+A Manifesto for Higher Order Mutation Testing,"Mark, Yue, William B.",2010-4,10.1109/ICSTW.2010.13,"2010 Third International Conference on Software Testing, Verification, and Validation Workshops",
+A Methodology for Controlling the Size of a Test Suite,"Harrold, M. and Gupta, R. and Soffa, M.",1993,,Proceedings. Conference on Software Maintenance 1990,RealesMateo2013
+A Practitioner’s Guide to Software Test Design,"Copeland, L.",2004,,,Tengeri2015
+A SPECIFICATION-BASED COVERAGE METRIC TO EVALUATE TEST SETS,"PAUL E., PAUL E.",2001-12,10.1142/S0218539301000530,"International Journal of Reliability, Quality and Safety Engineering",
+A Static Approach to Prioritizing JUnit Test Cases,"Hong, Dan, Lingming, Lu, Ji, Gregg",2012-11,10.1109/TSE.2011.106,IEEE Transactions on Software Engineering,
+A Statistical Approach to Model-Based Robustness Testing,"Miroslav, Jelena",2007-3,10.1109/ECBS.2007.13,14th Annual IEEE International Conference and Workshops on the Engineering of Computer-Based Systems (ECBS'07),
+A Study and Review on the Development of Mutation Testing Tools for Java and Aspect-J Programs,"Pradeep, , Om Prakash, Arun, , ",2014-11-8,10.5815/ijmecs.2014.11.01,International Journal of Modern Education and Computer Science,
+A Survey of Coverage-Based Testing Tools,"Q., J. J., D. M.",2007-5-25,10.1093/comjnl/bxm021,The Computer Journal,
+A Survey on Unit Testing Practices and Problems,"Ermira, Gordon",2014-11,10.1109/ISSRE.2014.11,2014 IEEE 25th International Symposium on Software Reliability Engineering,
+A Test Generation Strategy for Pairwise Testing,"Tai, K.-C. and Lei, Y.",2002-01,,,RealesMateo2013
+A Test-Suite Diagnosability Metric for Spectrum-Based Fault Localization Approaches,"Alexandre, Rui, Arie",2017-5,10.1109/ICSE.2017.66,2017 IEEE/ACM 39th International Conference on Software Engineering (ICSE),
+A Tester-Assisted Methodology for Test Redundancy Detection,"Negar, Vahid",2010-1-17,10.1155/2010/932686,Advances in Software Engineering,
+"A Theoretical and Empirical Study of Search-Based Testing: Local, Global, and Hybrid Search","M., P.",2010-3,10.1109/TSE.2009.71,IEEE Transactions on Software Engineering,
+A Theory of Predicate-Complete Test Coverage and Generation,Thomas,2005,10.1007/11561163_1,"Formal Methods for Components and Objects, Lecture Notes in Computer Science",
+A case study of concolic testing tools and their limitations,"Qu, X. and Robinson, B.",2011-09,,2011 International Symposium on Empirical Software Engineering and Measurement,Robinson2011
+A combinatorial testing strategy for concurrent programs,"Yu, Richard H., Raghu, David",2007,10.1002/stvr.369,"Software Testing, Verification and Reliability",
+A comparative study of coarse- and fine-grained safe regression test-selection techniques,"John, Gregg, David S.",2001-4,10.1145/367008.367015,ACM Transactions on Software Engineering and Methodology,
+A comparison of mutation analysis tools for Java,"Delahaye, M. and Bousquet, L.",2013,,2013 13th International Conference on Quality Software,Kracht2014
+A comparison of some structural testing strategies,S.C.,1988-6,10.1109/32.6165,IEEE Transactions on Software Engineering,
+A comprehensive framework for testing database-centric applications,"Kapfhammer, G.M.",2007,,,McMinn2019
+A data flow fault coverage metric for validation of behavioral hdl descriptions,"Zhang, Q. and Harris, I.G.",2000,,IEEE/ACM International Conference on Computer Aided Design. ICCAD - 2000. IEEE/ACM Digest of Technical Papers (Cat. No.00CH37140),Zhu2018
+A domain-specific language for model mutation and its application to the automated generation of exercises,"Gómez-Abajo, P. and Guerra, E. and Lara, J.",2017,,"Computer Languages, Systems & Structures",GomezAbajo2020
+A dynamic test cluster sampling strategy by leveraging execution spectra information,"Yan, S. and Chen, Z. and Zhao, Z. and Zhang, C. and Zhou, Y.",2010-04,,"2010 Third International Conference on Software Testing, Verification and Validation",Bruenink2018
+A fault model and mutation testing of access control policies,"Martin, E. and Xie, T.",2007,,Proceedings of the 16th international conference on World Wide Web  - WWW '07,Daoudagh2015
+A fortran language system for mutation-based software testing,"K. N., A. Jefferson",1991-7,10.1002/spe.4380210704,Software: Practice and Experience,
+A generic metamodel for security policies mutation,"Mouelhi, T. and Fleurey, F. and Baudry, B.",2008,,2008 IEEE International Conference on Software Testing Verification and Validation Workshop,Daoudagh2015
+A gimmick to integrate software testing throughout the curriculum,Michael H.,2002,10.1145/563340.563446,Proceedings of the 33rd SIGCSE technical symposium on Computer science education  - SIGCSE '02,
+A hitchhiker’s guide to statistical tests for assessing randomized algorithms in software engineering,"Arcuri, A. and Briand, L.",2014,,"Software Testing, Verification and Reliability",McMinn2019
+A hybrid coverage criterion for dynamic web testing,"Zou, Y. and Fang, C. and Chen, Z. and Zhang, X. and Zhao, Z.",2013,,,Mirzaaghaei2014
+A large scale evaluation of automated unit test generation using evosuite,"Fraser, G. and Arcuri, A.",2014,,ACM Transactions on Software Engineering and Methodology,Rojas2017
+A logic mutation approach to selective mutation for programs and queries,"Kaminski, G. and Praphamontripong, U. and Ammann, P. and Offutt, J.",2011,,Information and Software Technology,McMinn2019
+A manager’s guide to evaluating test suites,"Marick, B. and Bach, J. and Kaner, C.Cem",2000,,,Tengeri2016
+A methodology for controlling the size of a test suite,"M. Jean, Rajiv, Mary Lou",1993-7,10.1145/152388.152391,ACM Transactions on Software Engineering and Methodology,
+A model-based statistical usage testing of communication protocols,"M., I., I., J.",2006,10.1109/ECBS.2006.11,13th Annual IEEE International Symposium and Workshop on Engineering of Computer-Based Systems (ECBS'06),
+A multi-objective approach to search-based test data generation,"Kiran, Mark, Phil",2007,10.1145/1276958.1277175,Proceedings of the 9th annual conference on Genetic and evolutionary computation  - GECCO '07,
+A mutation analysis tool for Java programs,"P., P.",2002-12-17,10.1007/s10009-002-0099-9,International Journal on Software Tools for Technology Transfer,
+"A mutation carol: Past, present and future","Offutt, J.",2011,,Information and Software Technology,Zhu2018
+A novel approach to collaborative testing in a crowdsourcing environment,"Tung, Y.-H. and Tseng, S.-S.",2013,,,Rojas2017
+A novel method of mutation clustering based on domain analysis,"Ji, C. and Chen, Z. and Xu, B. and Zhao, Z.",2009,,,Gopinath2017a
+A practical guide for using statistical tests to assess randomized algorithms in software engineering,"Andrea, Lionel",2011-5-21,10.1145/1985793.1985795,Proceedings of the 33rd International Conference on Software Engineering,
+A practical system for mutation testing: Help for the common programmer,"Offutt, A.",1994,,"Proceedings., International Test Conference",Holling2016
+A practical tutorial on modified condition/decision coverage,"Hayhurst, K. and Veerhusen, D. and Rierson, L.",2001,,,Rajan2008
+A proposal for revisiting coverage testing metrics,Breno,2014-9-15,10.1145/2642937.2653471,Proceedings of the 29th ACM/IEEE international conference on Automated software engineering,
+A quality estimation of mutation clustering in c# programs,"Derezińska, A.",2013,,"New Results in Dependability and Computer Systems, Advances in Intelligent Systems and Computing",Gopinath2017a
+"A safe, efficient regression test selection technique","Gregg, Mary Jean",1997-4,10.1145/248233.248262,ACM Transactions on Software Engineering and Methodology,
+A specification-based coverage metric to evaluate test sets,"Amman, Paul E. and Black, Paul E.",2001,,,Harder2003
+A state coverage tool for JUnit,Ken,2008,10.1145/1370175.1370210,Companion of the 13th international conference on Software engineering  - ICSE Companion '08,
+A state-based approach to testing aspect-oriented programs,"Xu, D. and Xu, W. and Nygard, K.",2005-07,,,Xie2006
+A static approach to prioritizing JUnit test cases,"Mei, H. and Hao, D. and Zhang, L. and Zhang, L. and Zhou, J. and Rothermel, G.",2012,,IEEE Transactions on Software Engineering,Zhang2013
+A study of equivalent and stubborn mutation operators using human analysis of equivalence,"Xiangjuan, Mark, Yue",2014-5-31,10.1145/2568225.2568265,Proceedings of the 36th International Conference on Software Engineering,
+A study of interleaving coverage criteria,"Lu, S. and Jiang, W. and Zhou, Y.",2007,,The 6th Joint Meeting on European software engineering conference and the ACM SIGSOFT symposium on the foundations of software engineering companion papers - ESEC-FSE companion '07,Sherman2009
+A survey of combinatorial testing,"Nie, C. and Leung, H.",2011-02,,,Felbinger2017
+A survey of software testing practices in Canada,"Vahid, Junji",2013-5,10.1016/j.jss.2012.12.051,Journal of Systems and Software,
+A survey of software testing practices in Canada”,"Garousi, V. and Junji, Z.",2013,,Journal of Systems and Software,Parsai2016
+A survey of unit testing practices,"Runeson, P.",2006-07,,IEEE Software,Gopinath2017a
+A survey on code coverage as a stopping criterion for unit testing,"Smith, B. and Williams, L.A.",2008,,,Bach2017
+A survey on model-based testing approaches,"Arilo C., Rajesh, Marlon, Guilherme H.",2007,10.1145/1353673.1353681,Proceedings of the 1st ACM international workshop on Empirical assessment of software engineering languages and technologies held in conjunction with the 22nd IEEE/ACM International Conference on Automated Software Engineering (ASE) 2007 - WEASELTech '07,
+A survey on unit testing practices and problems,"Daka, E. and Fraser, G.",2014-11,,2014 IEEE 25th International Symposium on Software Reliability Engineering,Gopinath2017a
+A systematic approach for designing mutation operators for MDE languages,"Alhwikem, F. and Paige, R.F. and Rose, L. and Alexander, R.",2016,,,GomezAbajo2020
+A systematic literature review of how mutation testing supports test activities,"Zhu, Q. and Annibale, P. and Zaidman, A.",2016,10.7287/peerj.preprints.2483v1,,Zhu2018
+A systematic review of state-based test tools,"Muhammad, Yvan",2013-11-8,10.1007/s10009-013-0291-0,International Journal on Software Tools for Technology Transfer,
+A taxonomy of model-based testing approaches,"Mark, Alexander, Bruno",2011-4-12,10.1002/stvr.456,"Software Testing, Verification and Reliability",
+A theoretical & empirical znalysis of evolutionary testing and hill climbing for structural test data generation,"Mark, Phil",2007,10.1145/1273463.1273475,Proceedings of the 2007 international symposium on Software testing and analysis - ISSTA '07,
+A theoretical framework for understanding mutation-based testing methods,"Shin, D. and Bae, D.-H.",2016,,"2016 IEEE International Conference on Software Testing, Verification and Validation (ICST)",Gopinath2017a
+A theory of fault-based testing,L.J.,1990,10.1109/32.57623,IEEE Transactions on Software Engineering,
+A tool for domain-independent model mutation,"Gómez-Abajo, P. and Guerra, E. and Lara, J. and Merayo, M.G.",2018,,,GomezAbajo2020
+ADTEST: a test data generation suite for Ada software systems,"M.J., V.",1997,10.1109/32.624304,IEEE Transactions on Software Engineering,
+AN APPROACH TO TESTING BLACK-BOX COMPONENTS USING CONTRACT-BASED MUTATION,"YING, SHAN-SHAN, JIN-HUI, LU, BING",2008-2,10.1142/S0218194008003556,International Journal of Software Engineering and Knowledge Engineering,
+AUSTIN: A Tool for Search Based Software Testing for the C Language and Its Evaluation on Deployed Automotive Systems,"Kiran, Mark, Hamilton",2010-9,10.1109/SSBSE.2010.21,2nd International Symposium on Search Based Software Engineering,
+AUSTIN: An open source tool for search based software testing of C programs,"Kiran, Mark, Hamilton",2013-1,10.1016/j.infsof.2012.03.009,Information and Software Technology,
+Achieving scalable mutation-based generation of whole test suites,"Gordon, Andrea",2014-2-9,10.1007/s10664-013-9299-z,Empirical Software Engineering,
+Achieving software quality with testing coverage measures,"Horgan, J.R. and London, S. and Lyu, M.R.",1994,,Computer,Mirzaaghaei2014
+"Action machines – towards a framework for model composition, exploration and conformance testing based on symbolic computation","Grieskamp, W. and Tillmann, N. and Campbell, C. and Schulte, W. and Veanes, M.",2005-09,,Fifth International Conference on Quality Software (QSIC'05),Robinson2011
+Adaptive Random Testing: The ART of test case diversity,"Tsong Yueh, Fei-Ching, Robert G., T.H.",2010-1,10.1016/j.jss.2009.02.022,Journal of Systems and Software,
+"Adaptive Test Case Allocation, Selection and Generation Using Coverage Spectrum and Operational Profile","Antonia, Breno, Roberto, Stefano",2021-5-1,10.1109/TSE.2019.2906187,IEEE Transactions on Software Engineering,
+Adaptive random testing by balancing,"T. Y., De Hao, F.-C",2007,10.1145/1292414.1292418,Proceedings of the 2nd international workshop on Random testing co-located with the 22nd IEEE/ACM International Conference on Automated Software Engineering (ASE 2007) - RT '07,
+Advances on Improving Automation in Developer Testing,"Xiao, X. and Thummalapenta, S. and Xie, T.",2012,,"Advances in Computers, Advances in Computers Volume 85",Zhi2013
+Agile High Assurance: Testing re-imagined,"Binder, R.V.",2015-11,,,Tengeri2016
+All-du-path coverage for parallel programs,"Yang, C.-S.D. and Souter, A.L. and Pollock, L.L.",1998,,,Sherman2009
+All-uses vs mutation testing: An experimental comparison of effectiveness,"Phyllis G., Stewart N., Cang",1997-9,10.1016/S0164-1212(96)00154-9,Journal of Systems and Software,
+All-uses vs mutation testing: an experimental comparison of effectiveness,"Frankl, P.G. and Weiss, S.N. and Hu, C.",1997,,Journal of Systems and Software,Zhu2018
+An Analysis and Survey of the Development of Mutation Testing,"Yue, Mark",2011-9,10.1109/TSE.2010.62,IEEE Transactions on Software Engineering,
+An Analysis and Survey of the Development of Mutation Testing”,"Jia, Y. and Harman, M.",2011-09,,IEEE Transactions on Software Engineering,Parsai2016
+An Approach to Program Testing,J. C.,1975-9,10.1145/356651.356652,ACM Computing Surveys,
+An Empirical Evaluation of Mutation Testing for Improving the Test Quality of Safety-Critical Software,"Richard, Ibrahim",2013-6,10.1109/TSE.2012.56,IEEE Transactions on Software Engineering,
+An Empirical Evaluation of the First and Second Order Mutation Testing Strategies,"Mike, Nicos",2010-4,10.1109/ICSTW.2010.50,"2010 Third International Conference on Software Testing, Verification, and Validation Workshops",
+An Empirical Evaluation of the First and Second Order Mutation Testing Strategies”,"Papadakis, M. and Malevris, N.",2010,,"2010 Third International Conference on Software Testing, Verification, and Validation Workshops",Parsai2016
+An Empirical Evaluation of the MuJava Mutation Operators,"Ben H., Laurie",2007-9,10.1109/TAIC.PART.2007.12,Testing: Academic and Industrial Conference Practice and Research Techniques - MUTATION (TAICPART-MUTATION 2007),
+An Empirical Study of JUnit Test-Suite Reduction,"Lingming, Darko, Lu, Sarfraz",2011-11,10.1109/ISSRE.2011.26,2011 IEEE 22nd International Symposium on Software Reliability Engineering,
+An Empirical Study of Test Case Filtering Techniques Based on Exercising Information Flows,"Wes, Andy, David",2007-7,10.1109/TSE.2007.1020,IEEE Transactions on Software Engineering,
+"An Empirical Study on Mutation, Statement and Branch Coverage Fault Revelation That Avoids the Unreliable Clean Program Assumption","Thierry Titcheu, Mike, Yves, Mark",2017-5,10.1109/ICSE.2017.61,2017 IEEE/ACM 39th International Conference on Software Engineering (ICSE),
+An Empirical Study on the Scalability of Selective Mutation Testing,"Jie, Muyao, Dan, Lu",2014-11,10.1109/ISSRE.2014.27,2014 IEEE 25th International Symposium on Software Reliability Engineering,
+An Environment for Training Computer Science Students on Software Testing,"J., K.",,10.1109/FIE.2005.1611937,Proceedings Frontiers in Education 35th Annual Conference,
+"An Experimental Comparison of Four Unit Test Criteria: Mutation, Edge-Pair, All-Uses and Prime Path Coverage","Nan, Upsorn, Jeff",2009,10.1109/ICSTW.2009.30,"2009 International Conference on Software Testing, Verification, and Validation Workshops",
+An Experimental Comparison of the Effectiveness of Control Flow Based Testing Approaches on Seeded Faults,"Atul, Pankaj",2006,10.1007/11691372_24,"Tools and Algorithms for the Construction and Analysis of Systems, Lecture Notes in Computer Science",
+An Experimental Determination of Sufficient Mutant Operators,"Offutt, A.J. and Lee, A. and Rothermel, G. and Untch, R.H. and Zapf, C.",1996,,ACM Transactions on Software Engineering and Methodology,Inozemtseva2013
+An Experimental Determination of Sufficient Mutation Operators,"Offutt, A.J. and Lee, A. and Rothermel, G. and Untch, R.H. and Zapf, C.",1996,,,Zhi2013
+An Experimental Evaluation of Data Flow and Mutation Testing,"A. Jefferson, Jie, Kanupriya, Tong",1996-2,10.1002/(SICI)1097-024X(199602)26:2%3C165::AID-SPE5%3E3.0.CO;2-K,Software: Practice and Experience,
+An Experimental Mutation System for Java,"Offutt, A.J. and Ma, Y.-S. and Kwon, Y.-R.",2004-09,,,Just2014a
+"An Industrial Application of Mutation Testing: Lessons, Challenges, and Research Directions","Goran, Marko, Bob, Paul, Rene",2018-4,10.1109/ICSTW.2018.00027,"2018 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW)",
+An Industrial Evaluation of Unit Test Generation: Finding Real Faults in a Financial Application,"M. Moein, Hadi, Gordon, Andrea, Janis",2017-5,10.1109/ICSE-SEIP.2017.27,2017 IEEE/ACM 39th International Conference on Software Engineering: Software Engineering in Practice Track (ICSE-SEIP),
+An Information Retrieval Approach for Regression Test Prioritization Based on Program Changes,"Ripon K., Lingming, Sarfraz, Dewayne E.",2015-5,10.1109/ICSE.2015.47,2015 IEEE/ACM 37th IEEE International Conference on Software Engineering,
+An analysis and survey of the development of mutation testing,"Jia, Y. and Harman, M.",2011,,IEEE Transactions on Software Engineering,Lindstroem2016
+An analysis of the coupling effect I: Single test data,"Wah, K.S.H.T.",2003,,Science of Computer Programming,Gopinath2017a
+An analysis of the coupling effect I: single test data”,"Wah, K.H.T.",2003,,Science of Computer Programming,Parsai2016
+An analysis of variance test for normality (complete samples),"S. S., M. B.",1965-12-1,10.1093/biomet/52.3-4.591,Biometrika,
+An approach for experimentally evaluating effectiveness and efficiency of coverage criteria for software testing,"Atul, Pankaj",2008-1-8,10.1007/s10009-007-0059-5,International Journal on Software Tools for Technology Transfer,
+An assessment of operational coverage as both an adequacy and a selection criterion for operational profile based testing,"Breno, Antonia",2017-9-22,10.1007/s11219-017-9388-0,Software Quality Journal,
+An empirical analysis of flaky tests,"Qingzhou, Farah, Lamyaa, Darko",2014-11-11,10.1145/2635868.2635920,Proceedings of the 22nd ACM SIGSOFT International Symposium on Foundations of Software Engineering,
+An empirical analysis of the distribution of unit test smells and their impact on software maintenance,"Gabriele, Abdallah, Rocco, Andrea, David",2012-9,10.1109/ICSM.2012.6405253,2012 28th IEEE International Conference on Software Maintenance (ICSM),
+An empirical comparison of automated generation and classification techniques for object-oriented unit testing,"d’Amorim, M. and Pacheco, C. and Marinov, D. and Xie, T. and Ernst, M.D.",2006-09,,21st IEEE/ACM International Conference on Automated Software Engineering (ASE'06),Robinson2011
+An empirical comparison of combinatorial and random testing,"Ghandehari, L.S. and Czerwonka, J. and Lei, Y. and Shafiee, S. and Kacker, R. and Kuhn, R.",2014,,"2014 IEEE Seventh International Conference on Software Testing, Verification and Validation Workshops",Felbinger2017
+An empirical comparison of data flow and mutation-based test adequacy criteria,"Aditya P., W. Eric",1994,10.1002/stvr.4370040104,"Software Testing, Verification and Reliability",
+An empirical comparison of mutant selection approaches,"Gopinath, R. and Alipour, M.A. and Ahmed, I. and Jensen, C. and Groce, A.",2015,,,Gopinath2017a
+An empirical evaluation of the Mu-Java mutation operators,"Smith, B. and Williams, L.",2007,,Testing: Academic and Industrial Conference Practice and Research Techniques - MUTATION (TAICPART-MUTATION 2007),McMinn2019
+An empirical evaluation of the MuJava mutation operators,"Smith, B.H. and Williams, L.",2007-09,,Testing: Academic and Industrial Conference Practice and Research Techniques - MUTATION (TAICPART-MUTATION 2007),Robinson2011
+An empirical evaluation of weak mutation,"A.J., S.D.",1994-5,10.1109/32.286422,IEEE Transactions on Software Engineering,
+An empirical investigation into branch coverage for C programs using CUTE and AUSTIN,"Kiran, Phil, Mark",2010-12,10.1016/j.jss.2010.07.026,Journal of Systems and Software,
+An empirical investigation on the readability of manual and generated test cases,"Giovanni, Simone, Harald C., Rocco",2018-5-28,10.1145/3196321.3196363,Proceedings of the 26th Conference on Program Comprehension,
+An empirical study of adoption of software testing in open source projects,"Kochhar, P. and Bissyande, T. and Lo, D. and Jiang, L.",2013,,2013 13th International Conference on Quality Software,Kracht2014
+An empirical study of bugs in test code,"Vahabzadeh, A. and Fard, A.M. and Mesbah, A.",2015,,2015 IEEE International Conference on Software Maintenance and Evolution (ICSME),Bowes2017
+An empirical study of profiling strategies for released software and their impact on testing activities,"Elbaum, S. and Hardojo, M.",2004,,Proceedings of the 2004 ACM SIGSOFT international symposium on Software testing and analysis  - ISSTA '04,Wang2017
+An empirical study of regression test selection techniques,"Graves, Todd L. and Harrold, Mary Jean and Kim, Jung-Min and Porter, Adam and Rothermel, Gregg",2001-04,,Proceedings of the 20th International Conference on Software Engineering,Harder2003
+An empirical study of the robustness of Windows NT applications using random testing,"Forrester, J.E. and Miller, B.P.",2000-08,,,Robinson2011
+"An empirical study on mutation, statement and branch coverage fault revelation that avoids the unreliable clean program assumption","Chekam, T.T. and Papadakis, M. and Traon, Y.L. and Harman, M.",2017,,2017 IEEE/ACM 39th International Conference on Software Engineering (ICSE),McMinn2019
+An empirical study on the application of mutation testing for a safety-critical industrial software system,"Rudolf, Thomas, Claus",2017-4-3,10.1145/3019612.3019830,Proceedings of the Symposium on Applied Computing,
+An empirical study on the scalability of selective mutation testing,"Zhang, J. and Zhu, M. and Hao, D. and Zhang, L.",2014,,2014 IEEE 25th International Symposium on Software Reliability Engineering,Gopinath2017a
+An evaluation of exhaustive testing for data structures,"Marinov, D. and Andoni, A. and Daniliuc, D. and Khurshid, S. and Rinard, M.",2003-09,,,Robinson2011
+An evaluation of random testing,"Duran, Joe W. and Ntafos, Simeon C.",1984-07,,,Harder2003
+"An experimental comparison of four unit test criteria: Mutation, edge-pair, all-uses and prime path coverage","Li, N. and Praphamontripong, U. and Offutt, J.",2009,,"2009 International Conference on Software Testing, Verification, and Validation Workshops",Lindstroem2016
+An experimental comparison of the effectiveness of branch testing and data flow testing,"P.G., S.N.",1993,10.1109/32.238581,IEEE Transactions on Software Engineering,
+An experimental determination of sufficient mutant operators,"A. Jefferson, Ammei, Gregg, Roland H., Christian",1996-4,10.1145/227607.227610,ACM Transactions on Software Engineering and Methodology,
+An experimental determination of sufficient mutation operators,"Offutt, J. and Lee, A. and Rothermel, G. and Untch, R. and Zapf, C.",1996-04,,,Lindstroem2016
+An experimental evaluation of selective mutation,"A.J., G., C.",,10.1109/ICSE.1993.346062,Proceedings of 1993 15th International Conference on Software Engineering,
+An experimental evaluation of web mutation operators,"Praphamontripong, U. and Offutt, J. and Deng, L. and Gu, J.",2016,,"2016 IEEE Ninth International Conference on Software Testing, Verification and Validation Workshops (ICSTW)",McMinn2019
+An extended overview of the Mothra software testing environment,"R.A., D.S., W.M., A.J., K.N.",,10.1109/WST.1988.5369,"[1988] Proceedings. Second Workshop on Software Testing, Verification, and Analysis",
+An extended overview of the mothra software testing environment,"DeMillo, R.A. and Guindi, D.S. and McCracken, W.M. and Offutt, A.J. and King, K.N.",1988,,"[1988] Proceedings. Second Workshop on Software Testing, Verification, and Analysis",Lindstroem2016
+An integrated automatic test data generation system,"Offutt, A.Jefferson",1991-11,,Case Technology,Harder2003
+An interface test model for hardware-dependent software and embedded os api of the embedded system,"Sung, A. and Choi, B. and Shin, S.",2007,,Computer Standards & Interfaces,Zhu2018
+An investigation of three forms of the modified condition decision coverage (mcdc) criterion,"Chilenski, J.",2001-04,,,Rajan2008
+An orchestrated survey of methodologies for automated software test case generation,"Saswat, Edmund K., Tsong Yueh, John, Myra B., Wolfgang, Mark, Mary Jean, Phil, Antonia, J., Hong",2013-8,10.1016/j.jss.2013.02.061,Journal of Systems and Software,
+Analysis of Mutation Operators for the Python Language,"Anna, Konrad",2014,10.1007/978-3-319-07013-1_15,"Proceedings of the Ninth International Conference on Dependability and Complex Systems DepCoS-RELCOMEX. June 30 – July 4, 2014, Brunów, Poland, Advances in Intelligent Systems and Computing",
+Analyzing regression test selection techniques,"G., M.J.",1996,10.1109/32.536955,IEEE Transactions on Software Engineering,
+Analyzing the validity of selective mutation with dominator mutants,"Bob, Paul, Jeff, Márcio E., Mariet, Nida",2016-11,10.1145/2950290.2950322,Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering,
+App testing now consumes a quarter of IT budget,"Vizard, M.",2013,,,Kracht2014
+Applicability of modified condition/decision coverage to software testing,"Chilenski, J.J. and Miller, S.P.",1994-09,,Software Engineering Journal,Rajan2008
+Applications of feasible path analysis to program testing,"Goldberg, A. and Wang, T.C. and Zimmerman, D.",1994,,Proceedings of the 1994 international symposium on Software testing and analysis  - ISSTA '94,McMinn2019
+Applications of synchronization coverage,"Bron, A. and Farchi, E. and Magid, Y. and Nir, Y. and Ur, S.",2005,,Proceedings of the tenth ACM SIGPLAN symposium on Principles and practice of parallel programming  - PPoPP '05,Sherman2009
+Applying Mutation Analysis on Kernel Test Suites: An Experience Report,"Iftekhar, Carlos, Alex, Paul E.",2017-3,10.1109/ICSTW.2017.26,"2017 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW)",
+Applying combinatorial testing to the siemens suite,"Ghandehari, L.S.G. and Bourazjany, M.N. and Lei, Y. and Kacker, R.N. and Kuhn, D.R.",2013,,"2013 IEEE Sixth International Conference on Software Testing, Verification and Validation Workshops",Felbinger2017
+Applying design of experiments to software testing: Experience report,"Dunietz, I.S. and Ehrlich, W.K. and Szablak, B.D. and Mallows, C.L. and Iannino, A.",1997,,,Felbinger2017
+Applying mutation testing for assessing test suites quality at model level,"Strug, J.",2016,,Proceedings of the 2016 Federated Conference on Computer Science and Information Systems,GomezAbajo2020
+Approaches to specification-based testing,"Debra J. Richardson, Owen O’Malley and Tittle., Cindy",1989-12,,"Proceedings of the ACM SIGSOFT '89 third symposium on Software testing, analysis, and verification  - TAV3",Harder2003
+Approximate Transformations as Mutation Operators,"Farah, August, Owolabi, Milos, Sarfraz, Sasa",2018-4,10.1109/ICST.2018.00036,"2018 IEEE 11th International Conference on Software Testing, Verification and Validation (ICST)",
+Are Mutants a Valid Substitute for Real Faults in Software Testing?,"Just, R. and Jalali, D. and Inozemtseva, L. and Ernst, M.D. and Holmes, R. and Fraser, G.",2014,,Proceedings of the 22nd ACM SIGSOFT International Symposium on Foundations of Software Engineering,Parsai2016
+Are We There Yet? How Redundant and Equivalent Mutants Affect Determination of Test Completeness,"Bob, Paul, Jeff, Mariet",2016-4,10.1109/ICSTW.2016.41,"2016 IEEE Ninth International Conference on Software Testing, Verification and Validation Workshops (ICSTW)",
+Are mutants a valid substitute for real faults in software testing?,"René, Darioush, Laura, Michael D., Reid, Gordon",2014-11-11,10.1145/2635868.2635929,Proceedings of the 22nd ACM SIGSOFT International Symposium on Foundations of Software Engineering,
+Are my unit tests in the right package?,"Balogh, Gergő and Gergely, Tamás and Beszédes, Árpád and Gyimóthy, Tibor",2016-10,,2016 IEEE 16th International Working Conference on Source Code Analysis and Manipulation (SCAM),Gergely2018
+Are test smells really harmful? An empirical study,"Gabriele, Abdallah, Rocco, Andrea, Dave",2014-5-31,10.1007/s10664-014-9313-0,Empirical Software Engineering,
+Are unit and integration test definitions still valid for modern Java projects? An empirical study on open-source projects,"Fabian, Steffen, Jens",2020-1,10.1016/j.jss.2019.110421,Journal of Systems and Software,
+Ask the Mutants: Mutating Faulty Programs for Fault Localization,"Seokhyeon, Yunho, Moonzoo, Shin",2014-3,10.1109/ICST.2014.28,"2014 IEEE Seventh International Conference on Software Testing, Verification and Validation",
+Aspect language features for concern coverage profiling,"Rajan, H. and Sullivan, K.",2005-03,,Proceedings of the 4th international conference on Aspect-oriented software development  - AOSD '05,Xie2006
+Assertion-Driven Development: Assessing the Quality of Contracts Using Meta-Mutations,"Knauth, T. and Fetzer, C. and Felber, P.",2009,,"2009 International Conference on Software Testing, Verification, and Validation Workshops",Zhi2013
+Assertions are strongly correlated with test suite effectiveness,"Yucheng, Ali",2015-8-30,10.1145/2786805.2786858,Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering,
+Assessing Incremental Testing Practices and Their Impact on Project Outcomes,"Ayaan M., Clifford A., Stephen H., Francisco",2019-2-22,10.1145/3287324.3287366,Proceedings of the 50th ACM Technical Symposium on Computer Science Education,
+Assessing Oracle Quality with Checked Coverage,"David, Andreas",2011-3,10.1109/ICST.2011.32,"2011 Fourth IEEE International Conference on Software Testing, Verification and Validation",
+Assessing Test Data Adequacy through Program Inference,Elaine J.,1983-10,10.1145/69575.357231,ACM Transactions on Programming Languages and Systems,
+Assessing and generating test sets in terms of behavioural adequacy,"Gordon, Neil",2015-3-20,10.1002/stvr.1575,"Software Testing, Verification and Reliability",
+Assessing oracle quality with checked coverage,"Schuler, D. and Zeller, A.",2011,,"2011 Fourth IEEE International Conference on Software Testing, Verification and Validation",Mirzaaghaei2014
+Assessing test set adequacy for object oriented programs using class mutation,"Kim, S. and Clark, J. and McDermid, J.",1999,,,Tengeri2016
+Assessing the Influence of Multiple Test Case Selection on Mutation Experiments,"Marcio E., Jeff",2014-3,10.1109/ICSTW.2014.22,"2014 IEEE Seventh International Conference on Software Testing, Verification and Validation Workshops",
+"Assessing the Test Suite of a Large System Based on Code Coverage, Efficiency and Uniqueness","Laszlo, Ferenc, David, Arpad",2016-3,10.1109/SANER.2016.69,"2016 IEEE 23rd International Conference on Software Analysis, Evolution, and Reengineering (SANER)",
+Assessing the test suite of a large scale system based on code coverage and derived metrics,"L. Vidács, F. Horváth, D. Tengeri and Beszédes, Á.",2016-03,,,Tengeri2016
+"Assessing, Comparing, and Combining State Machine-Based Testing and Structural Testing: A Series of Experiments","Samar, Lionel C., Yvan, Massimiliano",2011-3,10.1109/TSE.2010.32,IEEE Transactions on Software Engineering,
+Augmenting Automatically Generated Unit-Test Suites,"Xie, T.",2006,,,Zhi2013
+Automated Detection of Test Fixture Strategies and Smells,"Michaela, Arie, Margaret-Anne",2013-3,10.1109/ICST.2013.45,"2013 IEEE Sixth International Conference on Software Testing, Verification and Validation",
+Automated Test Data Generation for Coverage: Haven't We Solved This Problem Yet?,"Kiran, Phil, Mark",2009,10.1109/TAICPART.2009.15,2009 Testing: Academic and Industrial Conference - Practice and Research Techniques,
+Automated documentation inference to explain failed tests,"Zhang, S. and Zhang, C. and Ernst, M.D.",2011,,2011 26th IEEE/ACM International Conference on Automated Software Engineering (ASE 2011),Zhang2013
+"Automated oracle creation support, or: How i learned to stop worrying about fault propagation and love mutation testing","Staats, M. and Gay, G. and Heimdahl, M.P.",2012,,2012 34th International Conference on Software Engineering (ICSE),Zhang2013
+Automated software test data generation,B.,1990,10.1109/32.57624,IEEE Transactions on Software Engineering,
+Automated test generation for access control policies,"Martin, E.",2006,,"Companion to the 21st ACM SIGPLAN conference on Object-oriented programming systems, languages, and applications  - OOPSLA '06",Daoudagh2015
+Automated test generation for access control policies via change-impact analysis,"Martin, E. and Xie, T.",2007-05,,Third International Workshop on Software Engineering for Secure Systems (SESS'07: ICSE Workshops 2007),Daoudagh2015
+Automated test generation from a behavioral model,"Clarke, J.M.",1998,,,Kracht2014
+Automated testing for sql injection vulnerabilities: an input mutation approach,"Appelt, D. and Nguyen, C.D. and Briand, L.C. and Alshahwan, N.",2014,,Proceedings of the 2014 International Symposium on Software Testing and Analysis - ISSTA 2014,EscobarVelasquez2019
+Automated testing of extensible access control markup language-based access control systems,"Bertolino, A. and Daoudagh, S. and Lonetti, F. and Marchetti, E. and Schilders, L.",2013,,IET Software,Daoudagh2015
+Automated unit test generation during software development: A controlled experiment and think-aloud observations,"Rojas, J.M. and Fraser, G. and Arcuri, A.",2015,,Proceedings of the 2015 International Symposium on Software Testing and Analysis,Wang2017
+Automatic Generation of Software Test Cases From Formal Specifications,"Meudec, Christophe",1998,,,Harder2003
+Automatic Mutation Test Case Generation via Dynamic Symbolic Execution,"Mike, Nicos",2010-11,10.1109/ISSRE.2010.38,2010 IEEE 21st International Symposium on Software Reliability Engineering,
+Automatic Selection of Test Cases for Regression Testing,"Cláudio, Flávia, Alexandre, Eliot",2016,10.1145/2993288.2993299,Proceedings of the 1st Brazilian Symposium on Systematic and Automated Software Testing - SAST,
+Automatic Test Case Generation and Optimization Based on Mutation Testing,"Yunqi, Ya, Haiyang, Nimako, Yong",2019-7,10.1109/QRS-C.2019.00105,"2019 IEEE 19th International Conference on Software Quality, Reliability and Security Companion (QRS-C)",
+Automatic Test-case Generation from Formal Models of Software,"Rayadurgam, S.",2003-11,,,Rajan2008
+Automatic XACML Requests Generation for Policy Testing,"Bertolino, A. and Daoudagh, S. and Lonetti, F. and Marchetti, E.",2012-04,,"2012 IEEE Fifth International Conference on Software Testing, Verification and Validation",Daoudagh2015
+Automatic XACML requests generation for policy testing,"Bertolino, A. and Daoudagh, S. and Lonetti, F. and Marchetti, E.",2012,,"2012 IEEE Fifth International Conference on Software Testing, Verification and Validation",Daoudagh2015
+Automatic detection of performance deviations in the load testing of large scale systems,"Malik, H. and Hemmati, H. and Hassan, A.E.",2013,,2013 35th International Conference on Software Engineering (ICSE),Bruenink2018
+Automatic generation of test scripts from formal test specifications,"Balcer, Marc J. and Hasling, William M. and Ostrand, Thomas J.",1989-12,,"Proceedings of the ACM SIGSOFT '89 third symposium on Software testing, analysis, and verification  - TAV3",Harder2003
+Automatic mutation test case generation via dynamic symbolic execution,"Papadakis, M. and Malevris, N.",2010,,2010 IEEE 21st International Symposium on Software Reliability Engineering,Just2014a
+Automatic mutation test input data generation via ant colony,"Kamel, Salah, Giuliano",2007,10.1145/1276958.1277172,Proceedings of the 9th annual conference on Genetic and evolutionary computation  - GECCO '07,
+Automatic test case generation based on genetic algorithm and mutation analysis,"Hirohide, Akihisa",2012-11,10.1109/ICCSCE.2012.6487127,"2012 IEEE International Conference on Control System, Computing and Engineering",
+Automatic test generation for mutation testing on database applications,"Pan, K. and Wu, X. and Xie, T.",,,2013 8th International Workshop on Automation of Software Test (AST),Zhang2013
+Automatically Detecting Equivalent Mutants and Infeasible Paths,"Offutt, A.J. and Pan, J.",1997,,"Software Testing, Verification and Reliability",RealesMateo2013
+Automatically Finding Hidden Industrial Criteria used in Test Selection,"Cláudio, Alexandre, Eliot",2016-7-1,10.18293/SEKE2016-198,Proceedings of the 28th International Conference on Software Engineering and Knowledge Engineering,
+Automatically detecting equivalent mutants and infeasible paths,"A. Jefferson, Jie",1997-9,10.1002/(SICI)1099-1689(199709)7:3<165::AID-STVR143>3.0.CO;2-U,"Software Testing, Verification and Reliability",
+Automatically identifying focal methods under test in unit test cases,"Mohammad, Carlo, Konstantin",2015-9,10.1109/SCAM.2015.7335402,2015 IEEE 15th International Working Conference on Source Code Analysis and Manipulation (SCAM),
+"Automatically performing weak mutation with the aid of symbolic execution, concolic testing and search-based testing","Mike, Nicos",2011-5-13,10.1007/s11219-011-9142-y,Software Quality Journal,
+Automating coverage metrics for dynamic web applications,"Alalfi, M. and Cordy, J. and Dean, T.",2010,,2010 14th European Conference on Software Maintenance and Reengineering,Mirzaaghaei2014
+Automating formal specification-based testing,"Donat, Michael R.",1997-04,,"TAPSOFT '97: Theory and Practice of Software Development, Lecture Notes in Computer Science",Harder2003
+Automating the generating and sequencing of test cases from model-based specifications,"Dick, J. and Faivre, A.",1993,,"Lecture Notes in Computer Science, FME '93: Industrial-Strength Formal Methods",Harder2003
+Bad Pairs in Software Testing,"Daniel, Chien, Gary, Brett, Kevin",2010,10.1007/978-3-642-15585-7_6,"Testing – Practice and Research Techniques, Lecture Notes in Computer Science",
+Bad pairs in software testing,"Hoffman, D. and Chang, C. and Bazdell, G. and Stevens, B. and Yoo, K.",2010,,"Testing – Practice and Research Techniques, Lecture Notes in Computer Science",Felbinger2017
+Balancing trade-offs in test-suite reduction,"August, Alex, Milos, Andrey, Darko",2014-11-11,10.1145/2635868.2635921,Proceedings of the 22nd ACM SIGSOFT International Symposium on Foundations of Software Engineering,
+Basic mistakes in database testing,"Guz, S.",,,,McMinn2019
+Better Predicate Testing,"Kaminski, G. and Amman, P. and Offut, A.J.",2011,,Proceeding of the 6th international workshop on Automation of software test - AST '11,RealesMateo2013
+Better predicate testing,"Kaminski, G. and Ammann, P. and Offutt, J.",2011,,Proceeding of the 6th international workshop on Automation of software test - AST '11,Lindstroem2016
+Beyond code coverage &#x2014; An approach for test suite assessment and improvement,"David, Arpad, Tamas, Laszlo, David, Tibor",2015-4,10.1109/ICSTW.2015.7107476,"2015 IEEE Eighth International Conference on Software Testing, Verification and Validation Workshops (ICSTW)",
+Beyond code coverage - An approach for test suite assessment and improvement,"Tengeri, D. and Beszédes, Á. and Gergely, T. and Vidács, L. and Havas, D. and Gyimóthy, T.",2015,,"2015 IEEE Eighth International Conference on Software Testing, Verification and Validation Workshops (ICSTW)",Bowes2017
+Beyond code coverage - an approach for test suite assessment and improvement,"Tengeri, D. and Beszédes, Á. and Gergely, T. and Vidács, L. and Havas, D. and Gyimóthy, T.",2015,,"2015 IEEE Eighth International Conference on Software Testing, Verification and Validation Workshops (ICSTW)",Tengeri2016
+Beyond testing configurable systems: applying variational execution to automatic program repair and higher order mutation testing,"Chu-Pan, Jens, Christian",2018-10-26,10.1145/3236024.3264837,Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering,
+Black-Box Test Generation from Inferred Models,"Petros, Neil",2015-5,10.1109/RAISE.2015.11,2015 IEEE/ACM 4th International Workshop on Realizing Artificial Intelligence Synergies in Software Engineering,
+Boundary values and automated component testing,"Hoffman, Daniel and Strooper, Paul and White, Lee",1999-03,,"Software Testing, Verification and Reliability",Harder2003
+Bridging the gap between the total and additional test-case prioritization strategies,"Zhang, L. and Hao, D. and Zhang, L. and Rothermel, G. and Mei, H.",2013,,2013 35th International Conference on Software Engineering (ICSE),Zhang2013
+Bug hunt: Making early software testing lessons engaging and affordable,"Elbaum, S. and Person, S. and Dokulil, J. and Jorde, M.",2007,,29th International Conference on Software Engineering (ICSE'07),Rojas2017
+CCmutator: A mutation generator for concurrency constructs in multithreaded C/C++ applications,"Markus, ",2013-11,10.1109/ASE.2013.6693142,2013 28th IEEE/ACM International Conference on Automated Software Engineering (ASE),
+CUTE and jCUTE: Concolic unit testing and explicit path model-checking tools,"Sen, K. and Agha, G.",2006-08,,,Robinson2011
+Calibrated Mutation Testing,"Jaechang, David, Andreas",2011-3,10.1109/ICSTW.2011.57,"2011 IEEE Fourth International Conference on Software Testing, Verification and Validation Workshops",
+Can testedness be effectively measured?,"Iftekhar, Rahul, Caius, Alex, Carlos",2016-11,10.1145/2950290.2950324,Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering,
+Cause Reduction for Quick Testing,"Alex, Mohammed Amin, Chaoqiang, Yang, John",2014-3,10.1109/ICST.2014.37,"2014 IEEE Seventh International Conference on Software Testing, Verification and Validation",
+Chap. Problems of Mutation Testing and Higher Order Mutation Testing,"Nguyen, T.N. and Offutt, A.",2014,,"Advanced Computational Methods for Knowledge Engineering, Advances in Intelligent Systems and Computing",Parsai2016
+Chapter six - mutation testing advances: An analysis and survey,"Papadakis, M. and Kintis, M. and Zhang, J. and Jia, Y. and Traon, Y.L. and Harman, M.",2019,,,GomezAbajo2020
+Characterizing the Relative Significance of a Test Smell,"Rompaey, B.Van and Bois, B.Du and Demeyer, S.",2006,,2006 22nd IEEE International Conference on Software Maintenance,Bowes2017
+Characterizing the relative significance of a test smell,"Rompaey, Van and Bart, Du Bois and Bart and Demeyer, Serge",2006,,2006 22nd IEEE International Conference on Software Maintenance,Gergely2018
+Check ’n’ Crash: Combining static checking and testing,"Csallner, C. and Smaragdakis, Y.",2005-05,,"Proceedings. 27th International Conference on Software Engineering, 2005. ICSE 2005.",Robinson2011
+Checked coverage: an indicator for oracle quality,"David, Andreas",2013-5-8,10.1002/stvr.1497,"Software Testing, Verification and Reliability",
+Classifying Test Suite Effectiveness via Model Inference and ROBBDs,"Felbinger, H. and Pill, I. and Wotawa, F.",2016,,"Tests and Proofs, Lecture Notes in Computer Science",Felbinger2017
+Classifying generated white-box tests: an exploratory study,"Dávid, Zoltán",2019-5-17,10.1007/s11219-019-09446-5,Software Quality Journal,
+Cleansing Test Suites from Coincidental Correctness to Enhance Fault-Localization,"Wes, Rawad Abou",2010,10.1109/ICST.2010.22,"2010 Third International Conference on Software Testing, Verification and Validation",
+Clover Java and groovy code coverage tool homepage,Atlassian,,,,Gergely2018
+Code Defenders: A Mutation Testing Game,"Rojas, J.M. and Fraser, G.",2016,,"2016 IEEE Ninth International Conference on Software Testing, Verification and Validation Workshops (ICSTW)",Rojas2017
+Code Hunt: Experience with coding contests at scale,"Bishop, J. and Horspool, R.N. and Xie, T. and Tillmann, N. and Halleux, J.",2015,,2015 IEEE/ACM 37th IEEE International Conference on Software Engineering,Rojas2017
+Code coverage and test suite effectiveness: Empirical study with real bugs in large systems,"Kochhar, P.S. and Thung, F. and Lo, D.",2015,,"2015 IEEE 22nd International Conference on Software Analysis, Evolution, and Reengineering (SANER)",Bach2017
+Code coverage for suite evaluation by developers,"Rahul, Carlos, Alex",2014-5-31,10.1145/2568225.2568278,Proceedings of the 36th International Conference on Software Engineering,
+"Code coverage, what does it mean in terms of quality?","Williams, T. and Mercer, M. and Mucha, J. and Kapur, R.",2001,,Annual Reliability and Maintainability Symposium. 2001 Proceedings. International Symposium on Product Quality and Integrity (Cat. No.01CH37179),Sherman2009
+Code‐aware combinatorial interaction testing,"Bestoun S., Angelo, Kamal Z., Cemal, Miroslav, Marek",2019-12,10.1049/iet-sen.2018.5315,IET Software,
+Combination Testing Strategies: A Survey,"Grindal, M. and Offutt, A.J. and Andler, S.F.",2005,,"Software Testing, Verification and Reliability",RealesMateo2013
+Combinatorial Interaction Testing for Automated Constraint Repair,"Angelo, Justyna, Marco",2017-3,10.1109/ICSTW.2017.44,"2017 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW)",
+Combining search-based and constraint-based testing,"Jan, Gordon",2011-11,10.1109/ASE.2011.6100092,2011 26th IEEE/ACM International Conference on Automated Software Engineering (ASE 2011),
+Comparing and combining test-suite reduction and regression test selection,"August, Tifany, Alex, Darko",2015-8-30,10.1145/2786805.2786878,Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering,
+Comparing non-adequate test suites using coverage criteria,"Milos, Alex, Chaoqiang, Rohan, Mohammad Amin, Darko",2013-7-15,10.1145/2483760.2483769,Proceedings of the 2013 International Symposium on Software Testing and Analysis,
+Comparing search techniques for finding subtle higher order mutants,"Omar, E. and Ghosh, S. and Whitley, D.",2014,,Proceedings of the 2014 Annual Conference on Genetic and Evolutionary Computation,Tengeri2016
+Comparing test quality measures for assessing student-written tests,"Stephen H., Zalia",2014-5-31,10.1145/2591062.2591164,Companion Proceedings of the 36th International Conference on Software Engineering,
+Comparing the fault detection effectiveness of n-way and random test suites,"Schroeder, P.J. and Bolaki, P. and Gopu, V.",2004-08,,"Proceedings. 2004 International Symposium on Empirical Software Engineering, 2004. ISESE '04.",Felbinger2017
+Comparing white-box and black-box test prioritization,"Henard, C. and Papadakis, M. and Harman, M. and Jia, Y. and Traon, Y.Le",2016,,Proceedings of the 38th International Conference on Software Engineering,Felbinger2017
+Comparison of Unit-Level Automated Test Generation Tools,"Wang, S. and Offutt, J.",2009,,"2009 International Conference on Software Testing, Verification, and Validation Workshops",Zhi2013
+Comparison of program testing strategies,"Elaine J., Stewart N., Dick",1991,10.1145/120807.120808,"Proceedings of the symposium on Testing, analysis, and verification  - TAV4",
+Compiler-Integrated Program Mutation,"DeMillo, R.A. and Krauser, E.W. and Mather, A.P.",1991,,[1991] Proceedings The Fifteenth Annual International Computer Software & Applications Conference,Inozemtseva2013
+Compiler-integrated program mutation,"R.A., E.W., A.P.",,10.1109/CMPSAC.1991.170202,[1991] Proceedings The Fifteenth Annual International Computer Software & Applications Conference,
+Composing Tests from Examples.,"Markus, Rafael, Oscar",2007,10.5381/jot.2007.6.9.a4,The Journal of Object Technology,
+Compositional dynamic test generation,Patrice,2007,10.1145/1190216.1190226,Proceedings of the 34th annual ACM SIGPLAN-SIGACT symposium on Principles of programming languages  - POPL '07,
+Concurrent bug patterns and how to test them,"Farchi, E. and Nir, Y. and Ur, S.",2003,,Proceedings International Parallel and Distributed Processing Symposium,Sherman2009
+Considering rigor and relevance when evaluating test driven development: A systematic review,"Hussan, Misagh, Kai",2014-4,10.1016/j.infsof.2014.01.002,Information and Software Technology,
+Constrained Interaction Testing: A Systematic Literature Study,"Bestoun S., Kamal Z., Wasif, Miroslav",2017,10.1109/ACCESS.2017.2771562,IEEE Access,
+Constrained mutation in C programs,"Wong, W.E. and Delamaro, M.E. and Maldonado, J.C. and Mathur, A.P.",1994,,,Gopinath2017a
+Constrained mutation in c programs,"Wong, W.E. and Maldonado, J.C. and Delamaro, M.E. and Mathur, A.P.",1994,,,Lindstroem2016
+Constraint-based automatic test data generation,"R.A., A.J.",1991,10.1109/32.92910,IEEE Transactions on Software Engineering,
+Constructing Subtle Faults Using Higher Order Mutation Testing,"Yue, Mark",2008-9,10.1109/SCAM.2008.36,2008 Eighth IEEE International Working Conference on Source Code Analysis and Manipulation,
+Constructing Subtle Faults Using Higher Order Mutation Testing”,"Jia, Y. and Harman, M.",2008,,2008 Eighth IEEE International Working Conference on Source Code Analysis and Manipulation,Parsai2016
+Constructing interaction test suites for highly-configurable systems in the presence of constraints: A greedy Approach”,"Cohen, M. and Dwyer, M. and Shi, J.",2008,,IEEE Transactions on Software Engineering,Godio2019
+Constructing subtle faults using higher order mutation testing,"Jia, Y. and Harman, M.",2008,,2008 Eighth IEEE International Working Conference on Source Code Analysis and Manipulation,Gopinath2017a
+Correction to “Toward a theory of test data selection”,"Goodenough, John B. and Gerhart, Susan L.",1975-12,,IEEE Transactions on Software Engineering,Harder2003
+Correction to: Evaluating testing methods by delivered reliability,"Frankl, Phyllis and Hamlet, Dick and Littlewood, Bev and Strigini, Lorenzo",March/April 1999,,,Harder2003
+Cost Effectiveness of Unit Testing: A Case Study in a Financial Institution,"Delgado, D. and Martinez, A.",,,2013 ACM / IEEE International Symposium on Empirical Software Engineering and Measurement,Bowes2017
+Coverage and Its Discontents,"Alex, Mohammad Amin, Rahul",2014-10-14,10.1145/2661136.2661157,"Proceedings of the 2014 ACM International Symposium on New Ideas, New Paradigms, and Reflections on Programming & Software",
+Coverage and fault detection of the output-uniqueness test selection criteria,"Nadia, Mark",2014,10.1145/2610384.2610413,Proceedings of the 2014 International Symposium on Software Testing and Analysis - ISSTA 2014,
+Coverage and its discontents,"Groce, A. and Alipour, M.A. and Gopinath, R.",2014,,,Bach2017
+Coverage based test-case generation using model checkers,"S., M.P.E.",,10.1109/ECBS.2001.922409,Proceedings. Eighth Annual IEEE International Conference and Workshop On the Engineering of Computer Based Systems-ECBS 2001,
+Coverage criteria for GUI testing,"Memon, A.M. and Soffa, M.L. and Pollack, M.E.",2001,,ACM SIGSOFT Software Engineering Notes,Mirzaaghaei2014
+Coverage criteria for automatic security testing of web applications,"Dao, T. and Shibayama, E.",2011,,"Information Systems Security, Lecture Notes in Computer Science",Mirzaaghaei2014
+Coverage criteria for logical expressions,"Ammann, P. and Offutt, J. and Huang, H.",2003,,"14th International Symposium on Software Reliability Engineering, 2003. ISSRE 2003.",Felbinger2017
+Coverage criteria for testing web applications,"Sampath, S. and Gibson, E. and Sprenkle, S. and Pollock, L.",2005,,,Mirzaaghaei2014
+Coverage directed test generation for functional verification using bayesian networks,"Shai, Avi",2003,10.1145/775832.775907,Proceedings of the 40th conference on Design automation  - DAC '03,
+Coverage estimation for symbolic model checking,"Yatin, Timothy, Pei-Hsin, Xudong",1999,10.1145/309847.309936,Proceedings of the 36th ACM/IEEE conference on Design automation conference  - DAC '99,
+Coverage is not strongly correlated with test suite effectiveness,"Laura, Reid",2014-5-31,10.1145/2568225.2568271,Proceedings of the 36th International Conference on Software Engineering,
+Coverage rewarded: Test input generation via adaptation-based programming,Alex,2011-11,10.1109/ASE.2011.6100077,2011 26th IEEE/ACM International Conference on Automated Software Engineering (ASE 2011),
+Coverage-based reduction of test execution time: Lessons from a very large industrial project,"Bach, T. and Andrzejak, A. and Pannemans, R.",,,"2017 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW)",Bach2017
+"Coverage-based regression test case selection, minimization and prioritization: a case study on an industrial system","Daniel, Nadia, Lionel, Yvan",2015-4-7,10.1002/stvr.1572,"Software Testing, Verification and Reliability",
+Covering and Uncovering Equivalent Mutants,"David, Andreas",2012-4-4,10.1002/stvr.1473,"Software Testing, Verification and Reliability",
+Covering and uncovering equivalent mutants,"Schuler, D. and Zeller, A.",2013,,"Software Testing, Verification and Reliability",Rojas2017
+"Covrig: a framework for the analysis of code, test, and coverage evolution in real software","Paul, Petr, Cristian",2014,10.1145/2610384.2610419,Proceedings of the 2014 International Symposium on Software Testing and Analysis - ISSTA 2014,
+Crash reproduction via test case mutation: let existing test cases help,"Jifeng, Xiaoyuan, Martin",2015-8-30,10.1145/2786805.2803206,Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering,
+DART: Directed automated random testing,"Godefroid, P. and Klarlund, N. and Sen, K.",2005-06,,"Hardware and Software: Verification and Testing, Lecture Notes in Computer Science",Robinson2011
+DWASTIC: Automating coverage metrics for dynamic web applications,"Alalfi, M. and Cordy, J.R. and Dean, T.R.",2009,,,Mirzaaghaei2014
+Data flow coverage and the C language,"J. R., S.",1991,10.1145/120807.120815,"Proceedings of the symposium on Testing, analysis, and verification  - TAV4",
+Data-flow-based unit testing of aspect-oriented programs,"Zhao, J.",2003-11,,Proceedings 27th Annual International Computer Software and Applications Conference. COMPAC 2003,Xie2006
+Database-aware test coverage monitoring,"Kapfhammer, G.M. and Soffa, M.L.",2008,,Proceedings of the 1st conference on India software engineering conference - ISEC '08,McMinn2019
+Decreasing the Cost of Mutation Testing with Second-Order Mutants,"Polo, M. and Piattini, M. and Garcı́a-Rodrı́guez, I.",2008,,"Software Testing, Verification and Reliability",RealesMateo2013
+Decreasing the Cost of Mutation Testing with Second-order Mutants”,"Polo, M. and Piattini, M. and Garcı́a-Rodrı́guez, I.",2009-06,,"Software Testing, Verification and Reliability",Parsai2016
+DeepGauge: multi-granularity testing criteria for deep learning systems,"Lei, Felix, Fuyuan, Jiyuan, Minhui, Bo, Chunyang, Ting, Li, Yang, Jianjun, Yadong",2018-9-3,10.1145/3238147.3238202,Proceedings of the 33rd ACM/IEEE International Conference on Automated Software Engineering,
+DeepRoad: GAN-based metamorphic testing and input validation framework for autonomous driving systems,"Mengshi, Yuqun, Lingming, Cong, Sarfraz",2018-9-3,10.1145/3238147.3238187,Proceedings of the 33rd ACM/IEEE International Conference on Automated Software Engineering,
+DeepTest,"Yuchi, Kexin, Suman, Baishakhi",2018-5-27,10.1145/3180155.3180220,Proceedings of the 40th International Conference on Software Engineering,
+"Defect-Based Testing,” in Dependable Software Systems Engineering","Pretschner, A.",2015,,,Holling2016
+Defects4J: A database of existing faults to enable controlled testing studies for Java programs,"Just, R. and Jalali, D. and Ernst, M.D.",2014-07,,Proceedings of the 2014 International Symposium on Software Testing and Analysis - ISSTA 2014,Wang2017
+Defects4J: a database of existing faults to enable controlled testing studies for Java programs,"René, Darioush, Michael D.",2014,10.1145/2610384.2628055,Proceedings of the 2014 International Symposium on Software Testing and Analysis - ISSTA 2014,
+Deriving software statistical testing model from UML model,", , ",2003,10.1109/QSIC.2003.1319120,"Third International Conference on Quality Software, 2003. Proceedings.",
+Designing and comparing automated test oracles for GUI-based software applications,"Xie, Q. and Memon, A.M.",2007-02,,ACM Transactions on Software Engineering and Methodology,Zhi2013
+Designing deletion mutation operators,"Delamaro, M. and Offutt, J. and Ammann, P.",2014-03,,"2014 IEEE Seventh International Conference on Software Testing, Verification and Validation",Tengeri2016
+Detecting Equivalent Mutants and the Feasible Path Problem,"Offutt, A. and Pan, J.",1997-09,,Proceedings of 11th Annual Conference on Computer Assurance. COMPASS '96,RealesMateo2013
+Detecting equivalent mutants and the feasible path problem,"A.J., ",,10.1109/CMPASS.1996.507890,Proceedings of 11th Annual Conference on Computer Assurance. COMPASS '96,
+Deterministic execution testing of concurrent ada programs,"Carver, R. and Tai, K.C.",1989,,"Proceedings of the conference on Tri-Ada '89 Ada technology in context: application, development, and deployment - TRI-Ada '89",Sherman2009
+"Developer Testing in the IDE: Patterns, Beliefs, and Behavior","Moritz, Georgios, Annibale, Sebastian, Sven, Andy",2019-3-1,10.1109/TSE.2017.2776152,IEEE Transactions on Software Engineering,
+DiffGen: Automated Regression Unit-Test Generation,"Kunal, Tao",2008-9,10.1109/ASE.2008.60,2008 23rd IEEE/ACM International Conference on Automated Software Engineering,
+Directed Random Testing,"Pacheco, C.",2009-06,,,Robinson2011
+Directed Test Suite Augmentation,"Zhihong, Gregg",2009-12,10.1109/APSEC.2009.29,2009 16th Asia-Pacific Software Engineering Conference,
+Directed test suite augmentation,"Zhihong, Yunho, Moonzoo, Gregg, Myra B.",2010,10.1145/1882291.1882330,Proceedings of the eighteenth ACM SIGSOFT international symposium on Foundations of software engineering - FSE '10,
+Directed test suite augmentation: techniques and tradeoffs,"Xu, Z. and Kim, Y. and Kim, M. and Rothermel, G. and Cohen, M.B.",2010,,,Zhang2012
+Do Automatically Generated Unit Tests Find Real Faults? An Empirical Study of Effectiveness and Challenges (T),"Sina, Rene, Jose Miguel, Gordon, Phil, Andrea",2015-11,10.1109/ASE.2015.86,2015 30th IEEE/ACM International Conference on Automated Software Engineering (ASE),
+Do Redundant Mutants Affect the Effectiveness and Efficiency of Mutation Analysis?,"Rene, Gregory M., Franz",2012-4,10.1109/ICST.2012.162,"2012 IEEE Fifth International Conference on Software Testing, Verification and Validation",
+Do automatically generated unit tests find real faults? An empirical study of effectiveness and challenges,"Shamshiri, S. and Just, R. and Rojas, J.M. and Fraser, G. and McMinn, P. and Arcuri, A.",2015-11,,2015 30th IEEE/ACM International Conference on Automated Software Engineering (ASE),Wang2017
+Do automatically generated unit tests find real faults? an empirical study of effectiveness and challenges,"Shamshiri, S. and Just, R. and Rojas, J.M. and Fraser, G. and McMinn, P. and Arcuri, A.",2015-11,,2015 30th IEEE/ACM International Conference on Automated Software Engineering (ASE),Wang2017
+Do automatically generated unit tests find real faults? an empirical study of effectiveness and challenges (T,"Shamshiri, S. and Just, R. and Rojas, J.M. and Fraser, G. and McMinn, P. and Arcuri, A.",2015,,2015 30th IEEE/ACM International Conference on Automated Software Engineering (ASE),Rojas2017
+Do redundant mutants affect the effectiveness and efficiency of mutation analysis,"Just, R. and Kapfhammer, G.M. and Schweiggert, F.",2012,,"2012 IEEE Fifth International Conference on Software Testing, Verification and Validation",Lindstroem2016
+Do redundant mutants affect the effectiveness and efficiency of mutation analysis?,"Just, R. and Kapfhammer, G.M. and Schweiggert, F.",2012,,"2012 IEEE Fifth International Conference on Software Testing, Verification and Validation",McMinn2019
+Does Test-Driven Development Really Improve Software Design Quality?,"David, Hossein",2008-3,10.1109/MS.2008.34,IEEE Software,
+Does automated white-box test generation really help software testers?,"Fraser, G. and Staats, M. and McMinn, P. and Arcuri, A. and Padberg, F.",2013,,Proceedings of the 2013 International Symposium on Software Testing and Analysis,Kracht2014
+Does code coverage provide a good stopping rule for operational profile based testing?,"Breno, Antonia",2016,10.1145/2896921.2896934,Proceedings of the 11th International Workshop on Automation of Software Test - AST '16,
+"Dominators, Super Blocks, and Program Coverage","Agrawal, H.",1994-01,,Proceedings of the 21st ACM SIGPLAN-SIGACT symposium on Principles of programming languages  - POPL '94,RealesMateo2013
+Early estimation of software quality using in-process testing metrics: a controlled case study,"Nagappan, N. and Vouk, M.A. and Osborne, J.A.",2005,,,Bowes2017
+Eclat: Automatic generation and classification of test inputs,"Pacheco, C. and Ernst, M.D.",2005-07,,"ECOOP 2005 - Object-Oriented Programming, Lecture Notes in Computer Science",Robinson2011
+Edroid: A mutation tool for android apps,"Luna, E. and Ariss, O.El",2018,,2018 6th International Conference in Software Engineering Research and Innovation (CONISOFT),EscobarVelasquez2019
+Effect of test set minimization on fault detection effectiveness,"W. Eric, Joseph R., Saul, Aditya P.",1995,10.1145/225014.225018,Proceedings of the 17th international conference on Software engineering  - ICSE '95,
+Effect of test set size and block coverage on the fault detection effectiveness,"W.E., J.R., S., A.P.",,10.1109/ISSRE.1994.341379,Proceedings of 1994 IEEE International Symposium on Software Reliability Engineering,
+Effective Unit Testing: A guide for Java developers,"Koskela, L.",2013,,,Bowes2017
+Effective fault localization via mutation analysis,"Mike, Yves",2014-3-24,10.1145/2554850.2554978,Proceedings of the 29th Annual ACM Symposium on Applied Computing,
+Effective random testing of concurrent programs,"Sen, K.",2007,,,Sherman2009
+Effective test generation and adequacy assessment for JavaScript-based web applications,"Mirshokraie, S.",2014,,Proceedings of the 2014 International Symposium on Software Testing and Analysis - ISSTA 2014,McMinn2019
+Efficiency of Mutation Operators and Selective Mutation Strategies: An Empirical Study,"Mresa, E. and Bottaci, L.",1999-12,,"Software Testing, Verification and Reliability",RealesMateo2013
+Efficiency of mutation operators and selective mutation strategies: An empirical study,"Mresa, E.S. and Bottaci, L.",1999,,"Software Testing, Verification and Reliability",Lindstroem2016
+Efficiency of mutation operators and selective mutation strategies: an empirical study,"Elfurjani S., Leonardo",1999-12,10.1002/(SICI)1099-1689(199912)9:4<205::AID-STVR186>3.0.CO;2-X,"Software Testing, Verification and Reliability",
+Efficient Guiding Strategies for Testing of Temporal Properties of Hybrid Systems,"Tommaso, Thao, Alexandre, James, Xiaoqing, Jyotirmoy V.",2015,10.1007/978-3-319-17524-9_10,"Lecture Notes in Computer Science, NASA Formal Methods",
+Efficient Multi-Objective Higher Order Mutation Testing with Genetic Programming,"Langdon, W. and Harman, M. and Jia, Y.",2010,,,RealesMateo2013
+Efficient multi-objective higher order mutation testing with genetic programming,"William B., Mark, Yue",2010-12,10.1016/j.jss.2010.07.027,Journal of Systems and Software,
+Efficient mutation analysis by propagating and partitioning infected execution states,"René, Michael D., Gordon",2014,10.1145/2610384.2610388,Proceedings of the 2014 International Symposium on Software Testing and Analysis - ISSTA 2014,
+Efficient mutation analysis of relational database structure using mutant schemata and parallelisation,"Wright, C.J. and Kapfhammer, G.M. and McMinn, P.",2013,,"2013 IEEE Sixth International Conference on Software Testing, Verification and Validation Workshops",McMinn2019
+Efficient mutation analysis: A new approach,"Fleyshgakker, V.N. and Weiss, S.N.",1994,,,Just2014a
+Efficient mutation testing by checking invariant violations,"David, Valentin, Andreas",2009,10.1145/1572272.1572282,Proceedings of the eighteenth international symposium on Software testing and analysis - ISSTA '09,
+Efficient mutation testing using whole test suite generation,"Fraser, G. and Arcuri, A.",2014,,,Just2014a
+Efficient unit test case minimization,"Andreas, Manuel, Andreas, Ilinca, Bertrand",2007,10.1145/1321631.1321698,Proceedings of the twenty-second IEEE/ACM international conference on Automated software engineering  - ASE '07,
+Empirical evaluation of the statement deletion mutation operator,"Deng, L. and Offutt, A.J. and Li, N.",2013,,"2013 IEEE Sixth International Conference on Software Testing, Verification and Validation",Gopinath2017a
+Empirical evaluation of the textual differencing regression testing technique,"Vokolos, Filippos I. and Frankl, Phyllis G.",1998,,Proceedings. International Conference on Software Maintenance (Cat. No. 98CB36272),Harder2003
+Empirical evaluation on fbd model-based test coverage criteria using mutation analysis,"Shin, D. and Jee, E. and Bae, D.-H.",2012,,"Model Driven Engineering Languages and Systems, Lecture Notes in Computer Science",Zhu2018
+Empirical studies of a safe regression test selection technique,"G., M.J.",1998-6,10.1109/32.689399,IEEE Transactions on Software Engineering,
+Empirical studies of test-suite reduction,"Gregg, Mary Jean, Jeffery, Christie",2002,10.1002/stvr.256,"Software Testing, Verification and Reliability",
+Empirical study of correlation between mutation score and model inference based test suite adequacy assessment,"Felbinger, H. and Wotawa, F. and Nica, M.",2016,,Proceedings of the 11th International Workshop on Automation of Software Test - AST '16,Felbinger2017
+Employing second-order mutation for isolating first-order equivalent mutants,"Marinos, Mike, Nicos",2014-4-21,10.1002/stvr.1529,"Software Testing, Verification and Reliability",
+Emulation of software faults by educated mutations at machine-code level,"J., H.",,10.1109/ISSRE.2002.1173283,"13th International Symposium on Software Reliability Engineering, 2002. Proceedings.",
+Enabling mutation testing for android apps,"Linares-Vásquez, M. and Bavota, G. and Tufano, M. and Moran, K. and Penta, M.Di and Vendome, C. and Bernal-Cárdenas, C. and Poshyvanyk, D.",2017,,,EscobarVelasquez2019
+Establishing Theoretical Minimal Sets of Mutants,"Paul, Marcio Eduardo, Jeff",2014-3,10.1109/ICST.2014.13,"2014 IEEE Seventh International Conference on Software Testing, Verification and Validation",
+Establishing Theoretical Minimal Sets of Mutants”,"Ammann, P. and Delamaro, M.E. and Offutt, J.",2014,,"2014 IEEE Seventh International Conference on Software Testing, Verification and Validation",Parsai2016
+Establishing Traceability Links between Unit Test Cases and Units under Test,"Bart Van, Serge",2009,10.1109/CSMR.2009.39,2009 13th European Conference on Software Maintenance and Reengineering,
+Establishing theoretical minimal sets of mutants,"Ammann, P. and Delamaro, M.E. and Offutt, J.",2014,,"2014 IEEE Seventh International Conference on Software Testing, Verification and Validation",Lindstroem2016
+Establishing traceability links between unit test cases and units under test,"Rompaey, B.V. and Demeyer, S.",2009-03,,2009 13th European Conference on Software Maintenance and Reengineering,Gergely2018
+Evaluating Mutation Testing Alternatives: A Collateral Experiment,"Marinos, Mike, Nicos",2010-11,10.1109/APSEC.2010.42,2010 Asia Pacific Software Engineering Conference,
+Evaluating Mutation Testing Alternatives: A Collateral Experiment”,"Kintis, M. and Papadakis, M. and Malevris, N.",2010,,2010 Asia Pacific Software Engineering Conference,Parsai2016
+Evaluating Random Mutant Selection at Class-level in Projects with Non-adequate Test Suites”,"Parsai, A. and Murgia, A. and Demeyer, S.",2016,,Proceedings of the 20th International Conference on Evaluation and Assessment in Software Engineering,Parsai2016
+Evaluating advantages of test driven development: A controlled experiment with professionals,"Canfora, G. and Cimitile, A. and Garcia, F. and Piattini, M. and Visaggio, C.A.",2006,,,Kracht2014
+Evaluating non-adequate test-case reduction,"Mohammad Amin, August, Rahul, Darko, Alex",2016-8-25,10.1145/2970276.2970361,Proceedings of the 31st IEEE/ACM International Conference on Automated Software Engineering,
+Evaluating test suites and adequacy criteria using simulation-based models of distributed systems,"Rutherford, M.J. and Carzaniga, A. and Wolf, A.L.",2008,,IEEE Transactions on Software Engineering,Tengeri2016
+Evaluating testing methods by delivered reliability,"Frankl, Phyllis G. and Hamlet, Richard G. and Littlewood, Bev and Strigini, Lorenzo",1998-08,,,Harder2003
+Evaluating testing methods by delivered reliability [software],"P.G., R.G., B., L.",1998,10.1109/32.707695,IEEE Transactions on Software Engineering,
+Evaluating the Effects of Compiler Optimizations on Mutation Testing at the Compiler IR Level,"Farah, August, Hayes, Sarfraz, Darko",2016-10,10.1109/ISSRE.2016.51,2016 IEEE 27th International Symposium on Software Reliability Engineering (ISSRE),
+Evaluating the efficacy of test-driven development,"Thirumalesh, Nachiappan",2006,10.1145/1159733.1159787,Proceedings of the 2006 ACM/IEEE international symposium on International symposium on empirical software engineering  - ISESE '06,
+Evaluation of the cost of alternate mutation strategies,"Mathur, A.P. and Wong, W.E.",1993,,,Gopinath2017a
+EvoSuite: Automatic test suite generation for object-oriented software,"Fraser, G. and Arcuri, A.",2011,,,Just2014a
+EvoSuite: automatic test suite generation for object-oriented software,"Fraser, G. and Arcuri, A.",2011,,,Rojas2017
+EvoSuite: automatic test suite generation for object-oriented software”,"Fraser, G. and Arcuri, A.",2011,,,Godio2019
+Evolutionary Generation of Whole Test Suites,"Gordon, Andrea",2011-7,10.1109/QSIC.2011.19,2011 11th International Conference on Quality Software,
+Evolutionary test environment for automatic structural testing,"Joachim, Andre, Harmen",2001-12,10.1016/S0950-5849(01)00190-2,Information and Software Technology,
+Experiments of the Effectiveness of Dataflow- and Controlflow-Based Test Adequacy Criteria,"Hutchins, M. and Foster, H. and Goradia, T. and Ostrand, T.",1994,,Proceedings of 16th International Conference on Software Engineering,RealesMateo2013
+Experiments of the effectiveness of dataflow- and controlflow-based test adequacy criteria,"Hutchins, M. and Foster, H. and Goradia, T. and Ostrand, T.",1994,,Proceedings of 16th International Conference on Software Engineering,Felbinger2017
+Experiments of the effectiveness of dataflow-and controlflow-based test adequacy criteria,"Hutchins, M. and Foster, H. and Goradia, T. and Ostrand, T.",1994,,Proceedings of 16th International Conference on Software Engineering,Lindstroem2016
+Experiments on the effectiveness of dataflow- and control-flow-based test adequacy criteria,"M., H., T., T.",,10.1109/ICSE.1994.296778,Proceedings of 16th International Conference on Software Engineering,
+Experiments on the effectiveness of dataflow- and controlflow-based test adequacy criteria,"Hutchins, Monica and Foster, Herb and Goradia, Tarak and Ostrand, Thomas","May 16–21, 1994",,Proceedings of 16th International Conference on Software Engineering,Harder2003
+Exploring the composition of unit test suites,"Bart, Serge",2008-9,10.1109/ASEW.2008.4686316,2008 23rd IEEE/ACM International Conference on Automated Software Engineering - Workshops,
+Exploring variability-aware execution for testing plugin-based web applications,"Hung Viet, Christian, Tien N.",2014-5-31,10.1145/2568225.2568300,Proceedings of the 36th International Conference on Software Engineering,
+EzUnit: A Framework for Associating Failed Unit Tests with Potential Programming Errors,"Philipp, Jens, Nils, Friedrich",,10.1007/978-3-540-73101-6_14,"Lecture Notes in Computer Science, Agile Processes in Software Engineering and Extreme Programming",
+Ezunit: A framework for associating failed unit tests with potential programming errors,"Bouillon, Philipp and Krinke, Jens and Meyer, Nils and Steimann, Friedrich",2007,,"Lecture Notes in Computer Science, Agile Processes in Software Engineering and Extreme Programming",Gergely2018
+Factors Limiting Industrial Adoption of Test Driven Development: A Systematic Review,"Adnan, Daniel, Sasikumar",2011-3,10.1109/ICST.2011.19,"2011 Fourth IEEE International Conference on Software Testing, Verification and Validation",
+Fairness testing: testing software for discrimination,"Sainyam, Yuriy, Alexandra",2017-8-21,10.1145/3106237.3106277,Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering,
+Faster mutation analysis via equivalence modulo states,"Bo, Yingfei, Yangqingwei, Lu, Dan",2017-7-10,10.1145/3092703.3092714,Proceedings of the 26th ACM SIGSOFT International Symposium on Software Testing and Analysis,
+Faster mutation testing inspired by test prioritization and reduction,"Lingming, Darko, Sarfraz",2013-7-15,10.1145/2483760.2483782,Proceedings of the 2013 International Symposium on Software Testing and Analysis,
+Fault classes and error detection capability of specification-based testing,"Kuhn, D.R.",1999-10,,,Felbinger2017
+Fault localization based on information flow coverage,Wes,2009-5-11,10.1002/stvr.409,"Software Testing, Verification and Reliability",
+Fault-based testing of database application programs with conceptual data model,"Chan, W.K. and Cheung, S.C. and Tse, T.H.",2005,,Fifth International Conference on Quality Software (QSIC'05),McMinn2019
+Featured model-based mutation analysis,"Xavier, Gilles, Mike, Axel, Pierre-Yves, Patrick",2016-5-14,10.1145/2884781.2884821,Proceedings of the 38th International Conference on Software Engineering,
+Feedback-Directed Random Test Generation,"Carlos, Shuvendu K., Michael D., Thomas",2007-5,10.1109/ICSE.2007.37,29th International Conference on Software Engineering (ICSE'07),
+Feedback-directed random test generation,"Pacheco, C. and Lahiri, S.K. and Ernst, M.D. and Ball, T.",2007,,29th International Conference on Software Engineering (ICSE'07),Rojas2017
+Feedback-directed random test generation”,"Pacheco, C. and Lahiri, S.K. and Ernst, M.D. and Ball, T.",2007,,29th International Conference on Software Engineering (ICSE'07),Godio2019
+Fiat-fault injection based automated testing environment,"Segall, Z. and Vrsalovic, D. and Siewiorek, D. and Ysskin, D. and Kownacki, J. and Barton, J. and Dancey, R. and Robinson, A. and Lin, T.",1988,,[1988] The Eighteenth International Symposium on Fault-Tolerant Computing. Digest of Papers,Zhu2018
+Field-Exhaustive Testing”,"Ponzio, P. and Aguirre, N. and Frias, M. and Visser, W.",2016,,,Godio2019
+Finding bugs by isolating unit tests,"Muşlu, K. and Soran, B. and Wuttke, J.",2011-09,,Proceedings of the 19th ACM SIGSOFT symposium and the 13th European conference on Foundations of software engineering - SIGSOFT/FSE '11,Robinson2011
+Finding errors in .NET with feedback-directed random testing,"Pacheco, C. and Lahiri, S.K. and Ball, T.",2008-07,,Proceedings of the 2008 international symposium on Software testing and analysis - ISSTA '08,Robinson2011
+Finding sufficient mutation operators via variable reduction,"Namin, A.S. and Andrews, J.H.",2006,,Second Workshop on Mutation Analysis (Mutation 2006 - ISSRE Workshops 2006),Gopinath2017a
+Foundations of Software Testing,"Mathur, A.P.",2008,,Proceedings of the 2nd ACM SIGSOFT symposium on Foundations of software engineering  - SIGSOFT '94,Sherman2009
+Foundations of Software Testing: Fundamental Algorithms and Techniques,"Mathur, A.P.",2008,,Choice Reviews Online,Zhi2013
+Fragment class analysis for testing of polymorphism in java software,"Rountev, A. and Milanova, A. and Ryder, B.G.",2004,,"25th International Conference on Software Engineering, 2003. Proceedings.",Sherman2009
+"From Weak to Strong, Dead or Alive? An Analysis of Some Mutation Testing Issues","Woodward, M.R. and Halewood, K.",1988,,"[1988] Proceedings. Second Workshop on Software Testing, Verification, and Analysis",Inozemtseva2013
+"From weak to strong, dead or alive? an analysis of some mutation testing issues","M.R., K.",,10.1109/WST.1988.5370,"[1988] Proceedings. Second Workshop on Software Testing, Verification, and Analysis",
+Further empirical studies of test effectiveness,"Phyllis G., Oleg",1998,10.1145/288195.288298,Proceedings of the 6th ACM SIGSOFT international symposium on Foundations of software engineering  - SIGSOFT '98/FSE-6,
+GRT: Program-Analysis-Guided Random Testing (T),"Lei, Cyrille, Cheng, Hiroyuki, Johannes, Rudolf",2015-11,10.1109/ASE.2015.49,2015 30th IEEE/ACM International Conference on Automated Software Engineering (ASE),
+GenRed: A Tool for Generating and Reducing Object-Oriented Test Cases,"Hojun, Kai-Shin, Carl K.",2010-7,10.1109/COMPSAC.2010.19,2010 IEEE 34th Annual Computer Software and Applications Conference,
+Generalized symbolic execution for model checking and testing”,"S. Khurshid, C. Păsăreanu and Visser, W.",2003,,,Godio2019
+Generating TCP/UDP network data for automated unit test generation,"Arcuri, A. and Fraser, G. and Galeotti, J.P.",2015,,Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering,Wang2017
+Generating program inputs for database application testing,"Pan, K. and Wu, X. and Xie, T.",2011,,2011 26th IEEE/ACM International Conference on Automated Software Engineering (ASE 2011),McMinn2019
+Generating software test data by evolution,"C.C., G., M.A.",2001,10.1109/32.988709,IEEE Transactions on Software Engineering,
+Generating test cases from formal specifications,"Toth, Kalman C. and Donat, Michael R. and Joyce, Jeffrey J.",1996-07,,,Harder2003
+Generating test data from SOFL specifications,"Offutt, A.Jefferson and Liu, Shaoying",1999-12,,Journal of Systems and Software,Harder2003
+Gerard. xUnit test patterns: Refactoring test code,Meszaros,2007,,,Gergely2018
+Guidelines for Coverage-Based Comparisons of Non-Adequate Test Suites,"Milos, Alex, Chaoqiang, Rohan, Mohammad Amin, Darko",2015-9-2,10.1145/2660767,ACM Transactions on Software Engineering and Methodology,
+HOMAJ: A Tool for Higher Order Mutation Testing in AspectJ and Java,"Elmahdi, Sudipto, Darrell",2014-3,10.1109/ICSTW.2014.19,"2014 IEEE Seventh International Conference on Software Testing, Verification and Validation Workshops",
+Helping students appreciate test-driven development (TDD),"Jaime, William",2006,10.1145/1176617.1176743,"Companion to the 21st ACM SIGPLAN conference on Object-oriented programming systems, languages, and applications  - OOPSLA '06",
+Helping students appreciate test-driven development (tdd,"Spacco, J. and Pugh, W.",2006,,"Companion to the 21st ACM SIGPLAN conference on Object-oriented programming systems, languages, and applications  - OOPSLA '06",Aaltonen2010
+Heuristics for Determining Equivalence of Program Mutations,"Baldwin, D. and Sayward, F.G.",1979,,,RealesMateo2013
+"Heuristics for Determining Equivalence of Program Mutations, ser. Department of Computer Science: Research report","Baldwin, D. and Sayward, F.",1979,,,Holling2016
+Heuristics for Determining Equivalence of Program Mutations.,"Douglas, Frederick",1979-4-1,10.21236/ADA071795,,
+Heuristics for Scalable Dynamic Test Generation,"Jacob, Koushik",2008-9,10.1109/ASE.2008.69,2008 23rd IEEE/ACM International Conference on Automated Software Engineering,
+Heuristics for determining equivalence of program mutations,"Baldwin, D. and Sayward, F.G.",1979,,,Just2014a
+High performance software testing on SIMD machines,"E.W., A.P., V.J.",1991-5,10.1109/32.90444,IEEE Transactions on Software Engineering,
+High-performance mutation testing,"Byoungju, C. and Mathur, A.P.",1993,,,McMinn2019
+Higher Order Mutation Testing,"Yue, Mark",2009-10,10.1016/j.infsof.2009.04.016,Information and Software Technology,
+Higher Order Mutation Testing”,"Jia, Y. and Harman, M.",2009,,,Parsai2016
+Higher accuracy and lower run time: efficient mutation analysis using non-redundant mutation operators,"Just, R. and Schweiggert, F.",2014,,"Software Testing, Verification and Reliability",Lindstroem2016
+Higher accuracy and lower runtime: Efficient mutation analysis using non-redundant mutation operators,"Just, R. and Schweiggert, F.",2014,,"Software Testing, Verification and Reliability",Just2014a
+Higher order mutation testing,"Jia, Y. and Harman, M.",2009,,,Just2014a
+Hints on Test Data Selection: Help for the Practicing Programmer,"R.A., R.J., F.G.",1978-4,10.1109/C-M.1978.218136,Computer,
+Hints on Test Data Selection: Help for the Practicing Programmer”,"DeMillo, R.A. and Lipton, R.J. and Sayward, F.G.",1978-04,,Computer,Parsai2016
+Hints on test data selection: Help for the practicing programmer,"DeMillo, R.A. and Lipton, R.J. and Sayward, F.G.",1978,,Computer,Lindstroem2016
+How Do Assertions Impact Coverage-Based Test-Suite Reduction?,"Junjie, Yanwei, Dan, Lingming, Lu, Bing",2017-3,10.1109/ICST.2017.45,"2017 IEEE International Conference on Software Testing, Verification and Validation (ICST)",
+"How hard does mutation analysis have to be, anyway?","Rahul, Amin, Iftekhar, Carlos, Alex",2015-11,10.1109/ISSRE.2015.7381815,2015 IEEE 26th International Symposium on Software Reliability Engineering (ISSRE),
+How to Overcome the Equivalent Mutant Problem and Achieve Tailored Selective Mutation Using Co-evolution,"Konstantinos, Mark, Robert M.",2004,10.1007/978-3-540-24855-2_155,"Genetic and Evolutionary Computation – GECCO 2004, Lecture Notes in Computer Science",
+How to misuse code coverage,"Marick, B.",1999,,,Aaltonen2010
+How to overcome the equivalent mutant problem and achieve tailored selective mutation using co-evolution,"Adamopoulos, K. and Harman, M. and Hierons, R.M.",2004,,"Genetic and Evolutionary Computation – GECCO 2004, Lecture Notes in Computer Science",Just2014a
+Improving automation in developer testing: State of the practice,"Xie, T.",2009,,,Kracht2014
+Improving generation of object-oriented test suites by avoiding redundant tests,"Xie, T. and Marinov, D. and Notkin, D.",2004-01,,,Xie2006
+Improving logic-base testing,"Kaminski, G. and Amman, P. and Offutt, J.",2013,,,Lindstroem2016
+Improving search-based test suite generation with dynamic symbolic execution,"Galeotti, J.P. and Fraser, G. and Arcuri, A.",2013,,2013 IEEE 24th International Symposium on Software Reliability Engineering (ISSRE),Rojas2017
+Improving student performance by evaluating how well students test their own programs,Stephen H.,2003-9,10.1145/1029994.1029995,Journal on Educational Resources in Computing,
+Improving test generation under rich contracts by tight bounds and incremental SAT solving”,"Abad, P. and Aguirre, N. and Bengolea, V. and Ciolek, D. and Frias, M.F. and Galeotti, J.P. and Maibaum, T. and Moscato, M. and Rosner, N. and Vissani, I.",2013,,"2013 IEEE Sixth International Conference on Software Testing, Verification and Validation",Godio2019
+Improving test suites for efficient fault localization,"Benoit, Franck, Yves",2006-5-28,10.1145/1134285.1134299,Proceedings of the 28th international conference on Software engineering,
+Improving test suites via generated specifications,"Harder, Michael",2002-06-04,,,Harder2003
+Improving test suites via operational abstraction,"M., J., M.D.",2003,10.1109/ICSE.2003.1201188,"25th International Conference on Software Engineering, 2003. Proceedings.",
+In-parameter-order: A test generation strategy for pairwise testing,"Lei, Y. and Tai, K.-C.",1998,,Proceedings Third IEEE International High-Assurance Systems Engineering Symposium (Cat. No.98EX231),Felbinger2017
+Inductive inference and software testing,"Hong, Patrick, John",1992-7,10.1002/stvr.4370020204,"Software Testing, Verification and Reliability",
+Inferring mutant utility from program context,"René, Bob, Paul",2017-7-10,10.1145/3092703.3092732,Proceedings of the 26th ACM SIGSOFT International Symposium on Software Testing and Analysis,
+Infrastructure Support for Controlled Experimentation with Software Testing and Regression Testing Techniques,"Do, H. and Elbaum, S. and Rothermel, G.",2004-08,,"Proceedings. 2004 International Symposium on Empirical Software Engineering, 2004. ISESE '04.",RealesMateo2013
+Inspecting automated test code: a preliminary study,"Lanubile, F. and Mallardo, T.",2007,,"Lecture Notes in Computer Science, Agile Processes in Software Engineering and Extreme Programming",Bowes2017
+Integrating Techniques and Tools for Testing Automation,"Polo, M. and Piattini, M. and Tendero, S.",2007,,"Software Testing, Verification and Reliability",RealesMateo2013
+Interaction testing of highly-configurable systems in the presence of constraints,"Cohen, M.B. and Dwyer, M.B. and Shi, J.",2007,,Proceedings of the 2007 international symposium on Software testing and analysis - ISSTA '07,Felbinger2017
+Interface Mutation,"Ghosh, S. and Mathur, A.P.",2001,,Mutation Testing for the New Century,RealesMateo2013
+Introduction to Software Testing,"Paul, Jeff",2016-12-13,10.1017/9781316771273,,
+Introduction to software testing,"Ammann, P. and Offutt, J.",2008,,,Lindstroem2016
+Introduction to software testing”,"Ammann, P. and Offutt, J.",2008,,,Godio2019
+Invariant-based automatic testing of modern web applications,"Mesbah, A. and Deursen, A. and Roest, D.",2012,,IEEE Transactions on Software Engineering,Mirzaaghaei2014
+Investigating the correlation between mutation score and coverage score,"Assylbekov, B. and Gaspar, E. and Uddin, N. and Egan, P.",2013,,2013 UKSim 15th International Conference on Computer Modelling and Simulation,Kracht2014
+Investigations of the Software Testing Coupling Effect,"Offutt, A.J.",1992,,ACM Transactions on Software Engineering and Methodology,RealesMateo2013
+Investigations of the Software Testing Coupling Effect”,"Offutt, A.J.",1992-01,,ACM Transactions on Software Engineering and Methodology,Parsai2016
+Investigations of the software testing coupling effect,A. Jefferson,1992-1-2,10.1145/125489.125473,ACM Transactions on Software Engineering and Methodology,
+Ipog/ipog-d: efficient test generation for multi-way combinatorial testing,"Lei, Y. and Kacker, R. and Kuhn, R.D. and Okun, V. and Lawrence, J.",2008,,"Software Testing, Verification and Reliability",Felbinger2017
+Ipog: A general strategy for t-way software testing,"Lei, Y. and Kacker, R. and Kuhn, D.R. and Okun, V. and Lawrence, J.",2007,,14th Annual IEEE International Conference and Workshops on the Engineering of Computer-Based Systems (ECBS'07),Felbinger2017
+Is Branch Coverage a Good Measure of Testing Effectiveness?” in Empirical Software Engineering and Verification,"Wei, Y. and Meyer, B. and Oriol, M.",2012,,,Bowes2017
+Is Operator-Based Mutant Selection Superior to Random Mutant Selection?,"Zhang, L. and Hou, S.-S. and Hu, J.-J. and Xie, T. and Mei, H.",2010,,Proceedings of the 32nd ACM/IEEE International Conference on Software Engineering - ICSE '10,Inozemtseva2013
+Is branch coverage a good measure of testing effectiveness?,"Wei, Y. and Meyer, B. and Oriol, M.",2012,,"Empirical Software Engineering and Verification, Lecture Notes in Computer Science",Mirzaaghaei2014
+Is mutation an appropriate tool for testing experiments?,"J. H., L. C., Y.",2005,10.1145/1062455.1062530,Proceedings of the 27th international conference on Software engineering  - ICSE '05,
+Is mutation an appropriate tool for testing experiments? [software testing]”,"Andrews, J. and Briand, L. and Labiche, Y.",2005-05,,,Parsai2016
+Is operator-based mutant selection superior to random mutant selection?,"Lu, Shan-Shan, Jun-Jue, Tao, Hong",2010,10.1145/1806799.1806863,Proceedings of the 32nd ACM/IEEE International Conference on Software Engineering - ICSE '10,
+Isolating First Order Equivalent Mutants via Second Order Mutation,"Marinos, Mike, Nicos",2012-4,10.1109/ICST.2012.160,"2012 IEEE Fifth International Conference on Software Testing, Verification and Validation",
+Isolating First Order Equivalent Mutants via Second Order Mutation”,"Kintis, M. and Papadakis, M. and Malevris, N.",2012,,"2012 IEEE Fifth International Conference on Software Testing, Verification and Validation",Parsai2016
+It Does Matter How You Normalise the Branch Distance in Search Based Software Testing,Andrea,2010,10.1109/ICST.2010.17,"2010 Third International Conference on Software Testing, Verification and Validation",
+JCrasher: An automatic robustness tester for java,"Csallner, C. and Smaragdakis, Y.",2004,,Software: Practice and Experience,Kracht2014
+JCrasher: an automatic robustness tester for Java,"Christoph, Yannis",2004-8-11,10.1002/spe.602,Software: Practice and Experience,
+JDAMA: Java database application mutation analyser,"Zhou, C. and Frankl, P.",2011,,"Software Testing, Verification and Reliability",McMinn2019
+Jartege: A tool for random generation of unit tests for Java classes,"Oriat, C.",2005-09,,"Lecture Notes in Computer Science, Quality of Software Architectures and Software Quality",Robinson2011
+Javalanche: Efficient mutation testing for Java,"Schuler, D. and Zeller, A.",2009,,,Just2014a
+Javalanche: Efficient mutation testing for java,"Schuler, D. and Zeller, A.",2009-08,,,Gopinath2017a
+Javalanche: efficient mutation testing for Java,"Schuler, D. and Zeller, A.",2009,,,Zhang2013
+Javalanche: efficient mutation testing for java,"Schuler, D. and Zeller, A.",2009,,,Aaltonen2010
+Jtest manuals version 4.5,Parasoft,2003-04,,,Xie2006
+Judy - a mutation testing tool for Java,"Madeyski, L. and Radyk, N.",2010-02,,IET Software,Daoudagh2015
+Judy – a mutation testing tool for Java,"L., N.",2010,10.1049/iet-sen.2008.0038,IET Software,
+Jumble Java Byte Code to Measure the Effectiveness of Unit Tests,"Sean A., Tin, Leonard, John G., Stuart, Mark",2007-9,10.1109/TAIC.PART.2007.38,Testing: Academic and Industrial Conference Practice and Research Techniques - MUTATION (TAICPART-MUTATION 2007),
+KLEE: Unassisted and automatic generation of high-coverage tests for complex systems programs,"Cadar, C. and Dunbar, D. and Engler, D.",2008,,,Wang2017
+Killing strategies for model-based mutation testing,"Bernhard K., Harald, Elisabeth, Willibald, Rupert, Stefan",2014-2-3,10.1002/stvr.1522,"Software Testing, Verification and Reliability",
+Klee: Unassisted and automatic generation of high-coverage tests for complex systems programs,"Cadar, C. and Dunbar, D. and Engler, D.",2008,,,Holling2016
+Korat: Automated testing based on Java predicates”,"Boyapati, C. and Khurshid, S. and Marinov, D.",2002,,,Godio2019
+Leveraging a commercial mutation analysis tool for research,"Hampton, M. and Petithomme, S.",2007,,Testing: Academic and Industrial Conference Practice and Research Techniques - MUTATION (TAICPART-MUTATION 2007),Just2014a
+Leveraging field data for impact analysis and regression testing,"Orso, A. and Apiwattanapong, T. and Harrold, M.J.",2003-09,,ACM SIGSOFT Software Engineering Notes,Wang2017
+Lightweight Automated Testing with Adaptation-Based Programming,"Alex, Alan, Jervis, Tim, Amin, Martin, Camden",2012-11,10.1109/ISSRE.2012.1,2012 IEEE 23rd International Symposium on Software Reliability Engineering,
+MAJOR: An efficient and extensible tool for mutation analysis in a Java compiler,"Rene, Franz, Gregory M.",2011-11,10.1109/ASE.2011.6100138,2011 26th IEEE/ACM International Conference on Automated Software Engineering (ASE 2011),
+MAJOR: An efficient and extensible tool for mutation analysis in a java compiler,"Just, R. and Schweiggert, F. and Kapfhammer, G.M.",2011,,2011 26th IEEE/ACM International Conference on Automated Software Engineering (ASE 2011),Wang2017
+MEDIC: A static analysis framework for equivalent mutant identification,"Kintis, M. and Malevris, N.",2015,,Information and Software Technology,McMinn2019
+MESSI: Mutant Evaluation by Static Semantic Interpretation,"Matthew, Manuel, John A.",2012-4,10.1109/ICST.2012.161,"2012 IEEE Fifth International Conference on Software Testing, Verification and Validation",
+"MILU: A Customizable, Runtime-Optimized Higher Order Mutation Testing Tool for the Full C Language","Yue, Mark",2008-8,10.1109/TAIC-PART.2008.18,Testing: Academic & Industrial Conference - Practice and Research Techniques (taic part 2008),
+"MILU: A customizable, runtime-optimized higher order mutation testing tool for the full C language","Jia, Y. and Harman, M.",2008,,Testing: Academic & Industrial Conference - Practice and Research Techniques (taic part 2008),GomezAbajo2020
+Machine learning approach in mutation testing,"Strug, J. and Strug, B.",2012,,,Gopinath2017a
+Making System User Interactive Tests Repeatable: When and What Should We Control?,"Zebao, Yalan, Myra B., Atif M., Zhen",2015-5,10.1109/ICSE.2015.28,2015 IEEE/ACM 37th IEEE International Conference on Software Engineering,
+Managing crowdsourced software testing: a case study based insight on the challenges of a crowdsourcing intermediary,"Zogaj, S. and Bretschneider, U. and Leimeister, J.M.",2014,,Journal of Business Economics,Rojas2017
+Mdroid+: A mutation testing framework for android,"Moran, K. and Tufano, M. and Bernal-Cárdenas, C. and Linares-Vásquez, M. and Bavota, G. and Vendome, C. and Penta, M.Di and Poshyvanyk, D.",2018,,,EscobarVelasquez2019
+Measuring effectiveness of mutant sets,"Gopinath, R. and Alipour, M.A. and Ahmed, I. and Jensen, C. and Groce, A.",2016,,"2016 IEEE Ninth International Conference on Software Testing, Verification and Validation Workshops (ICSTW)",Gopinath2017a
+Measuring the cost of regression testing in practice: a study of Java projects using continuous integration,"Adriaan, Laura, Reid",2017-8-21,10.1145/3106237.3106288,Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering,
+Metallaxis-FL: mutation-based fault localization,"Mike, Yves",2013-9-9,10.1002/stvr.1509,"Software Testing, Verification and Reliability",
+"Milu: A customizable, runtime-optimized higher order mutation testing tool for the full C language","Jia, Y. and Harman, M.",2008,,Testing: Academic & Industrial Conference - Practice and Research Techniques (taic part 2008),McMinn2019
+Mining unit test cases to synthesize API usage examples,"Mohammad, Konstantin, Mohammad Mehdi",2017-1-20,10.1002/smr.1841,Journal of Software: Evolution and Process,
+Mirror adaptive random testing,"T.Y., F.-C., R.G., S.P.",2004-12,10.1016/j.infsof.2004.07.004,Information and Software Technology,
+Mobile Application Testing: A Tutorial,"Jerry, Xiaoying, Wei-Tek, Tadahiro",2014-2,10.1109/MC.2013.445,Computer,
+Model-Based Mutation Testing of an Industrial Measurement Device,"Bernhard K., Jakob, Elisabeth, Robert, Willibald, Rupert, Birgit Vera",2014,10.1007/978-3-319-09099-3_1,"Tests and Proofs, Lecture Notes in Computer Science",
+Model-Based Testing of Reactive Systems,,2005,10.1007/b137241,Lecture Notes in Computer Science,
+Model-based mutation testing of an industrial measurement device,"Aichernig, B.K. and Auer, J. and Jöbstl, E. and Korosec, R. and Krenn, W. and Schlick, R. and Schmidt, B.V.",2014,,"Tests and Proofs, Lecture Notes in Computer Science",GomezAbajo2020
+Model-based testing in practice,"Dalal, S.R. and Jain, A. and Karunanithi, N. and Leaton, J.M. and Lott, C.M. and Patton, G.C. and Horowitz, B.M.",1999,,,Felbinger2017
+Model-based tests for access control policies,"Pretschner, A. and Mouelhi, T. and Traon, Y.Le",2008,,"2008 International Conference on Software Testing, Verification, and Validation",Daoudagh2015
+Modeling readability to improve unit tests,"Daka, E. and Campos, J. and Fraser, G. and Dorn, J. and Weimer, W.",2015,,Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering,Bowes2017
+Momut: UML model-based mutation testing for UML,"Krenn, W. and Schlick, R. and Tiran, S. and Aichernig, B.K. and Jöbstl, E. and Brandl, H.",2015,,"2015 IEEE 8th International Conference on Software Testing, Verification and Validation (ICST)",GomezAbajo2020
+MuCheck: an extensible tool for mutation testing of haskell programs,"Duc, Mohammad Amin, Rahul, Alex",2014,10.1145/2610384.2628052,Proceedings of the 2014 International Symposium on Software Testing and Analysis - ISSTA 2014,
+MuJava: A mutation system for Java,"Ma, Y.-S. and Offutt, J. and Kwon, Y.-R.",2006,,,McMinn2019
+MuJava: An Automated Class Mutation System,"Ma, Y.-S. and Offutt, J. and Kwon, Y.R.",2005,,"Software Testing, Verification and Reliability",RealesMateo2013
+MuJava: An Automated Class Mutation System”,"Ma, Y.-S. and Offutt, J. and Kwon, Y.-R.",2005,,"Software Testing, Verification and Reliability",Godio2019
+MuJava: An automated class mutation system,"Ma, Y.S. and Offutt, J. and Kwon, Y.R.",2005,,"Software Testing, Verification and Reliability",Zhang2012
+MuJava: a mutation system for Java,"Ma, Y.-S. and Offutt, J. and Kwon, Y.-R.",2006,,,Daoudagh2015
+MuJava: an automated class mutation system,"Yu-Seung, Jeff, Yong Rae",2005,10.1002/stvr.308,"Software Testing, Verification and Reliability",
+MuTMuT: Efficient Exploration for Mutation Testing of Multithreaded Code,"Milos, Vilas, Darko",2010-4,10.1109/ICST.2010.33,"2010 Third International Conference on Software Testing, Verification and Validation",
+MuVM: Higher Order Mutation Analysis Virtual Machine for C,"Susumu, Hiroaki, Kazunori, Shinichi",2016-4,10.1109/ICST.2016.18,"2016 IEEE International Conference on Software Testing, Verification and Validation (ICST)",
+Mujava : An automated class mutation system,"Ma, Y. and Offutt, J. and Kwon, Y.R.",2005,,"Software Testing, Verification and Reliability",Daoudagh2015
+Mujava: an automated class mutation system: Research articles,"Ma, Y.-S. and Offutt, J. and Kwon, Y.R.",2005,,,Aaltonen2010
+Mull It Over: Mutation Testing Based on LLVM,"Alex, Stanislav",2018-4,10.1109/ICSTW.2018.00024,"2018 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW)",
+Multi Objective Higher Order Mutation Testing with GP,"Langdon, W. and Harman, M. and Jia, Y.",2009,,Proceedings of the 11th Annual conference on Genetic and evolutionary computation - GECCO '09,RealesMateo2013
+Multi Objective Higher Order Mutation Testing with Genetic Programming,"Langdon, W. and Harman, M. and Jia, Y.",2009,,2009 Testing: Academic and Industrial Conference - Practice and Research Techniques,RealesMateo2013
+Multi objective higher order mutation testing with genetic programming,"Langdon, W.B. and Harman, M. and Jia, Y.",2009,,2009 Testing: Academic and Industrial Conference - Practice and Research Techniques,Zhang2013
+Multithreaded java program test generation,"Edelstein, O. and Farchi, E. and Nir, Y. and Ratsaby, G. and Ur, S.",2002,,Proceedings of the 2001 joint ACM-ISCOPE conference on Java Grande  - JGI '01,Sherman2009
+Mutant Subsumption Graphs,"Bob, Paul, Marcio E., Jeff, Lin",2014-3,10.1109/ICSTW.2014.20,"2014 IEEE Seventh International Conference on Software Testing, Verification and Validation Workshops",
+Mutant subsumption graphs,"Kurtz, B. and Ammann, P. and Delamaro, M.E. and Offutt, J. and Deng, L.",2014,,"2014 IEEE Seventh International Conference on Software Testing, Verification and Validation Workshops",Lindstroem2016
+Mutant unification for improved vectorization,"Mathur, A.P. and Krauser, E.W.",1988,,,Zhang2012
+Mutating aspect-oriented models to test cross-cutting concerns,"Lindström, B. and Andler, S.F. and Offutt, J. and Pettersson, P. and Sundmark, D.",2015,,"2015 IEEE Eighth International Conference on Software Testing, Verification and Validation Workshops (ICSTW)",McMinn2019
+Mutation 2000: Uniting the Orthogonal,"A. Jefferson, Roland H.",2001,10.1007/978-1-4757-5939-6_7,Mutation Testing for the New Century,
+Mutation 2000: Uniting the Orthogonal”. English. In: Mutation Testing for the New Century,"Offutt, A. and Untch, R.",2001,,,Parsai2016
+Mutation 2000: Uniting the orthogonal,"Offutt, A.J. and Untch, R.H.",2001,,Mutation Testing for the New Century,Gopinath2017a
+"Mutation 2000: Uniting the orthogonal,” in Mutation testing for the new century","Offutt, A.J. and Untch, R.H.",2001,,,Lindstroem2016
+Mutation Analysis Testing for Model Transformations,"Jean-Marie, Benoit, Yves",2006,10.1007/11787044_28,"Model Driven Architecture – Foundations and Applications, Lecture Notes in Computer Science",
+Mutation Analysis Using Mutant Schemata,"Untch, R.H. and Offutt, A.J. and Harrold, M.J.",1993,,Proceedings of the 1993 international symposium on Software testing and analysis  - ISSTA '93,Inozemtseva2013
+Mutation Analysis Using Program Schemata,"Untch, R. and Offutt, A. and Harrold, M.",1993-06,,,RealesMateo2013
+Mutation Analysis of Program Test Data,"Budd, T.A.",1980,,,Just2014a
+Mutation Analysis of Program Test Data”. AAI8025191,"Budd, T.",1980,,,Parsai2016
+Mutation Analysis.,"Timothy A., Richard J., Richard A., Frederick G.",1979-4-1,10.21236/ADA068118,,
+Mutation Analysis: An Industrial Experiment”,"Parsai, A. and Soetens, Q.D. and Demeyer, S.",2015,,,Parsai2016
+Mutation Reduction Strategies Considered Harmful,"Rahul, Iftekhar, Mohammad Amin, Carlos, Alex",2017-9,10.1109/TR.2017.2705662,IEEE Transactions on Reliability,
+Mutation Testing Advances: An Analysis and Survey,"Mike, Marinos, Jie, Yue, Yves Le, Mark",2019,10.1016/bs.adcom.2018.03.015,Advances in Computers,
+Mutation Testing As a Safety Net for Test Code Refactoring”,"Parsai, A. and Murgia, A. and Soetens, Q.D. and Demeyer, S.",2015,,Scientific Workshop Proceedings of the XP2015,Parsai2016
+Mutation Testing Cost Reduction Techniques: A Survey,"Polo, M. and Reales, P.",May/June 2010,,IEEE Software,RealesMateo2013
+Mutation Testing Strategies: A Collateral Approach,"Papadakis, M. and Malevris, N. and Kintis, M.",2011-06,,Proceedings of the 5th International Conference on Software and Data Technologies,RealesMateo2013
+Mutation Testing for Java Database Applications,"Chixiang, Phyllis",2009-4,10.1109/ICST.2009.43,2009 International Conference on Software Testing Verification and Validation,
+Mutation Testing of Software Using a MIMD Computer,"Offutt, A.J. and Pargas, R.P. and Fichter, S.V. and Khambekar, P.K.",1992,,,Inozemtseva2013
+Mutation analysis,"Acree, A.T. and Budd, T.A. and DeMillo, R.A. and Lipton, R.J. and Sayward, F.G.",1979,,,Zhang2012
+Mutation analysis of program test data,"Budd, T.A.",1980,,,Gopinath2017a
+Mutation analysis of program test data[ph. d. thesis,"Budd, T.A.",1980,,,Zhang2013
+Mutation analysis of relational database schemas,"Wright, C.",2015,,,McMinn2019
+Mutation analysis testing for model transformations,"Mottu, J.-M. and Baudry, B. and Traon, Y.L.",2006,,"Model Driven Architecture – Foundations and Applications, Lecture Notes in Computer Science",GomezAbajo2020
+Mutation analysis using mutant schemata,"Roland H., A. Jefferson, Mary Jean",1993,10.1145/154183.154265,Proceedings of the 1993 international symposium on Software testing and analysis  - ISSTA '93,
+Mutation analysis using program schemata,"Untch, R. and Offutt, A.J. and Harrold, M.J.",1993,,,Zhang2012
+Mutation analysis vs. code coverage in automated assessment of students' testing skills,"Kalle, Petri, Otto",2010,10.1145/1869542.1869567,Proceedings of the ACM international conference companion on Object oriented programming systems languages and applications companion - SPLASH '10,
+Mutation analysis vs. code coverage in automated assessment of students’ testing skills,"Aaltonen, K. and Ihantola, P. and Seppälä, O.",2010,,Proceedings of the ACM international conference companion on Object oriented programming systems languages and applications companion - SPLASH '10,Kracht2014
+Mutation at System and Functional Levels,"Reales, P. and Polo, M. and Offutt, J.",2010-04,,"2010 Third International Conference on Software Testing, Verification, and Validation Workshops",RealesMateo2013
+Mutation based test case generation via a path selection strategy,"Mike, Nicos",2012-9,10.1016/j.infsof.2012.02.004,Information and Software Technology,
+Mutation clustering,"Hussain, S.",2008,,,Gopinath2017a
+Mutation operators for JADE mobile agent systems,"Saifan, A.A. and Wahsheh, H.A.",2012,,Proceedings of the 3rd International Conference on Information and Communication Systems - ICICS '12,McMinn2019
+Mutation operators for UML Class Diagrams,"Granda, M.F. and Condori-Fernández, N. and Vos, T.E.J. and Pastor, O.",2016,,,GomezAbajo2020
+Mutation operators for cognitive agent programs,"Savarimuthu, S. and Winikoff, M.",2013,,,McMinn2019
+Mutation operators for testing Android apps,"Deng, L. and Offutt, J. and Ammann, P. and Mirzaei, N.",2017,,Information and Software Technology,McMinn2019
+Mutation operators for testing android apps,"Deng, L. and Offutt, J. and Ammann, P. and Mirzaei, N.",2017,,Information and Software Technology,EscobarVelasquez2019
+Mutation testing as a safety net for test code refactoring,"Ali, Alessandro, Quinten David, Serge",2015-5-25,10.1145/2764979.2764987,Scientific Workshop Proceedings of the XP2015,
+Mutation testing cost reduction by clustering overlapped mutants,"Ma, Y.-S. and Kim, S.-W.",2016,,Journal of Systems and Software,McMinn2019
+Mutation testing cost reduction techniques: A survey,"Usaola, M.P. and Mateo, P.R.",2010-05,10.1109/MS.2010.79,IEEE Software,Tengeri2016
+Mutation testing for DSLs (tool demo,"Gómez-Abajo, P. and Guerra, E. and Lara, J. and Merayo, M.G.",2019,,Proceedings of the 17th ACM SIGPLAN International Workshop on Domain-Specific Modeling,GomezAbajo2020
+Mutation testing for Java based on model-driven development (in spanish,"González, A. and Luna, C. and Bressan, G.",2018,,,GomezAbajo2020
+Mutation testing from probabilistic and stochastic finite state machines,"Hierons, R.M. and Merayo, M.G.",2009,,,McMinn2019
+Mutation testing meets approximate computing,"Milos, Sarfraz, Sasa, August",2017-5,10.1109/ICSE-NIER.2017.15,2017 IEEE/ACM 39th International Conference on Software Engineering: New Ideas and Emerging Technologies Results Track (ICSE-NIER),
+Mutation testing of memory-related operators,"Jay, Fan, Mark, Yue, Jens",2015-4,10.1109/ICSTW.2015.7107449,"2015 IEEE Eighth International Conference on Software Testing, Verification and Validation Workshops (ICSTW)",
+Mutation testing of software using MIMD computer,"Offutt, A.J. and Pargas, R.P. and Fichter, S.V. and Khambekar, P.K.",1992,,,Zhang2012
+Mutation testing of software using a MIMD computer,"Offutt, A.J. and Pargas, R.P. and Fichter, S.V. and Khambekar, P.K.",1992,,,McMinn2019
+"Mutation versus all-uses: An empirical evaluation of cost, strength and effectiveness","Wong, W.E. and Mathur, A.P. and Maldonado, J.C.",1995,,"Software Quality and Productivity, IFIP Advances in Information and Communication Technology",Tengeri2016
+Mutation-Based Fault Localization for Real-World Multilingual Programs (T),"Shin, Byeongcheol, Taehoon, Yiru, Bongsuk, Yunho, Moonzoo",2015-11,10.1109/ASE.2015.14,2015 30th IEEE/ACM International Conference on Automated Software Engineering (ASE),
+Mutation-Driven Generation of Unit Tests and Oracles,"Gordon, Andreas",2012-3,10.1109/TSE.2011.93,IEEE Transactions on Software Engineering,
+Mutation-based fuzzing,"Zeller, A. and Gopinath, R. and Böhme, M. and Fraser, G. and Holler, C.",2019,,,GomezAbajo2020
+Mutation-based test generation for plc embedded software using model checking,,2016,,"Testing Software and Systems, Lecture Notes in Computer Science",Zhu2018
+Mutation-based test-case prioritization in software evolution,"Yiling, Dan, Lu",2015-11,10.1109/ISSRE.2015.7381798,2015 IEEE 26th International Symposium on Software Reliability Engineering (ISSRE),
+Mutation-driven generation of unit tests and oracles,"Gordon, Andreas",2010,10.1145/1831708.1831728,Proceedings of the 19th international symposium on Software testing and analysis - ISSTA '10,
+Mutations: How Close are they to Real Faults?,"Rahul, Carlos, Alex",2014-11,10.1109/ISSRE.2014.40,2014 IEEE 25th International Symposium on Software Reliability Engineering,
+Mutations: How close are they to real faults?,"Gopinath, R. and Jensen, C. and Groce, A.",2014-11,,2014 IEEE 25th International Symposium on Software Reliability Engineering,Gopinath2017a
+Mutatis mutandis: Evaluating DBMS test adequacy with mutation testing,"Bowman, I.T.",2013,,,McMinn2019
+Mutode: generic javascript and node.js mutation testing tool,"Rodrı́guez-Baquero, D. and Linares-Vásquez, M.",,,Proceedings of the 27th ACM SIGSOFT International Symposium on Software Testing and Analysis,EscobarVelasquez2019
+Negative Effects of Bytecode Instrumentation on Java Source Code Coverage,"David, Ferenc, Arpad, Tamas, Tibor",2016-3,10.1109/SANER.2016.61,"2016 IEEE 23rd International Conference on Software Analysis, Evolution, and Reengineering (SANER)",
+Non-semantics-preserving transformations for higher-coverage test generation using symbolic execution,"Converse, H. and Olivo, O. and Khurshid, S.",,,"2017 IEEE International Conference on Software Testing, Verification and Validation (ICST)",Gligoric2017
+On Adaptive Sampling-Based Testing for Software Reliability Assessment,"Roberto, Stefano",2016-10,10.1109/ISSRE.2016.50,2016 IEEE 27th International Symposium on Software Reliability Engineering (ISSRE),
+On Adequacy of Assertions in Automated Test Suites: An Empirical Investigation,"Junji, Vahid",2013-3,10.1109/ICSTW.2013.49,"2013 IEEE Sixth International Conference on Software Testing, Verification and Validation Workshops",
+On Mutation,"Acree, A.T.",1980,,,Just2014a
+On The Detection of Test Smells: A Metrics-Based Approach for General Fixture and Eager Test,"B., B., S., M.",2007-12,10.1109/TSE.2007.70745,IEEE Transactions on Software Engineering,
+On guiding the augmentation of an automated test suite via mutation analysis,"Ben H., Laurie",2008-8-21,10.1007/s10664-008-9083-7,Empirical Software Engineering,
+On mutation,"Acree, A.T.",1980,,,Gopinath2017a
+On mutation and data flow,"Wong, W.E.",1993,,,Gopinath2017a
+On random and partition testing,"Ntafos, S.",1998-03,,Proceedings of ACM SIGSOFT international symposium on Software testing and analysis  - ISSTA '98,Robinson2011
+On reduced neighborhood mutation analysis using a single mutagenic operator,Roland H.,2009,10.1145/1566445.1566540,Proceedings of the 47th Annual Southeast Regional Conference on - ACM-SE 47,
+On redundant mutants and strong mutation,"Lindström, B. and Márki, A.",2015,,,Gopinath2017a
+On strong mutation and subsuming mutants. IEEE workshop on mutation analysis (mutation 2016,"Lindstrm, B. and Mrki, A.",2016,,,Gopinath2017a
+On the Danger of Coverage Directed Test Case Generation,"Matt, Gregory, Michael, Mats",2012,10.1007/978-3-642-28872-2_28,"Fundamental Approaches to Software Engineering, Lecture Notes in Computer Science",
+On the Relation of Test Smells to Software Code Quality,"Davide, Fabio, Andy, Magiel, Alberto",2018-9,10.1109/ICSME.2018.00010,2018 IEEE International Conference on Software Maintenance and Evolution (ICSME),
+On the Use of Mutation Faults in Empirical Assessments of Test Case Prioritization Techniques,", G.",2006-9,10.1109/TSE.2006.92,IEEE Transactions on Software Engineering,
+On the danger of coverage directed test case generation,"Staats, M. and Gay, G. and Whalen, M. and Heimdahl, M.",2012,,"Fundamental Approaches to Software Engineering, Lecture Notes in Computer Science",Zhang2013
+On the detection of test smells: A metrics-based approach for general fixture and eager test,"Rompaey, B.Van and Bois, B.Du and Demeyer, S. and Rieger, M.",2007-12,,IEEE Transactions on Software Engineering,Tengeri2015
+On the effectiveness of manual and automatic unit test generation,"Bacchelli, A. and Ciancarini, P. and Rossi, D.",2008,,2008 The Third International Conference on Software Engineering Advances,Kracht2014
+On the effectiveness of the test-first approach to programming,"Erdogmus, H. and Morisio, M. and Torchiano, M.",2005-03,,IEEE Transactions on Software Engineering,Gopinath2017a
+On the influence of Test Smells on Test Coverage,"Tássio, Railana, Luana Almeida, Larissa Rocha, Heitor, Ivan",2019-9-23,10.1145/3350768.3350775,Proceedings of the XXXIII Brazilian Symposium on Software Engineering,
+On the interplay between software testing and evolution and its effect on program comprehension,"Moonen, L. and Deursen, A. and Zaidman, A. and Bruntink, M.",2008,,Software Evolution,Bowes2017
+On the limits of mutation reduction strategies,"Rahul, Mohammad Amin, Iftekhar, Carlos, Alex",2016-5-14,10.1145/2884781.2884787,Proceedings of the 38th International Conference on Software Engineering,
+On the role of tests in test-driven development: a differentiated and partial replication,"Fucci, D. and Turhan, B.",2014,10.1007/s10664-013-9259-7,Empirical Software Engineering,Bowes2017
+On the use of a similarity function for test case selection in the context of model-based testing,"Emanuela G., Patrícia D. L., Francisco G. Oliveira",2009-7-22,10.1002/stvr.413,"Software Testing, Verification and Reliability",
+On the use of mutation faults in empirical assessments of test case prioritization techniques,"Do, H. and Rothermel, G.",2006,,IEEE Transactions on Software Engineering,Kracht2014
+On-demand test suite reduction,"Hao, D. and Zhang, L. and Wu, X. and Mei, H. and Rothermel, G.",2012,,2012 34th International Conference on Software Engineering (ICSE),Zhang2013
+One evaluation of model-based testing and its automation,"A., W., S., C., M., B., R., T.",2005,10.1145/1062455.1062529,Proceedings of the 27th international conference on Software engineering  - ICSE '05,
+"Oops, My Tests Broke the Build: An Explorative Analysis of Travis CI with GitHub","Moritz, Georgios, Andy",2017-5,10.1109/MSR.2017.62,2017 IEEE/ACM 14th International Conference on Mining Software Repositories (MSR),
+Operator-based and random mutant selection: Better together,"Lingming, Milos, Darko, Sarfraz",2013-11,10.1109/ASE.2013.6693070,2013 28th IEEE/ACM International Conference on Automated Software Engineering (ASE),
+Overcoming the Equivalent Mutant Problem: A Systematic Literature Review and a Comparative Experiment of Second Order Mutation,"Lech, Wojciech, Richard, Mariusz",2014-1,10.1109/TSE.2013.44,IEEE Transactions on Software Engineering,
+Overcoming the Equivalent Mutant Problem: A Systematic Literature Review and a Comparative Experiment of Second Order Mutation”,"Madeyski, L. and Orzeszyna, W. and Torkar, R. and Jozala, M.",2014-01,,IEEE Transactions on Software Engineering,Parsai2016
+Overcoming the equivalent mutant problem: A systematic literature review and a comparative experiment of second order mutation,"Madeyski, L. and Orzeszyna, W. and Torkar, R. and Józala, M.",2014,,IEEE Transactions on Software Engineering,Tengeri2016
+PCTgen: Automated Generation of Test Cases for Application Workflows,Miroslav,2015,10.1007/978-3-319-16486-1_78,"New Contributions in Information Systems and Technologies, Advances in Intelligent Systems and Computing",
+PIT: a practical mutation testing tool for Java (demo),"Henry, Thomas, Christopher, Mike, Anthony",2016-7-18,10.1145/2931037.2948707,Proceedings of the 25th International Symposium on Software Testing and Analysis,
+POGen: A test code generator based on template variable coverage in gray-box integration testing for web applications,"Sakamoto, K. and Tomohiro, K. and Hamura, D. and Washizaki, H. and Fukazawa, Y.",2013,,"Fundamental Approaches to Software Engineering, Lecture Notes in Computer Science",Mirzaaghaei2014
+Pairwise testing in the real world: Practical extensions to test-case scenarios,"Czerwonka, J.",2006,,,Felbinger2017
+Palus: A hybrid automated test generation tool for Java,"Zhang, S.",2011,,,Kracht2014
+Partition testing does not inspire confidence,"Hamlet, Dick and Taylor, Ross",1990-12,,"[1988] Proceedings. Second Workshop on Software Testing, Verification, and Analysis",Harder2003
+"Partition testing, stratified sampling, and cluster analysis","Podgurski, A. and Yang, C.",1993,,Proceedings of the 1st ACM SIGSOFT symposium on Foundations of software engineering  - SIGSOFT '93,Bruenink2018
+Path analysis testing of concurrent programs,"Yang, R.-D. and Chung, C.-G.",1992,,Information and Software Technology,Sherman2009
+"Performance, effectiveness, and reliability issues in software testing",A.P.,,10.1109/CMPSAC.1991.170248,[1991] Proceedings The Fifteenth Annual International Computer Software & Applications Conference,
+Pex: White Box Test Generation for .NET”,"Tillmann, N. and Halleux, J.",2008,,"Tests and Proofs, Lecture Notes in Computer Science",Godio2019
+Pex–white box test generation for .NET,"Tillmann, N. and Halleux, J.De",2008,,"Tests and Proofs, Lecture Notes in Computer Science",Rojas2017
+Pit mutation testing,"Coles, H.",2016,,,Gopinath2017a
+Pit mutation testing: Mutators,"Coles, H.",2016,,,Gopinath2017a
+Practical regression test selection with dynamic file dependencies,"Milos, Lamyaa, Darko",2015-7-13,10.1145/2771783.2771784,Proceedings of the 2015 International Symposium on Software Testing and Analysis,
+Precise identification of problems for structural test generation,"Xiao, X. and Xie, T. and Tillmann, N. and Halleux, J.De",2011,,Proceedings of the 33rd International Conference on Software Engineering,Rojas2017
+Predicting Test Suite Effectiveness for Java Programs,"Inozemtseva, L.",2012,,,Inozemtseva2013
+Predicting class testability using object-oriented metrics,"M., A.",,10.1109/SCAM.2004.16,"Source Code Analysis and Manipulation, Fourth IEEE International Workshop on",
+Predicting mutation score using source code and test suite metrics,"Jalbert, K. and Bradbury, J.S.",2012,,2012 First International Workshop on Realizing AI Synergies in Software Engineering (RAISE),Tengeri2016
+Predictive mutation testing,"Zhang, J. and Wang, Z. and Zhang, L. and Hao, D. and Zang, L. and Cheng, S. and Zhang, L.",2016,,,Gligoric2017
+Prioritizing Mutation Operators Based on Importance Sampling,"Mohan, Akbar Siami",2010-11,10.1109/ISSRE.2010.16,2010 IEEE 21st International Symposium on Software Reliability Engineering,
+Prioritizing test cases for regression testing,"G., R.H., , M.J.",2001,10.1109/32.962562,IEEE Transactions on Software Engineering,
+Prioritizing test cases with string distances,"Yves, Alexandre, Sergiy, Nadine",2011-9-7,10.1007/s10515-011-0093-0,Automated Software Engineering,
+Procedures for reducing the size of coverage-based test sets,"Offutt, J. and Pan, J. and Voas, J.M.",1995,,,Tengeri2016
+Profiling deployed software: Assessing strategies and testing opportunities,"Elbaum, S. and Diep, M.",2005,,IEEE Transactions on Software Engineering,Wang2017
+Profiling deployed software: assessing strategies and testing opportunities,"Elbaum, S. and Diep, M.",2005-04,,IEEE Transactions on Software Engineering,Bruenink2018
+Program testing by specification mutation,"Timothy A., Ajei S.",1985-1,10.1016/0096-0551(85)90011-6,Computer Languages,
+"Programs , Tests , and Oracles : The Foundations of Testing Revisited","Staats, M. and Whalen, M.W. and Heimdahl, M.P.E.",2011,,,Zhi2013
+"Programs, tests, and oracles: the foundations of testing revisited","Staats, M. and Whalen, M.W. and Heimdahl, M.P.E.",2011,,,Bowes2017
+Property based coverage criterion,"Fadi, Wes",2009,10.1145/1555860.1555870,Proceedings of the 2nd International Workshop on Defects in Large Software Systems Held in conjunction with the ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2009) - DEFECTS '09,
+Proteum/IM 2.0: An Integrated Mutation Testing Environment,"Delamaro, M.E. and Maldonado, J.C. and Vincenzi, A.",2000-10,,Mutation Testing for the New Century,RealesMateo2013
+Proteum/im 2.0: An integrated mutation testing environment,"Delamaro, M.E. and Maldonado, J.C. and Vincenzi, A.M.R.",2001,,Mutation Testing for the New Century,Zhang2013
+Proteum–A tool for the assessment of test adequacy for C programs,"Delamaro, M.E. and Maldonado, J.C.",1996,,,Zhang2012
+Providing Test Quality Feedback Using Static Source Code and Automatic Test Suite Metrics,"Nagappan, N. and Williams, L. and Osborne, J.A. and Vouk, M.A.",2005,,16th IEEE International Symposium on Software Reliability Engineering (ISSRE'05),Bowes2017
+Providing test quality feedback using static source code and automatic test suite metrics,"Nagappan, N. and Williams, L. and Osborne, J. and Vouk, M. and Abrahamsson, P.",2005,,16th IEEE International Symposium on Software Reliability Engineering (ISSRE'05),Tengeri2015
+Puzzle-based automatic testing: bringing humans into the loop by solving puzzles,"Chen, N. and Kim, S.",2012,,Proceedings of the 27th IEEE/ACM International Conference on Automated Software Engineering - ASE 2012,Rojas2017
+Quality of Testing in Test Driven Development,"Adnan, Sasikumar, Daniel",2012-9,10.1109/QUATIC.2012.49,2012 Eighth International Conference on the Quality of Information and Communications Technology,
+Quality of testing in test driven development,"Causevic, A. and Punnekkat, S. and Sundmark, D.",2012,,2012 Eighth International Conference on the Quality of Information and Communications Technology,Bowes2017
+Query-Driven Program Testing,"Andreas, Christian, Michael, Helmut",2008,10.1007/978-3-540-93900-9_15,"Lecture Notes in Computer Science, Verification, Model Checking, and Abstract Interpretation",
+QuickCheck: A lightweight tool for random testing of Haskell programs,"Claessen, K. and Hughes, J.",2000-09,,,Robinson2011
+QuickCheck: a lightweight tool for random testing of Haskell programs”,"Claessen, K. and Hughes, J.",2000,,,Godio2019
+RELAI Testing: A Technique to Assess and Improve Software Reliability,"Domenico, Roberto, Stefano",2016-5-1,10.1109/TSE.2015.2491931,IEEE Transactions on Software Engineering,
+Random testing,"Hamlet, D.",1994,,,Robinson2011
+Randomized Differential Testing as a Prelude to Formal Verification,"Alex, Gerard, Rajeev",2007-5,10.1109/ICSE.2007.68,29th International Conference on Software Engineering (ICSE'07),
+Randomized directed testing (REDIRECT) for Simulink/Stateflow models,"Manoranjan, Anand, S.",2008,10.1145/1450058.1450088,Proceedings of the 7th ACM international conference on Embedded software - EMSOFT '08,
+Rapid embedded system testing using verification patterns,"Tsai, W.-T. and Yu, L. and Zhu, F. and Paul, R.",2005,,IEEE Software,Zhu2018
+ReAssert: Suggesting repairs for broken unit tests,"Daniel, B. and Jagannath, V. and Dig, D. and Marinov, D.",2009,,2009 IEEE/ACM International Conference on Automated Software Engineering,Gligoric2017
+Reachability testing of concurrent programs,"Y., R.H.",2006-6,10.1109/TSE.2006.56,IEEE Transactions on Software Engineering,
+Recomputing coverage information to assist regression testing,"Chittimalli, P.K. and Harrold, M.J.",2009,,IEEE Transactions on Software Engineering,Zhang2012
+Recovering test-to-code traceability using slicing and textual analysis,"Abdallah, Gabriele, Rocco, Andrea, Dave",2014-2,10.1016/j.jss.2013.10.019,Journal of Systems and Software,
+Recovering traceability links between unit tests and classes under test: An improved method,"Abdallah, Rocco, Andrea",2010-9,10.1109/ICSM.2010.5609581,2010 IEEE International Conference on Software Maintenance,
+Reducing Mutants with Mutant Killable Precondition,"Chihiro, Shingo",2017-3,10.1109/ICSTW.2017.29,"2017 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW)",
+Reducing the Cost of Mutation Testing: An Empirical Study,"Wong, W.E. and Mathur, A.P.",1995,,Journal of Systems and Software,Inozemtseva2013
+Reducing the cost of mutation testing: An empirical study,"W.Eric, Aditya P.",1995-12,10.1016/0164-1212(94)00098-0,Journal of Systems and Software,
+Reduction of test suites using mutation,"Usaola, M.P. and Mateo, P.R. and Lamancha, B.P.",2012,,"Fundamental Approaches to Software Engineering, Lecture Notes in Computer Science",Tengeri2016
+Refactoring test code,"Deursen, A. and Moonen, L. and Bergh, A. and Kok, G.",2001,,,Bowes2017
+Regression Mutation Testing,"Zhang, L. and Marinov, D. and Zhang, L. and Khurshid, S.",2012,,Proceedings of the 2012 International Symposium on Software Testing and Analysis - ISSTA 2012,Inozemtseva2013
+Regression mutation testing,"Lingming, Darko, Lu, Sarfraz",2012,10.1145/2338965.2336793,Proceedings of the 2012 International Symposium on Software Testing and Analysis - ISSTA 2012,
+Regression test selection for Java software,"Mary Jean, James A., Tongyu, Donglin, Ashish",2001,10.1145/504282.504305,"Proceedings of the 16th ACM SIGPLAN conference on Object oriented programming, systems, languages, and applications  - OOPSLA '01",
+Regression test selection for java software,"Harrold, M.J. and Jones, J.A. and Li, T. and Liang, D. and Orso, A. and Pennings, M. and Sinha, S. and Spoon, S.A. and Gujarathi, A.",2001,,,Zhang2012
+Regression testing,"Kapfhammer, G.M.",2010,,SpringerReference,McMinn2019
+"Regression testing minimization, selection and prioritization: A survey","Yoo, S. and Harman, M.",2012,,,Gligoric2017
+"Regression testing minimization, selection and prioritization: a survey","S., M.",2012-2-23,10.1002/stv.430,"Software Testing, Verification and Reliability",
+"Relating Code Coverage, Mutation Score and Test Suite Reducibility to Defect Density","David, Laszlo, Arpad, Judit, Gergo, Bela, Tibor",2016-4,10.1109/ICSTW.2016.25,"2016 IEEE Ninth International Conference on Software Testing, Verification and Validation Workshops (ICSTW)",
+Residual test coverage monitoring,"Pavlopoulou, C. and Young, M.",1999,,Proceedings of the 21st international conference on Software engineering - ICSE '99,Wang2017
+Rethinking computer science education from a test-first perspective,Stephen H.,2003,10.1145/949344.949390,"Companion of the 18th annual ACM SIGPLAN conference on Object-oriented programming, systems, languages, and applications  - OOPSLA '03",
+"Revisiting the relationship between fault detection, test adequacy criteria, and test set size","Yiqun T., Rahul, Anita, Michael D., Reid, Gordon, Paul, René",2020-12-21,10.1145/3324884.3416667,Proceedings of the 35th IEEE/ACM International Conference on Automated Software Engineering,
+Robotic Testing of Mobile Apps for Truly Black-Box Automation,"Ke, Mark, Yue",2017-3,10.1109/MS.2017.49,IEEE Software,
+Rostra: A framework for detecting redundant object-oriented unit tests,"Xie, T. and Marinov, D. and Notkin, D.",2004-09,,"Proceedings. 19th International Conference on Automated Software Engineering, 2004.",Xie2006
+Running students' software tests against each others' code,"Stephen H., Zalia, Michael, Robert C.",2012,10.1145/2157136.2157202,Proceedings of the 43rd ACM technical symposium on Computer Science Education - SIGCSE '12,
+SPLat: lightweight dynamic analysis for reducing combinatorics in testing configurable systems,"Chang Hwan Peter, Darko, Sarfraz, Don, Sabrina, Paulo, Marcelo",2013,10.1145/2491411.2491459,Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering - ESEC/FSE 2013,
+Sampling Program Inputs with Mutation Analysis: Going Beyond Combinatorial Interaction Testing,"Mike, Christopher, Yves Le",2014-3,10.1109/ICST.2014.11,"2014 IEEE Seventh International Conference on Software Testing, Verification and Validation",
+Scaling regression testing to large software systems,"Alessandro, Nanjuan, Mary Jean",2004,10.1145/1029894.1029928,Proceedings of the 12th ACM SIGSOFT twelfth international symposium on Foundations of software engineering  - SIGSOFT '04/FSE-12,
+Scented since the beginning: On the diffuseness of test smells in automatically generated test code,"Giovanni, Fabio, Dario, Andrea, Harald C.",2019-10,10.1016/j.jss.2019.07.016,Journal of Systems and Software,
+SchemaAnalyst: Search-based test data generation for relational database schemas,"McMinn, P. and Wright, C.J. and Kinneer, C. and McCurdy, C.J. and Camara, M. and Kapfhammer, G.M.",2016,,2016 IEEE International Conference on Software Maintenance and Evolution (ICSME),McMinn2019
+"Search-Based Software Testing: Past, Present and Future",Phil,2011-3,10.1109/ICSTW.2011.100,"2011 IEEE Fourth International Conference on Software Testing, Verification and Validation Workshops",
+Search-based data-flow test generation,"Mattia, Andre, Alessandra, Gordon",2013-11,10.1109/ISSRE.2013.6698890,2013 IEEE 24th International Symposium on Software Reliability Engineering (ISSRE),
+Search-based mutation testing for Simulink models,"Yuan, John A.",2005,10.1145/1068009.1068188,Proceedings of the 2005 conference on Genetic and evolutionary computation  - GECCO '05,
+Search-based mutation testing for simulink models,"Zhan, Y. and Clark, J.A.",2005,,Proceedings of the 2005 conference on Genetic and evolutionary computation  - GECCO '05,Zhu2018
+Search-based testing of relational schema integrity constraints across multiple database management systems,"Kapfhammer, G.M. and McMinn, P. and Wright, C.J.",2013,,"2013 IEEE Sixth International Conference on Software Testing, Verification and Validation",McMinn2019
+Searching and generating test inputs for mutation testing,"Mike, Nicos",2013-3-21,10.1186/2193-1801-2-121,SpringerPlus,
+Secret ninja testing with HALO software engineering,"Bell, J. and Sheth, S. and Kaiser, G.",2011,,Proceedings of the 4th international workshop on Social software engineering - SSE '11,Rojas2017
+Seed model synthesis for testing model-based mutation operators,"Gómez-Abajo, P. and Guerra, E. and Lara, J. and Merayo, M.",2020,,"Advanced Information Systems Engineering, Lecture Notes in Business Information Processing",GomezAbajo2020
+Selecting a Cost-Effective Test Case Prioritization Technique,"Sebastian, Gregg, Satya, Alexey G.",2004-9,10.1023/B:SQJO.0000034708.84524.22,Software Quality Journal,
+Selecting a software engineering tool: lessons learnt from mutation analysis,"Mickaël, Lydie",2015-1-16,10.1002/spe.2312,Software: Practice and Experience,
+Selective mutation testing for concurrent code,"Milos, Lingming, Cristiano, Gilles",2013-7-15,10.1145/2483760.2483773,Proceedings of the 2013 International Symposium on Software Testing and Analysis,
+Seleção Automática de Casos de Teste de Regressão Baseada em Similaridade e Valores,"Francisco Gomes, Patrícia Duarte de Lima",2013-5-13,10.22456/2175-2745.25646,Revista de Informática Teórica e Aplicada,
+Semi-automatic search-based test generation,"Pavlov, Y. and Fraser, G.",2012,,"2012 IEEE Fifth International Conference on Software Testing, Verification and Validation",Rojas2017
+Sequential statistical procedures for approving test sets using mutation-based software testing,"Sahinoglu, M. and Spafford, E.H.",1990,,,Lindstroem2016
+Seven Principles of Software Testing,"Meyer, B.",2008,,Computer,Bowes2017
+Shared Execution for Efficiently Testing Product Lines,"Chang Hwan Peter, Sarfraz, Don",2012-11,10.1109/ISSRE.2012.23,2012 IEEE 23rd International Symposium on Software Reliability Engineering,
+Smells in software test code: A survey of knowledge in industry and academia,"Vahid, Barış",2018-4,10.1016/j.jss.2017.12.013,Journal of Systems and Software,
+Software Error Analysis: A Real Case Study Involving Real Faults and Mutations,"Daran, M. and Thévenod-Fosse, P.",1996,,,Inozemtseva2013
+"Software Testing Research: Achievements, Challenges, Dreams",Antonia,2007-5,10.1109/FOSE.2007.25,Future of Software Engineering (FOSE '07),
+Software Testing Techniques,"Beizer, B.",1990,,,Xie2006
+Software Unit Test Coverage and Adequacy”,"Zhu, H. and Hall, P. and May, J.",1997,,ACM Computing Surveys,Godio2019
+Software error analysis: A real case study involving real faults and mutations,"Daran, M. and Thévenod-Fosse, P.",1996,,,Gopinath2017a
+Software fault interactions and implications for software testing,"Kuhn, D.R. and Wallace, D.R. and Gallo, Jr, A.M.",2004-06,,IEEE Transactions on Software Engineering,Felbinger2017
+Software test-code engineering: A systematic mapping,"Vahid, Yasaman, Aysu",2015-2,10.1016/j.infsof.2014.06.009,Information and Software Technology,
+Software testability: The new verification,"Voas, J.M. and Miller, K.W.",1995,,IEEE Software,Zhu2018
+Software testing,"Kapfhammer, G.M.",2004,,,McMinn2019
+"Software testing and analysis: process, principles, and techniques","Pezze, M. and Young, M.",2008,,Choice Reviews Online,Mirzaaghaei2014
+Software testing based on formal specifications: a theory and a tool,"Bernot, Gilles and Gaudel, Marie Claude and Marre, Bruno",1991-11,,Software Engineering Journal,Harder2003
+"Software testing research: Achievements, challenges, dreams","Bertolino, A.",2007,,Future of Software Engineering (FOSE '07),Tengeri2015
+Software unit test coverage and adequacy,"Hong, Patrick A. V., John H. R.",1997-12,10.1145/267580.267590,ACM Computing Surveys,
+Sound and quasi-complete detection of infeasible test requirements,"Bardin, S. and Delahaye, M. and David, R. and Kosmatov, N. and Papadakis, M. and Traon, Y.L. and Marion, J.Y.",2015-04,,"2015 IEEE 8th International Conference on Software Testing, Verification and Validation (ICST)",Holling2016
+Sound empirical evidence in software testing,"Fraser, G. and Arcuri, A.",2012,,2012 34th International Conference on Software Engineering (ICSE),Just2014a
+Specification-driven model transformation testing,"Guerra, E. and Soeken, M.",2015,,Software & Systems Modeling,GomezAbajo2020
+Specifying and testing software components using ADL,"Hayes, Roger and Sankar, Sriram",1994-04,,,Harder2003
+Speeding up Mutation Testing via Regression Test Selection: An Extensive Study,"Lingchao, Lingming",2018-4,10.1109/ICST.2018.00016,"2018 IEEE 11th International Conference on Software Testing, Verification and Validation (ICST)",
+State Coverage: A Structural Test Adequacy Criterion for Behavior Checking Matching Checks to Definitions,"Koster, K. and Kao, D.",2007,,,Zhi2013
+State Coverage: Software Validation Metrics beyond code coverage,"Vanoverberghe, D. and Halleux, J.D. and Tillmann, N. and Piessens, F.",2012,,"SOFSEM 2012: Theory and Practice of Computer Science, Lecture Notes in Computer Science",Zhi2013
+State Coverage: Software Validation Metrics beyond code coverage - extended version,"Vanoverberghe, D. and Halleux, J.D. and Tillmann, N. and Piessens, F.",2011,,,Zhi2013
+State aware test case regeneration for improving web application test suite coverage and fault detection,"Nadia, Mark",2012,10.1145/2338965.2336759,Proceedings of the 2012 International Symposium on Software Testing and Analysis - ISSTA 2012,
+State coverage,"Ken, David",2007,10.1145/1295014.1295036,The 6th Joint Meeting on European software engineering conference and the ACM SIGSOFT symposium on the foundations of software engineering companion papers - ESEC-FSE companion '07,
+State coverage for the dynamic analysis of concurrent programs,"Sherman, E.",2008,,,Sherman2009
+State coverage: a structural test adequacy criterion for behavior checking,"Koster, K. and Kao, D.",2007,,,Mirzaaghaei2014
+State of mutation testing at google,"Goran, Marko",2018-5-27,10.1145/3183519.3183521,Proceedings of the 40th International Conference on Software Engineering: Software Engineering in Practice,
+State-space coverage estimation,"Taleghani, A. and Atlee, J.M.",2009,,2009 IEEE/ACM International Conference on Automated Software Engineering,Mirzaaghaei2014
+Static analysis of mutant subsumption,"Bob, Paul, Jeff",2015-4,10.1109/ICSTW.2015.7107454,"2015 IEEE Eighth International Conference on Software Testing, Verification and Validation Workshops (ICSTW)",
+Strong higher order mutation-based test data generation,"Mark, Yue, William B.",2011,10.1145/2025113.2025144,Proceedings of the 19th ACM SIGSOFT symposium and the 13th European conference on Foundations of software engineering - SIGSOFT/FSE '11,
+Structural Coverage Criteria for Neural Networks Could Be Misleading,"Zenan, Xiaoxing, Chang, Chun",2019-5,10.1109/ICSE-NIER.2019.00031,2019 IEEE/ACM 41st International Conference on Software Engineering: New Ideas and Emerging Results (ICSE-NIER),
+Structural Specification-Based Testing: Automated Support and Experimental Evaluation,"Juei, Debra J.",1999,10.1007/3-540-48166-4_18,"Software Engineering — ESEC/FSE ’99, Lecture Notes in Computer Science",
+Structural specification-based testing with ADL,"Chang, Juei and Richardson, Debra J. and Sankar, Sriram",1996,,Proceedings of the 1996 international symposium on Software testing and analysis  - ISSTA '96,Harder2003
+Structural specification-based testing: Automated support and experimental evaluation,"Chang, Juei and Richardson, Debra J.","September 6–10, 1999",,,Harder2003
+Structural testing criteria for message-passing parallel programs,"S. R. S., S. R., P. S. L., A. S., A. C.",2008-11,10.1002/cpe.1297,Concurrency and Computation: Practice and Experience,
+Structural testing of concurrent programs,"Taylor, R.N. and Levine, D.L. and Kelly, C.D.",1992,,,Sherman2009
+Subsumption of condition coverage techniques by mutation testing,"Offutt, A.J. and Voas, J.M.",1996,,,Parsai2016
+Sufficient Mutation Operators for Measuring Test Effectiveness,"Namin, A.S. and Andrews, J.H. and Murdoch, D.J.",2008,,Proceedings of the 13th international conference on Software engineering  - ICSE '08,Inozemtseva2013
+Sufficient mutation operators for measuring test effectiveness,"Akbar, James H., Duncan J.",2008,10.1145/1368088.1368136,Proceedings of the 13th international conference on Software engineering  - ICSE '08,
+Supporting Controlled Experimentation with Testing Techniques: An Infrastructure and its Potential Impact,"Hyunsook, Sebastian, Gregg",2005-10,10.1007/s10664-005-3861-2,Empirical Software Engineering,
+Supporting controlled experimentation with testing techniques: An infrastructure and its potential impact,"Do, H. and Elbaum, S. and Rothermel, G.",2005,,Empirical Software Engineering,Zhang2013
+Swarm testing,"Alex, Chaoqiang, Eric, Yang, John",2012,10.1145/2338965.2336763,Proceedings of the 2012 International Symposium on Software Testing and Analysis - ISSTA 2012,
+Symbolic execution and program testing,James C.,1976-7,10.1145/360248.360252,Communications of the ACM,
+Symbolic execution for software testing in practice,"Cristian, Patrice, Sarfraz, Corina S., Koushik, Nikolai, Willem",2011-5-21,10.1145/1985793.1985995,Proceedings of the 33rd International Conference on Software Engineering,
+Symbolic execution for software testing: Three decades later,"Cadar, C. and Sen, K.",2013-02,,,Holling2016
+Symstra: A framework for generating object-oriented unit tests using symbolic execution,"Xie, T. and Marinov, D. and Schulte, W. and Noktin, D.",2005-04,,"Tools and Algorithms for the Construction and Analysis of Systems, Lecture Notes in Computer Science",Xie2006
+Systematic XACML Request Generation for Testing Purposes,"Bertolino, A. and Lonetti, F. and Marchetti, E.",2010,,2010 36th EUROMICRO Conference on Software Engineering and Advanced Applications,Daoudagh2015
+Taming Google-scale continuous testing,"Atif, , , Sanjeev, Eric, Rob, John",2017-5,10.1109/ICSE-SEIP.2017.16,2017 IEEE/ACM 39th International Conference on Software Engineering: Software Engineering in Practice Track (ICSE-SEIP),
+Teaching Mutation Testing using Gamification,"Rojas, J.M. and Fraser, G.",2016,,,Rojas2017
+Test Driven Development: By Example,"Beck, K.",2002,,,Bowes2017
+Test Input Generation for Java Containers using State Matching”,"Visser, W. and Pasareanu, C.S. and Pelánek, R.",2006,,Proceedings of the 2006 international symposium on Software testing and analysis  - ISSTA'06,Godio2019
+Test Input Generation with Java PathFinder”,"Visser, W. and Pasareanu, C.S. and Khurshid, S.",2004,,Proceedings of the 2004 ACM SIGSOFT international symposium on Software testing and analysis  - ISSTA '04,Godio2019
+Test Suite Reduction with Selective Redundancy,"Jeffrey, D. and Gupta, N.",2005,,21st IEEE International Conference on Software Maintenance (ICSM'05),RealesMateo2013
+Test case prioritization: An empirical study,"Rothermel, G. and Untch, R.H. and Chu, C. and Harrold, M.J.",1999,,,Gopinath2017a
+Test case prioritization: a family of empirical studies,"S., A.G., G.",2002,10.1109/32.988497,IEEE Transactions on Software Engineering,
+Test case quality in test driven development: A study design and a pilot experiment,"Causevic, A. and Sundmark, D. and Punnekkat, S.",2012,,16th International Conference on Evaluation & Assessment in Software Engineering (EASE 2012),Bowes2017
+Test code quality and its relation to issue handling performance,"Athanasiou, D. and Nugroho, A. and Visser, J. and Zaidman, A.",2014-11,,IEEE Transactions on Software Engineering,Tengeri2016
+Test coverage and post- verification defects: A multiple case study,"Mockus, A. and Nagappan, N. and Dinh-Trong, T.",2009,,2009 3rd International Symposium on Empirical Software Engineering and Measurement,Kracht2014
+Test coverage and post-verification defects: A multiple case study,"Audris, Nachiappan, Trung T.",2009-10,10.1109/ESEM.2009.5315981,2009 3rd International Symposium on Empirical Software Engineering and Measurement,
+Test coverage of impacted code elements for detecting refactoring faults: An exploratory study,"Everton L.G., Tiago, Patrícia Duarte de Lima",2017-1,10.1016/j.jss.2016.02.001,Journal of Systems and Software,
+"Test early, test often”","McGregor, J.D.",2007-05,,The Journal of Object Technology,Parsai2016
+Test generation through programming in UDITA,"Milos, Tihomir, Vilas, Sarfraz, Viktor, Darko",2010,10.1145/1806799.1806835,Proceedings of the 32nd ACM/IEEE International Conference on Software Engineering - ICSE '10,
+Test generation via Dynamic Symbolic Execution for mutation testing,"Lingming, Tao, Lu, Nikolai, Jonathan, Hong",2010-9,10.1109/ICSM.2010.5609672,2010 IEEE International Conference on Software Maintenance,
+Test generation via dynamic symbolic execution for mutation testing,"Zhang, L. and Xie, T. and Zhang, L. and Tillmann, N. and Halleux, J. and Mei, H.",2010,,2010 IEEE International Conference on Software Maintenance,Just2014a
+Test input generation for Java containers using state matching,"W. Visser, C. S. Păsăreanu and Pelánek., R.",2006-07,,Proceedings of the 2006 international symposium on Software testing and analysis  - ISSTA'06,Robinson2011
+Test input generation for java containers using state matching,"Willem, Corina S., Radek",2006,10.1145/1146238.1146243,Proceedings of the 2006 international symposium on Software testing and analysis  - ISSTA'06,
+Test input generation with Java PathFinder,"Visser, W. and Pasareanu, C.S. and Khurshid, S.",2004,,Proceedings of the 2004 ACM SIGSOFT international symposium on Software testing and analysis  - ISSTA '04,Xie2006
+Test suite evaluation using code coverage based metrics,"Horváth, F. and Vancsics, B. and Vidács, L. and Beszédes, Á. and Tengeri, D. and Gergely, T. and Gyimóthy, T.",2015-10,,,Tengeri2016
+Test suite prioritization by interaction coverage,"Bryce, R.C. and Memon, A.M.",2007,,,Mirzaaghaei2014
+Test suite reduction for fault detection and localization: A combined approach,"Vidács, L. and Beszédes, Á. and Tengeri, D. and Siket, I. and Gyimóthy, T.",2014,,"2014 Software Evolution Week - IEEE Conference on Software Maintenance, Reengineering, and Reverse Engineering (CSMR-WCRE)",Tengeri2015
+Test-Data Generation Guided by Static Defect Detection,"Dan, Lu, Ming-Hao, He, Jia-Su",2009-3,10.1007/s11390-009-9224-5,Journal of Computer Science and Technology,
+Test-Suite Augmentation for Evolving Software,"Raul, Pavan Kumar, Taweesup, Alessandro, Mary Jean",2008-9,10.1109/ASE.2008.32,2008 23rd IEEE/ACM International Conference on Automated Software Engineering,
+Test-case generation for embedded simulink via formal concept analysis,"He, N. and Rümmer, P. and Kroening, D.",2011,,Proceedings of the 48th Design Automation Conference on - DAC '11,Zhu2018
+Test-suite reduction and prioritization for modified condition/decision coverage,"Jones, James A. and Harrold, Mary Jean","November 6–10, 2001",,Proceedings IEEE International Conference on Software Maintenance. ICSM 2001,Harder2003
+Test-suite reduction does not necessarily require executing the program under test,"Felbinger, H. and Wotawa, F. and Nica, M.",2016-08,,"2016 IEEE International Conference on Software Quality, Reliability and Security Companion (QRS-C)",Felbinger2017
+Test-suite reduction for model based tests: Effects on test quality and implications for testing,"Heimdahl, M.P. and Devaraj, G.",2004-09,,"Proceedings. 19th International Conference on Automated Software Engineering, 2004.",Rajan2008
+TestEra: A novel framework for automated testing of Java programs,"Marinov, D. and Khurshid, S.",2001,,Proceedings 16th Annual International Conference on Automated Software Engineering (ASE 2001),Kracht2014
+TestEra: Specification-Based Testing of Java Programs Using SAT,"Sarfraz, Darko",2004-10,10.1023/B:AUSE.0000038938.10589.b9,Automated Software Engineering,
+TestEra: Specification-Based Testing of Java Programs Using SAT”,"Khurshid, S. and Marinov, D.",2004,,Automated Software Engineering,Godio2019
+Testability explorer: using byte-code analysis to engineer lasting social changes in an organization’s software development process,"Hevery, M.",2008,,,Aaltonen2010
+Testability transformation,"Harman, M. and Hu, L. and Hierons, R. and Wegener, J. and Sthamer, H. and Baresel, A. and Roper, M.",2004,,,Gligoric2017
+Testing Container Classes: Random or Systematic?,"Rohan, Milos, Andrea, Gordon, Darko",2011,10.1007/978-3-642-19811-3_19,"Fundamental Approaches to Software Engineering, Lecture Notes in Computer Science",
+Testing Programs with the Aid of a Compiler,R.G.,1977-7,10.1109/TSE.1977.231145,IEEE Transactions on Software Engineering,
+Testing Programs with the Aid of a Compiler”,"Hamlet, R.",1977-07,,IEEE Transactions on Software Engineering,Parsai2016
+Testing concurrent Java programs using randomized scheduling,"Stoller, S.D.",2002-07,,Electronic Notes in Theoretical Computer Science,Sherman2009
+Testing container classes: Random or systematic?,"Sharma, R. and Gligoric, M. and Arcuri, A. and Fraser, G. and Marinov, D.",2011,,"Fundamental Approaches to Software Engineering, Lecture Notes in Computer Science",Zhang2013
+Testing container classes: random or systematic?,"Sharma, R. and Gligoric, M. and Arcuri, A. and Fraser, G. and Marinov, D.",2011,,"Fundamental Approaches to Software Engineering, Lecture Notes in Computer Science",Godio2019
+Testing context-aware middleware-centric programs: a data flow approach and an RFID-based experimentation,"Lu, H. and Chan, W. and Tse, T.",2006,,,Zhu2018
+Testing first: emphasizing testing in early programming courses,"Marrero, W. and Settle, A.",2005,,,Aaltonen2010
+Testing models and model transformations using classifying terms,"Hilken, F. and Gogolla, M. and Burgueño, L. and Vallecillo, A.",2018,,,GomezAbajo2020
+Testing programs with the aid of a compiler,"Hamlet, R.G.",1977,,IEEE Transactions on Software Engineering,Kracht2014
+Testing real-time embedded software using uppaal-tron: an industrial case study,"Larsen, K.G. and Mikucionis, M. and Nielsen, B. and Skou, A.",2005,,,Zhu2018
+Testing security policies: going beyond functional testing,"Traon, Y.Le and Mouelhi, T. and Baudry, B.",2007,,The 18th IEEE International Symposium on Software Reliability (ISSRE '07),Daoudagh2015
+Testing when mobile apps go to background and come back to foreground,"Paiva, A.C. and Gouveia, J.M. and Elizabeth, J.-D. and Delamaro, M.E.",2019,,"2019 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW)",EscobarVelasquez2019
+Testing with respect to concerns,"Souter, A.L. and Shepherd, D. and Pollock, L.L.",2003,,,Xie2006
+Testq: Exploring structural and maintenance characteristics of unit test suites,"Breugelmans, M. and Rompaey, B.V.",2008-07,,,Bowes2017
+The Art of Application Performance Testing,"Molyneaux, I.",2009-01,,,Bruenink2018
+The Art of Software Testing,"Myers, G.J.",1979,,,Gopinath2017a
+The Art of Unit Testing With Examples in .NET,"Osherove, R.",2009,,,Bowes2017
+The Economics of Unit Testing,"Ellims, M. and Bridges, J. and Ince, D.C.",2006-02,,,Bowes2017
+The Effects of Test-Driven Development on External Quality and Productivity: A Meta-Analysis,"Yahya, Vojislav B.",2013-6,10.1109/TSE.2012.28,IEEE Transactions on Software Engineering,
+The Impact of Equivalent Mutants,"Bernhard J. M., David, Andreas",2009,10.1109/ICSTW.2009.37,"2009 International Conference on Software Testing, Verification, and Validation Workshops",
+The Impact of Equivalent Mutants”,"Grun, B. and Schuler, D. and Zeller, A.",2009,,"2009 International Conference on Software Testing, Verification, and Validation Workshops",Parsai2016
+The Major mutation framework: Efficient and scalable mutation analysis for Java,"Just, R.",2014,,Proceedings of the 2014 International Symposium on Software Testing and Analysis - ISSTA 2014,Just2014a
+The Mothra Software Testing Environment,"DeMillo, R.A. and Spafford, E.H.",1986,,,RealesMateo2013
+The Mothra software testing environment users manual,"DeMillo, R. and Martin, R.",1987,,,Zhang2013
+The Mothra software testing environment user’s manual,"DeMillo, R.A. and Martin, R.J.",1987,,,Zhang2012
+The Mothra tool set (software testing),"B.J., R.A., E.W., R.J., A.P., A.J., H., E.H.",,10.1109/HICSS.1989.48002,[1989] Proceedings of the Twenty-Second Annual Hawaii International Conference on System Sciences. Volume II: Software Track,
+The Risks of Coverage-Directed Test Case Generation,"Gregory, Matt, Michael, Mats P. E.",2015-8-1,10.1109/TSE.2015.2421011,IEEE Transactions on Software Engineering,
+The art of software testing,"Myers, Glenford J. and Sandler, Corey and Badgett, Tom",2011,,,Gergely2018
+The category-partition method for specifying and generating functional tests,"Ostrand, T.J. and Balcer, M.J.",1988-06,,Communications of the ACM,Harder2003
+The chaining approach for software test data generation,"Ferguson, R. and Korel, B.",1996-01,,,Robinson2011
+The class-level mutants of MuJava,"Jeff, Yu-Seung, Yong-Rae",2006,10.1145/1138929.1138945,Proceedings of the 2006 international workshop on Automation of software test  - AST '06,
+The csaw c mutation tool: Initial results,"Ellims, M. and Ince, D. and Petre, M.",2007-09,,Testing: Academic and Industrial Conference Practice and Research Techniques - MUTATION (TAICPART-MUTATION 2007),Holling2016
+The dynamic domain reduction approach to test data generation,"Offutt, A.J. and Jin, Z. and Pan, J.",1999,,,Zhang2012
+The dynamic domain reduction procedure for test data generation,"Offutt, A.J. and Jin, Z. and Pan, J.",1999,,Software: Practice and Experience,Zhang2013
+The economic impacts of inadequate infrastructure for software testing,"Tassey, G.",2002,,,Kracht2014
+The effect of code coverage on fault detection under different testing profiles,"Xia, Michael R.",2005-7,10.1145/1082983.1083288,ACM SIGSOFT Software Engineering Notes,
+The effectiveness of t-way test data generation,"Ellims, M. and Ince, D. and Petre, M.",2008,,"Lecture Notes in Computer Science, Computer Safety, Reliability, and Security",Felbinger2017
+The effectiveness of test coverage criteria for relational database schema integrity constraints,"McMinn, P. and Wright, C.J. and Kapfhammer, G.M.",2015,,ACM Transactions on Software Engineering and Methodology,McMinn2019
+The evaluation of program-based software test data adequacy criteria,"Weyuker, E.J.",1988,,Communications of the ACM,Kracht2014
+The growth of software testing,"Gelperin, D. and Hetzel, B.",1988,,,Kracht2014
+The impact of Test-First programming on branch coverage and mutation score indicator of unit tests: An experiment,Lech,2010-2,10.1016/j.infsof.2009.08.007,Information and Software Technology,
+The impact of equivalent mutants,"Grun, B. and Schuler, D. and Zeller, A.",2009,,"2009 International Conference on Software Testing, Verification, and Validation Workshops",McMinn2019
+"The impact of equivalent, redundant and quasi mutants on database schema mutation analysis","Wright, C.J.",2014,,2014 14th International Conference on Quality Software,McMinn2019
+The impact of fault type on the relationship between code coverage and fault detection,"Amanda, Michael",2016,10.1145/2896921.2896926,Proceedings of the 11th International Workshop on Automation of Software Test - AST '16,
+The influence of size and coverage on test suite effectiveness,"Akbar Siami, James H.",2009,10.1145/1572272.1572280,Proceedings of the eighteenth international symposium on Software testing and analysis - ISSTA '09,
+The major mutation framework: Efficient and scalable mutation analysis for Java,"Just, R.",2014,,Proceedings of the 2014 International Symposium on Software Testing and Analysis - ISSTA 2014,Lindstroem2016
+The major mutation framework: efficient and scalable mutation analysis for Java,René,2014,10.1145/2610384.2628053,Proceedings of the 2014 International Symposium on Software Testing and Analysis - ISSTA 2014,
+The risks of coverage-directed test case generation,"Gay, G. and Staats, M. and Whalen, M. and Heimdahl, M.P.E.",2015-08,,,Bruenink2018
+The use of mutation in testing experiments and its sensitivity to external threats,"Akbar Siami, Sahitya",2011,10.1145/2001420.2001461,Proceedings of the 2011 International Symposium on Software Testing and Analysis - ISSTA '11,
+Theoretical and empirical studies on using program mutation to test the functional correctness of programs,"Timothy A., Richard A., Richard J., Frederick G.",1980,10.1145/567446.567468,Proceedings of the 7th ACM SIGPLAN-SIGACT symposium on Principles of programming languages  - POPL '80,
+Threats to the validity and value of empirical assessments of the accuracy of coverage-based fault locators,"Friedrich, Marcus, Rui",2013-7-15,10.1145/2483760.2483767,Proceedings of the 2013 International Symposium on Software Testing and Analysis,
+Threats to the validity of mutation-based test assessment,"Papadakis, M. and Henard, C. and Harman, M. and Jia, Y. and Traon, Y.Le",2016,,Proceedings of the 25th International Symposium on Software Testing and Analysis,McMinn2019
+Tool support for unit testing of aspect-oriented software,"Zhao, J.",2002-11,,,Xie2006
+Tool-assisted unit test generation and selection based on operational abstractions,"Xie, T. and Notkin, D.",2006-07,,Automated Software Engineering,Robinson2011
+Tools and techniques for Java API testing,"Hoffman, Daniel and Strooper, Paul",2000,,Proceedings 2000 Australian Software Engineering Conference,Harder2003
+Toolset and Program Repository for Code Coverage-Based Test Suite Analysis and Manipulation,"David, Arpad, David, Tibor",2014-9,10.1109/SCAM.2014.38,2014 IEEE 14th International Working Conference on Source Code Analysis and Manipulation,
+Toolset and program repository for code coverage-based test suite analysis and manipulation,"Tengeri, D. and Beszédes, Á. and Havas, D. and Gyimóthy, T.",2014-09,,2014 IEEE 14th International Working Conference on Source Code Analysis and Manipulation,Tengeri2015
+Toward a framework and benchmark for testing tools for multi-threaded programs,"Eytani, Y. and Havelund, K. and Stoller, S.D. and Ur, S.",2007,,,Sherman2009
+Toward a software testing and reliability early warning metric suite,"Nagappan, N.",2004,,Proceedings. 26th International Conference on Software Engineering,Bowes2017
+Toward a theory of test data selection,"John B., Susan L.",1975-6,10.1109/TSE.1975.6312836,IEEE Transactions on Software Engineering,
+Toward generalization of mutant clustering results in mutation testing,"Derezińska, A.",2015,,"Advances in Intelligent Systems and Computing, Soft Computing in Computer and Information Science",Gopinath2017a
+Toward practical mutation analysis for evaluating the quality of student-written software tests,"Zalia, Stephen H.",2013-8-12,10.1145/2493394.2493402,Proceedings of the ninth annual international ACM conference on International computing education research,
+Toward the Determination of Sufficient Mutant Operators for C,"Barbosa, E.F. and Maldonado, J.C. and Vincenzi, A.M.R.",2001-06,,"Software Testing, Verification and Reliability",Inozemtseva2013
+Toward the determination of sufficient mutant operators for C,"Ellen Francine, Jos� Carlos, Auri Marcelo Rizzo",2001,10.1002/stvr.226,"Software Testing, Verification and Reliability",
+Toward variability-aware testing,"Christian, Alexander, Sebastian, Jonas, Sven, Tillmann, Klaus",2012,10.1145/2377816.2377817,Proceedings of the 4th International Workshop on Feature-Oriented Software Development - FOSD '12,
+Towards a deeper understanding of test coverage,"Kanstrén, Teemu",2008,,Journal of Software Maintenance and Evolution: Research and Practice,Gergely2018
+Towards a model-driven engineering solution for language independent mutation testing,"Gómez-Abajo, P. and Guerra, E. and Lara, J. and Merayo, M.G.",2018,,,GomezAbajo2020
+Towards a practical approach to test aspect-oriented software,"Zhou, Y. and Richardson, D. and Ziv, H.",2004-09,,,Xie2006
+Towards a taxonomy for Simulink model mutations,"Stephan, M. and Alalfi, M.H. and Cordy, J.R.",2014,,"2014 IEEE Seventh International Conference on Software Testing, Verification and Validation Workshops",Zhu2018
+Towards a taxonomy of SUnit tests,"Gaelli, Markus and Lanza, Michele and Nierstrasz, Oscar",2005,,,Gergely2018
+Towards an operationalization of test-driven development skills: An industrial empirical study,"Fucci, D. and Turhan, B. and Juristo, N. and Dieste, O. and Tosun-Misirli, A. and Oivo, M.",2015,,Information and Software Technology,Bowes2017
+Towards automated unit testing of state-chart implementations,"Burton, Simon",1999,,,Harder2003
+Towards automating the generation of mutation tests,"Mike, Nicos, Maria",2010,10.1145/1808266.1808283,Proceedings of the 5th Workshop on Automation of Software Test - AST '10,
+Towards building a solid empirical body of knowledge in testing techniques,"N., A. M., S.",2004-9,10.1145/1022494.1022544,ACM SIGSOFT Software Engineering Notes,
+Towards effective mutation testing for ATL,"Guerra, E. and Sánchez Cuadrado, J. and Lara, J.",2019,,2019 ACM/IEEE 22nd International Conference on Model Driven Engineering Languages and Systems (MODELS),GomezAbajo2020
+Towards mutation analysis of android apps,"Deng, L. and Mirzaei, N. and Ammann, P. and Offutt, J.",2015,,"2015 IEEE Eighth International Conference on Software Testing, Verification and Validation Workshops (ICSTW)",EscobarVelasquez2019
+Towards systematic mutations for and with ATL model transformations,"Troya, J. and Bergmayr, A. and Burgueño, L. and Wimmer, M.",2015,,"2015 IEEE Eighth International Conference on Software Testing, Verification and Validation Workshops (ICSTW)",GomezAbajo2020
+Towards the systematic testing of aspect-oriented programs,"Alexander, R.T. and Bieman, J.M. and Andrews, A.A.",2004,,,Xie2006
+Transforming mutation testing from the technology of the future into the technology of the present,"Ammann, P.",2015,,,Tengeri2016
+Transforming programs and tests in tandem for fault localization,"Xia, Lingming",2017-10-12,10.1145/3133916,Proceedings of the ACM on Programming Languages,
+"Trivial Compiler Equivalence: A Large Scale Empirical Study of a Simple, Fast and Effective Equivalent Mutant Detection Technique","Mike, Yue, Mark, Yves",2015-5,10.1109/ICSE.2015.103,2015 IEEE/ACM 37th IEEE International Conference on Software Engineering,
+"Trivial compiler equivalence: A large scale empirical study of a simple, fast and effective equivalent mutant detection technique","Papadakis, M. and Jia, Y. and Harman, M. and Traon, Y.Le",2015,,2015 IEEE/ACM 37th IEEE International Conference on Software Engineering,McMinn2019
+Two Notions of Correctness and Their Relation to Testing,"Budd, T.A. and Angluin, D.",1982-03,,Acta Informatica,RealesMateo2013
+Two notions of correctness and their relation to testing,"Timothy A., Dana",1982,10.1007/BF00625279,Acta Informatica,
+Type sensitive application of mutation operators for dynamically typed programs,"Bottaci, L.",2010,,"2010 Third International Conference on Software Testing, Verification, and Validation Workshops",McMinn2019
+Un-)Covering Equivalent Mutants,"Schuler, D. and Zeller, A.",2010,,"2010 Third International Conference on Software Testing, Verification and Validation",RealesMateo2013
+Un-)covering equivalent mutants,"Schuler, D. and Zeller, A.",2010,,"2010 Third International Conference on Software Testing, Verification and Validation",Just2014a
+Understanding myths and realities of test-suite evolution,"Pinto, L.S. and Sinha, S. and Orso, A.",2012,,Proceedings of the ACM SIGSOFT 20th International Symposium on the Foundations of Software Engineering - FSE '12,Tengeri2015
+Unit Test Frameworks: Tools for High-Quality Software Development,"Hamill, Paul",2004,,,Gergely2018
+Unit testing aspectual behavior,"Lopes, C.V. and Ngo, T.",2005-03,,,Xie2006
+Unit testing tool competition: round four,"Rueda, U. and Just, R. and Galeotti, J.P. and Vos, T.E.",2016,,,Rojas2017
+Unit testing with JUnit - tutorial,"Vogella, L.",,,,Kracht2014
+UnitPlus: Assisting Developer Testing in Eclipse,"Song, Y. and Thummalapenta, S. and Xie, T.",2007,,,Zhi2013
+Using Branch Frequency Spectra to Evaluate Operational Coverage,"Marc, David S.",2017-12,10.1109/APSEC.2017.21,2017 24th Asia-Pacific Software Engineering Conference (APSEC),
+Using Conditional Mutation to Increase the Efficiency of Mutation Analysis,"Just, R. and Kapfhammer, G.M. and Schweiggert, F.",2010,,Proceeding of the 6th international workshop on Automation of software test - AST '11,RealesMateo2013
+Using Constraints for Equivalent Mutant Detection,"Simona, Franz",2012-7-8,10.4204/EPTCS.86.1,Electronic Proceedings in Theoretical Computer Science,
+Using Logic Criterion Feasibility to Reduce Test Set Size While Guaranteeing Fault Detection,"Kaminski, G. and Amman, P.",2009,,2009 International Conference on Software Testing Verification and Validation,RealesMateo2013
+"Using Mutants to Locate ""Unknown"" Faults","Mike, Yves",2012-4,10.1109/ICST.2012.159,"2012 IEEE Fifth International Conference on Software Testing, Verification and Validation",
+Using Mutation Analysis for Assessing and Comparing Testing Coverage Criteria,"J.H., L.C., Y., A.S.",2006-8,10.1109/TSE.2006.83,IEEE Transactions on Software Engineering,
+Using Non-redundant Mutation Operators and Test Suite Prioritization to Achieve Efficient and Scalable Mutation Analysis,"Rene, Gregory M., Franz",2012-11,10.1109/ISSRE.2012.31,2012 IEEE 23rd International Symposium on Software Reliability Engineering,
+Using Pre-Release Test Failures to Build Early Post-Release Defect Prediction Models,"Herzig, K.",2014,,2014 IEEE 25th International Symposium on Software Reliability Engineering,Bowes2017
+Using Program Slicing to Assist in the Detection of Equivalent Mutants,"Hierons, R. and Harman, M. and Danicic, S.",1999-12,,"Software Testing, Verification and Reliability",RealesMateo2013
+Using compiler optimization techniques to detect equivalent mutants,"A. Jefferson, W. Michael",1994,10.1002/stvr.4370040303,"Software Testing, Verification and Reliability",
+Using conditional mutation to increase the efficiency of mutation analysis,"René, Gregory M., Franz",2011,10.1145/1982595.1982606,Proceeding of the 6th international workshop on Automation of software test - AST '11,
+Using contracts and boolean queries to improve the quality of automatic test generation”,"Liu, L. and Meyer, B. and Schoeller, B.",2007,,"Tests and Proofs, Lecture Notes in Computer Science",Godio2019
+Using data flow patterns for equivalent mutant detection,"Kintis, M. and Malevris, N.",2014,,"2014 IEEE Seventh International Conference on Software Testing, Verification and Validation Workshops",Tengeri2016
+Using fault history to improve mutation reduction,"Laura, Hadi, Reid",2013,10.1145/2491411.2494586,Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering - ESEC/FSE 2013,
+Using model checking to generate tests from requirements specifications,"Gargantini, A. and Heitmeyer, C.",1999-11,,ACM SIGSOFT Software Engineering Notes,Rajan2008
+Using mutation analysis for assessing and comparing testing coverage criteria,"Andrews, J. and Briand, L. and Labiche, Y. and Namin, A.",2006,,IEEE Transactions on Software Engineering,Kracht2014
+Using non-redundant mutation operators and test suite prioritization to achieve efficient and scalable mutation analysis,"Just, R. and Kapfhammer, G.M. and Schweiggert, F.",2012,,2012 IEEE 23rd International Symposium on Software Reliability Engineering,Lindstroem2016
+Using program slicing to assist in the detection of equivalent mutants,"Rob, Mark, Sebastian",1999-12,10.1002/(SICI)1099-1689(199912)9:4<233::AID-STVR191>3.0.CO;2-3,"Software Testing, Verification and Reliability",
+Using simulation for assessing the real impact of test coverage on defect coverage,"Briand, L. and Pfahl, D.",1999,,Proceedings 10th International Symposium on Software Reliability Engineering (Cat. No.PR00443),Mirzaaghaei2014
+Using simulation to empiricall investigate test coverage criteria based on statechart,"Briand, L. and Labiche, Y. and Wang, Y.",2004,,Proceedings. 26th International Conference on Software Engineering,Zhang2013
+Using software testing to move students from trial-and-error to reflection-in-action,Stephen H.,2004,10.1145/971300.971312,Proceedings of the 35th SIGCSE technical symposium on Computer science education  - SIGCSE '04,
+Using state infection conditions to detect equivalent mutants and speed up mutation analysis,"Just, R. and Ernst, M.D. and Fraser, G.",2013,,,Just2014a
+Using test case reduction and prioritization to improve symbolic execution,"Chaoqiang, Alex, Mohammad Amin",2014,10.1145/2610384.2610392,Proceedings of the 2014 International Symposium on Software Testing and Analysis - ISSTA 2014,
+Using the city metaphor for visualizing test-related metrics,"Balogh, G. and Gergely, T. and Beszédes, Á. and Gyimóthy, T.",2016,,"2016 IEEE 23rd International Conference on Software Analysis, Evolution, and Reengineering (SANER)",Rojas2017
+Validating Second-Order Mutation at System Level,"Pedro, Macario, Jose Luis",2013-4,10.1109/TSE.2012.39,IEEE Transactions on Software Engineering,
+Validating and Improving Test-Case Effectiveness,"Chernak, Y.",2001,,IEEE Software,Bowes2017
+Validating and improving test-case effectiveness,"Chernak, Y.",2001-01,,IEEE Software,Tengeri2015
+Validation in model-driven engineering: testing model transformations,"Fleurey, F. and Steel, J. and Baudry, B.",2004,,"Proceedings. 2004 First International Workshop on Model, Design and Validation, 2004.",GomezAbajo2020
+Virtual mutation analysis of relational database schemas,"McMinn, P. and Kapfhammer, G.M. and Wright, C.J.",2016,,Proceedings of the 11th International Workshop on Automation of Software Test - AST '16,McMinn2019
+Visualization of test information to assist fault localization,"Jones, J.A. and Harrold, M.J. and Stasko, J.",2002,,Proceedings of the 24th international conference on Software engineering  - ICSE '02,Bruenink2018
+Visualizing code and coverage changes for code review,"Sebastiaan, Arie van, Roberta, Anand Ashok, Alberto",2016-11,10.1145/2950290.2983929,Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering,
+Weak Mutation Testing and Completeness of Test Sets,W.E.,1982-7,10.1109/TSE.1982.235571,IEEE Transactions on Software Engineering,
+Weak mutation testing and completeness of test sets,"Howden, W.E.",1982,,IEEE Transactions on Software Engineering,Just2014a
+What Do the Asserts in a Unit Test Tell Us about Code Quality? A Study on Open Source and Industrial Projects,"M. F., G. A., M. A.",2013-3,10.1109/CSMR.2013.21,2013 17th European Conference on Software Maintenance and Reengineering,
+When only random testing will do,"Hamlet, D.",2006,,Proceedings of the 1st international workshop on Random testing  - RT '06,Gopinath2017a
+"When, how, and why developers (do not) test in their IDEs","Beller, M. and Gousios, G. and Panichella, A. and Zaidman, A.",2015,,Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering,Rojas2017
+Whispec: White-box testing of libraries using declarative specifications”,"Shao, D. and Khurshid, S. and Perry, D.E.",2007,,,Godio2019
+Whole Test Suite Generation,"Gordon, Andrea",2013-2,10.1109/TSE.2012.14,IEEE Transactions on Software Engineering,
+Wodel: a domain-specific language for model mutation,"Gómez-Abajo, P. and Guerra, E. and Lara, J.",2016,,,GomezAbajo2020
+XACMUT: XACML 2.0 Mutants Generator,"Bertolino, A. and Daoudagh, S. and Lonetti, F. and Marchetti, E.",2013,,"2013 IEEE Sixth International Conference on Software Testing, Verification and Validation Workshops",Daoudagh2015
+XSTRESSOR : Automatic Generation of Large-Scale Worst-Case Test Inputs by Inferring Path Conditions,"Charitha, Jinkyu, Milind, Saurabh",2019-4,10.1109/ICST.2019.00011,"2019 12th IEEE Conference on Software Testing, Validation and Verification (ICST)",
+XUnit Test Patterns: Refactoring Test Code,"Meszaros, G.",2006,,,Bowes2017
+You Are the Only Possible Oracle: Effective Test Selection for End Users of Interactive Machine Learning Systems,"Alex, Todd, Chaoqiang, Shalini, Margaret, Weng-Keen, Simone, Shubhomoy, Amber, Forrest, Kevin",2014-3,10.1109/TSE.2013.59,IEEE Transactions on Software Engineering,
+miudroid: An energy-aware mutation testing framework for android,"Jabbarvand, R. and Malek, S.",2017,,Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering,EscobarVelasquez2019
+mrstudyr: Retrospectively studying the effectiveness of mutant reduction techniques,"McCurdy, C.J. and McMinn, P. and Kapfhammer, G.M.",2016,,2016 IEEE International Conference on Software Maintenance and Evolution (ICSME),McMinn2019
+un-)covering equivalent mutants,"Schuler, D. and Zeller, A.",2010,,"2010 Third International Conference on Software Testing, Verification and Validation",McMinn2019
+xUnit Test Patterns: Refactoring Test Code,"Meszaros, G.",2007,,,Zhi2013

@@ -1,0 +1,74 @@
+Identifier,Title,DOI
+Sykora2021,Code Coverage Aware Test Generation Using Constraint Solver,10.1007/978-3-030-67220-1_5
+Cordova2021,A Comparison of Inquiry-Based Conceptual Feedback vs. Traditional Detailed Feedback Mechanisms in Software Testing Education: An Empirical Investigation,10.1145/3408877.3432417
+Clegg2021,An Empirical Study to Determine If Mutants Can Effectively Simulate Students' Programming Mistakes to Increase Tutors' Confidence in Autograding,10.1145/3408877.3432411
+Magalhaes2020,HSP: A hybrid selection and prioritisation of regression test cases based on information retrieval and code coverage applied on an industrial case study,10.1016/j.jss.2019.110430
+Andrade2020,Can operational profile coverage explain post-release bug detection?,10.1002/stvr.1735
+GomezAbajo2020,Systematic Engineering of Mutation Operators,10.5381/jot.2020.19.3.a5
+HarelCanada2020,Is Neuron Coverage a Meaningful Measure for Testing Deep Neural Networks?,10.1145/3368089.3409754
+Souza2020,A Large Scale Study On the Effectiveness of Manual and Automatic Unit Test Generation,10.1145/3422392.3422407
+Virginio2020,JNose: Java Test Smell Detector,10.1145/3422392.3422499
+Wong2020,Efficiently Finding Higher-Order Mutants,10.1145/3368089.3409713
+EscobarVelasquez2019,MutAPK: Source-Codeless Mutant Generation for Android Apps,10.1109/ASE.2019.00109
+Gergely2019,Differences between a static and a dynamic test-to-code traceability recovery method,10.1007/s11219-018-9430-x
+Godio2019,Efficient test generation guided by field coverage criteria,10.1109/ASE.2019.00019
+McMinn2019,Automatic Detection and Removal of Ineffective Mutants for the Mutation Analysis of Relational Database Schemas,10.1109/TSE.2017.2786286
+Bruenink2018,Using Branch Frequency Spectra to Evaluate Operational Coverage,10.1109/APSEC.2017.21
+Gergely2018,Analysis of static and dynamic test-to-code traceability information,10.14232/actacyb.23.3.2018.11
+Groce2018,"An Extensible, Regular-Expression-Based Tool for Multi-Language Mutant Generation",10.1145/3183440.3183485
+Hilton2018,A Large-Scale Study of Test Coverage Evolution,10.1145/3238147.3238183
+Vercammen2018,Goal-oriented mutation testing with focal methods,10.1145/3278186.3278190
+Zhu2018,Mutation testing for physical computing,10.1109/QRS.2018.00042
+Tosun2018,On the Effectiveness of Unit Tests in Test-Driven Development,10.1145/3202710.3203153
+Gopinath2017,Does choice of mutation tool matter?,10.1007/s11219-016-9317-7
+Bach2017,The Impact of Coverage on Bug Density in a Large Industrial Software Project,10.1109/ESEM.2017.44
+Bowes2017,How Good Are My Tests?,10.1109/WETSoM.2017.2
+Brown2017,The Care and Feeding of Wild-Caught Mutants,10.1145/3106237.3106280
+Felbinger2017,"Mutation Score, Coverage, Model Inference: Quality Assessment for T-Way Combinatorial Test-Suites",10.1109/ICSTW.2017.36
+Fellner2017,"Model-Based, Mutation-Driven Test Case Generation via Heuristic-Guided Branching Search",10.1145/3127041.3127049
+Gligoric2017,Mutation Testing Meets Approximate Computing,10.1109/ICSE-NIER.2017.15
+Gopinath2017a,Mutation reduction strategies considered harmful,10.1109/TR.2017.2705662
+Magalhaes2017,Evaluating an automatic text-based test case selection using a non-instrumented code coverage analysis,10.1145/3128473.3128478
+Rojas2017,Code Defenders: Crowdsourcing Effective Tests and Subtle Mutants with a Mutation Testing Game,10.1109/ICSE.2017.68
+VanBeckhoven2017,Assessing test suite eectiveness using static metrics,
+Wang2017,Behavioral Execution Comparison: Are Tests Representative of Field Behavior?,10.1109/ICST.2017.36
+Zhang2016,Predictive mutation testing,10.1145/2931037.2931038
+Tengeri2016,"Relating Code Coverage, Mutation Score and Test Suite Reducibility to Defect Density",10.1109/ICSTW.2016.25
+Souza2016,Strong Mutation-Based Test Data Generation Using Hill Climbing,10.1145/2897010.2897012
+Parsai2016a,Evaluating Random Mutant Selection at Class-Level in Projects with Non-Adequate Test Suites,10.1145/2915970.2915992
+Parsai2016,A Model to Estimate First-Order Mutation Coverage from Higher-Order Mutation Coverage,10.1109/QRS.2016.48
+Lindstroem2016,On strong mutation and subsuming mutants,10.1109/ICSTW.2016.28
+Holling2016,Nequivack: Assessing Mutation Score Confidence,10.1109/ICSTW.2016.29
+Ahmed2016,Can testedness be effectively measured?,10.1145/2950290.2950324
+Felbinger2016,Empirical study of correlation between mutation score and model inference based test suite adequacy assessment,10.1145/2896921.2896923
+Daoudagh2015,Assessment of Access Control Systems Using Mutation Testing,10.1109/telerise.2015.10
+Fawaz2015,PBCOV: a property-based coverage criterion,10.1007/s11219-014-9237-3
+Gligoric2015,Guidelines for Coverage-Based Comparisons of Non-Adequate Test Suites,10.1145/2660767
+Horvath2015,Test suite evaluation using code coverage based metrics,
+Shams2015,Checked Coverage and Object Branch Coverage: New Alternatives for Assessing Student-Written Tests,10.1145/2676723.2677300
+Tengeri2015,Beyond code coverage - An approach for test suite assessment and improvement,10.1109/ICSTW.2015.7107476
+Inozemtseva2014,Coverage is not strongly correlated with test suite effectiveness,10.1145/2568225.2568271
+Edwards2014,Comparing Test Quality Measures for Assessing Student-Written Tests,10.1145/2591062.2591164
+Gopinath2014,Code Coverage for Suite Evaluation by Developers,10.1145/2568225.2568278
+Groce2014,Coverage and Its Discontents,10.1145/2661136.2661157
+Yao2014,A Study of Equivalent and Stubborn Mutation Operators Using Human Analysis of Equivalence,10.1145/2568225.2568265
+Just2014,Are Mutants a Valid Substitute for Real Faults in Software Testing?,10.1145/2635868.2635929
+Just2014a,Efficient Mutation Analysis by Propagating and Partitioning Infected Execution States,10.1145/2610384.2610388
+Kracht2014,Empirically Evaluating the Quality of Automatically Generated and Manually Written Test Suites,10.1109/QSIC.2014.33
+Mirzaaghaei2014,DOM-Based Test Adequacy Criteria for Web Applications,10.1145/2610384.2610406
+Inozemtseva2013,Using fault history to improve mutation reduction,10.1145/2491411.2494586
+Zhang2013c,Faster Mutation Testing Inspired by Test Prioritization and Reduction,10.1145/2483760.2483782
+Gligoric2013,Comparing Non-Adequate Test Suites Using Coverage Criteria,10.1145/2483760.2483769
+RealesMateo2013,Validating second-order mutation at system level,10.1109/TSE.2012.39
+Zhi2013,On adequacy of assertions in automated test suites: An empirical investigation,10.1109/ICSTW.2013.49
+Schuler2013,Checked coverage: An indicator for oracle quality,10.1002/stvr.1497
+Zhang2013,Operator-Based and Random Mutant Selection: Better Together,10.1109/ASE.2013.6693070
+Zhang2012,Regression Mutation Testing,10.1145/2338965.2336793
+Robinson2011,Scaling up Automated Test Generation: Automatically Generating Maintainable Regression Unit Tests for Programs,10.1109/ASE.2011.6100059
+Popovic2010,Test case generation for the task tree type of architecture,10.1016/j.infsof.2010.03.001
+Aaltonen2010,Mutation Analysis vs. Code Coverage in Automated Assessment of Students' Testing Skills,10.1145/1869542.1869567
+Sherman2009,Saturation-Based Testing of Concurrent Programs,10.1145/1595696.1595706
+Rajan2008,The Effect of Program and Model Structure on Mc/Dc Test Adequacy Coverage,10.1145/1368088.1368111
+Xie2006,A Framework and Tool Supports for Generating Test Inputs of AspectJ Programs,10.1145/1119655.1119681
+Bradbury2005a,An Empirical Framework for Comparing Effectiveness of Testing and Property-Based Formal Analysis,10.1145/1108768.1108795
+Harder2003,Improving Test Suites via Operational Abstraction,10.1109/icse.2003.1201188
